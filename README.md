@@ -85,6 +85,7 @@
 | [0057-insert-interval](https://github.com/KBhavana5717/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0064-minimum-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0055-jump-game](https://github.com/KBhavana5717/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KBhavana5717/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0064-minimum-path-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -238,6 +240,7 @@
 | [0054-spiral-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0064-minimum-path-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
