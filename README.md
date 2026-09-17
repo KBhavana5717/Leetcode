@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0060-permutation-sequence) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
