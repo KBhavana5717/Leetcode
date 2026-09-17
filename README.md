@@ -45,6 +45,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/KBhavana5717/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/KBhavana5717/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/KBhavana5717/Leetcode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0060-permutation-sequence) |
 ## Array
 |  |
@@ -97,6 +98,7 @@
 | [0032-longest-valid-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/KBhavana5717/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/KBhavana5717/Leetcode/tree/master/0044-wildcard-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0022-generate-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KBhavana5717/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/KBhavana5717/Leetcode/tree/master/0044-wildcard-matching) |
 ## Manacher
 |  |
 | ------- |
@@ -130,6 +133,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KBhavana5717/Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/KBhavana5717/Leetcode/tree/master/0044-wildcard-matching) |
 ## Trie
 |  |
 | ------- |
