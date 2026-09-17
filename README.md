@@ -156,6 +156,7 @@
 | [0076-minimum-window-substring](https://github.com/KBhavana5717/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/KBhavana5717/Leetcode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/KBhavana5717/Leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/KBhavana5717/Leetcode/tree/master/0091-decode-ways) |
 ## Sliding Window
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0072-edit-distance](https://github.com/KBhavana5717/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/KBhavana5717/Leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/KBhavana5717/Leetcode/tree/master/0091-decode-ways) |
 ## Manacher
 |  |
 | ------- |
