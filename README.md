@@ -40,6 +40,7 @@
 | [0050-powx-n](https://github.com/KBhavana5717/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/KBhavana5717/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/KBhavana5717/Leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0059-spiral-matrix-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/KBhavana5717/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
