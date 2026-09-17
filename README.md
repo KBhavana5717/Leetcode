@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/KBhavana5717/Leetcode/tree/master/0061-rotate-list) |
 ## Two Pointers
 |  |
@@ -12,10 +13,12 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0060-permutation-sequence) |
 ## Array
 |  |
