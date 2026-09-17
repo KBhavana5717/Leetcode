@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/KBhavana5717/Leetcode/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
