@@ -82,6 +82,7 @@
 | [0055-jump-game](https://github.com/KBhavana5717/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KBhavana5717/Leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -231,6 +232,7 @@
 | [0036-valid-sudoku](https://github.com/KBhavana5717/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/KBhavana5717/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Algorithm X
 |  |
 | ------- |
