@@ -132,6 +132,7 @@
 | [0130-surrounded-regions](https://github.com/KBhavana5717/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/KBhavana5717/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/KBhavana5717/Leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/KBhavana5717/Leetcode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -353,6 +354,7 @@
 | [0078-subsets](https://github.com/KBhavana5717/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/KBhavana5717/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/KBhavana5717/Leetcode/tree/master/0136-single-number) |
 ## Matrix
 |  |
 | ------- |
