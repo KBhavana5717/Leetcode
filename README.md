@@ -135,6 +135,7 @@
 | [0135-candy](https://github.com/KBhavana5717/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/KBhavana5717/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/KBhavana5717/Leetcode/tree/master/0139-word-break) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/KBhavana5717/Leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/KBhavana5717/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/KBhavana5717/Leetcode/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [0127-word-ladder](https://github.com/KBhavana5717/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/KBhavana5717/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/KBhavana5717/Leetcode/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -254,6 +257,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/KBhavana5717/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/KBhavana5717/Leetcode/tree/master/0139-word-break) |
 ## Manacher
 |  |
 | ------- |
@@ -272,6 +276,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KBhavana5717/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/KBhavana5717/Leetcode/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -409,6 +414,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KBhavana5717/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/KBhavana5717/Leetcode/tree/master/0139-word-break) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -536,4 +542,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/KBhavana5717/Leetcode/tree/master/0133-clone-graph) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/KBhavana5717/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
