@@ -336,6 +336,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/KBhavana5717/Leetcode/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -457,6 +458,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/KBhavana5717/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/KBhavana5717/Leetcode/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -488,6 +490,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -515,6 +518,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
