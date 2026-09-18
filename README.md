@@ -255,6 +255,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KBhavana5717/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -419,6 +420,7 @@
 | [0090-subsets-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/KBhavana5717/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Matrix
 |  |
 | ------- |
@@ -534,6 +536,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/KBhavana5717/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/KBhavana5717/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -565,6 +568,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/KBhavana5717/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/KBhavana5717/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
