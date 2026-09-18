@@ -122,6 +122,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/KBhavana5717/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,6 +224,7 @@
 | [0097-interleaving-string](https://github.com/KBhavana5717/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/KBhavana5717/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Manacher
 |  |
 | ------- |
