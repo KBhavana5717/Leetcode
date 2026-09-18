@@ -153,6 +153,7 @@
 | [0140-word-break-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/KBhavana5717/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KBhavana5717/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -284,6 +285,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/KBhavana5717/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Manacher
 |  |
 | ------- |
