@@ -67,6 +67,7 @@
 | [0287-find-the-duplicate-number](https://github.com/KBhavana5717/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/KBhavana5717/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/KBhavana5717/Leetcode/tree/master/0321-create-maximum-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -372,6 +373,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/KBhavana5717/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0336-palindrome-pairs) |
+| [0345-reverse-vowels-of-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
