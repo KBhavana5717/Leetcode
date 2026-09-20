@@ -311,6 +311,7 @@
 | [0347-top-k-frequent-elements](https://github.com/KBhavana5717/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/KBhavana5717/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## String
 |  |
 | ------- |
@@ -419,6 +420,7 @@
 | [0327-count-of-range-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/KBhavana5717/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -933,6 +935,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KBhavana5717/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KBhavana5717/Leetcode/tree/master/0200-number-of-islands) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Graph Theory
 |  |
 | ------- |
@@ -970,6 +973,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/KBhavana5717/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/KBhavana5717/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/KBhavana5717/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1119,6 +1123,7 @@
 | [0220-contains-duplicate-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KBhavana5717/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Queue
 |  |
 | ------- |
@@ -1183,6 +1188,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/KBhavana5717/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
