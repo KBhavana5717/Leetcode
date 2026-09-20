@@ -97,6 +97,7 @@
 | [0231-power-of-two](https://github.com/KBhavana5717/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/KBhavana5717/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -583,6 +584,7 @@
 | [0059-spiral-matrix-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/KBhavana5717/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/KBhavana5717/Leetcode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0258-add-digits) |
 ## Algorithm X
 |  |
 | ------- |
@@ -876,6 +878,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KBhavana5717/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
