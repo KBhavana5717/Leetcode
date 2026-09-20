@@ -87,6 +87,7 @@
 | [0171-excel-sheet-column-number](https://github.com/KBhavana5717/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/KBhavana5717/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KBhavana5717/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/KBhavana5717/Leetcode/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [0189-rotate-array](https://github.com/KBhavana5717/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KBhavana5717/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/KBhavana5717/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/KBhavana5717/Leetcode/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -742,4 +744,24 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/KBhavana5717/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KBhavana5717/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KBhavana5717/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KBhavana5717/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KBhavana5717/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KBhavana5717/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
