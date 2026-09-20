@@ -243,6 +243,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KBhavana5717/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/KBhavana5717/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/KBhavana5717/Leetcode/tree/master/0321-create-maximum-number) |
+| [0322-coin-change](https://github.com/KBhavana5717/Leetcode/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -454,6 +455,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KBhavana5717/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/KBhavana5717/Leetcode/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/KBhavana5717/Leetcode/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/KBhavana5717/Leetcode/tree/master/0322-coin-change) |
 ## Manacher
 |  |
 | ------- |
@@ -847,6 +849,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/KBhavana5717/Leetcode/tree/master/0322-coin-change) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1065,10 +1068,12 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/KBhavana5717/Leetcode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/KBhavana5717/Leetcode/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/KBhavana5717/Leetcode/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/KBhavana5717/Leetcode/tree/master/0322-coin-change) |
 ## Brainteaser
 |  |
 | ------- |
