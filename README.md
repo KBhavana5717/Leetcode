@@ -100,6 +100,7 @@
 | [0258-add-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/KBhavana5717/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/KBhavana5717/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | [0239-sliding-window-maximum](https://github.com/KBhavana5717/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/KBhavana5717/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 | [0229-majority-element-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KBhavana5717/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/KBhavana5717/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -341,6 +344,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/KBhavana5717/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -449,6 +453,7 @@
 | [0220-contains-duplicate-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KBhavana5717/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/KBhavana5717/Leetcode/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -558,6 +563,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/KBhavana5717/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/KBhavana5717/Leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
