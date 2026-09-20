@@ -192,6 +192,7 @@
 | [0218-the-skyline-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/KBhavana5717/Leetcode/tree/master/0221-maximal-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -363,6 +364,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KBhavana5717/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/KBhavana5717/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/KBhavana5717/Leetcode/tree/master/0221-maximal-square) |
 ## Manacher
 |  |
 | ------- |
@@ -523,6 +525,7 @@
 | [0174-dungeon-game](https://github.com/KBhavana5717/Leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/KBhavana5717/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/KBhavana5717/Leetcode/tree/master/0221-maximal-square) |
 ## Monotonic Stack
 |  |
 | ------- |
