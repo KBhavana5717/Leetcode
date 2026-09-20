@@ -68,6 +68,7 @@
 | [0295-find-median-from-data-stream](https://github.com/KBhavana5717/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/KBhavana5717/Leetcode/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/KBhavana5717/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -261,6 +262,7 @@
 | [0335-self-crossing](https://github.com/KBhavana5717/Leetcode/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/KBhavana5717/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/KBhavana5717/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -305,6 +307,7 @@
 | [0299-bulls-and-cows](https://github.com/KBhavana5717/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/KBhavana5717/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/KBhavana5717/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -411,6 +414,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KBhavana5717/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0327-count-of-range-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/KBhavana5717/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -546,6 +550,7 @@
 | [0324-wiggle-sort-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/KBhavana5717/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/KBhavana5717/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/KBhavana5717/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
