@@ -102,6 +102,7 @@
 | [0264-ugly-number-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/KBhavana5717/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/KBhavana5717/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/KBhavana5717/Leetcode/tree/master/0279-perfect-squares) |
 ## Recursion
 |  |
 | ------- |
@@ -413,6 +414,7 @@
 | [0233-number-of-digit-one](https://github.com/KBhavana5717/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/KBhavana5717/Leetcode/tree/master/0279-perfect-squares) |
 ## Manacher
 |  |
 | ------- |
@@ -781,6 +783,7 @@
 | [0207-course-schedule](https://github.com/KBhavana5717/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/KBhavana5717/Leetcode/tree/master/0279-perfect-squares) |
 ## DP on Trees
 |  |
 | ------- |
@@ -976,4 +979,12 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/KBhavana5717/Leetcode/tree/master/0278-first-bad-version) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/KBhavana5717/Leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/KBhavana5717/Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
