@@ -477,6 +477,7 @@
 | [0322-coin-change](https://github.com/KBhavana5717/Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/KBhavana5717/Leetcode/tree/master/0338-counting-bits) |
 ## Manacher
 |  |
 | ------- |
@@ -657,6 +658,7 @@
 | [0268-missing-number](https://github.com/KBhavana5717/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KBhavana5717/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/KBhavana5717/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/KBhavana5717/Leetcode/tree/master/0338-counting-bits) |
 ## Matrix
 |  |
 | ------- |
