@@ -252,6 +252,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/KBhavana5717/Leetcode/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/KBhavana5717/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0334-increasing-triplet-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -490,6 +491,7 @@
 | [0321-create-maximum-number](https://github.com/KBhavana5717/Leetcode/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/KBhavana5717/Leetcode/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -1139,6 +1141,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Sqrt Decomposition
 |  |
 | ------- |
