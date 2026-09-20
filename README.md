@@ -91,6 +91,7 @@
 | [0223-rectangle-area](https://github.com/KBhavana5717/Leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/KBhavana5717/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/KBhavana5717/Leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0203-remove-linked-list-elements](https://github.com/KBhavana5717/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/KBhavana5717/Leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/KBhavana5717/Leetcode/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -521,6 +523,7 @@
 | [0191-number-of-1-bits](https://github.com/KBhavana5717/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/KBhavana5717/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/KBhavana5717/Leetcode/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
