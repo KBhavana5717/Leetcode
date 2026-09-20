@@ -235,6 +235,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/KBhavana5717/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/KBhavana5717/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KBhavana5717/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/KBhavana5717/Leetcode/tree/master/0312-burst-balloons) |
 ## Hash Table
 |  |
 | ------- |
@@ -440,6 +441,7 @@
 | [0279-perfect-squares](https://github.com/KBhavana5717/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KBhavana5717/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/KBhavana5717/Leetcode/tree/master/0312-burst-balloons) |
 ## Manacher
 |  |
 | ------- |
