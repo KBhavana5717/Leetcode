@@ -96,6 +96,7 @@
 | [0227-basic-calculator-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/KBhavana5717/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/KBhavana5717/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0231-power-of-two](https://github.com/KBhavana5717/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/KBhavana5717/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -302,6 +304,7 @@
 | [0214-shortest-palindrome](https://github.com/KBhavana5717/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/KBhavana5717/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -389,6 +392,7 @@
 | [0213-house-robber-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/KBhavana5717/Leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/KBhavana5717/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Manacher
 |  |
 | ------- |
@@ -487,6 +491,7 @@
 | [0020-valid-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -597,6 +602,7 @@
 | [0070-climbing-stairs](https://github.com/KBhavana5717/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/KBhavana5717/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bubble Sort
 |  |
 | ------- |
