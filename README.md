@@ -191,6 +191,7 @@
 | [0217-contains-duplicate](https://github.com/KBhavana5717/Leetcode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -289,6 +290,7 @@
 | [0187-repeated-dna-sequences](https://github.com/KBhavana5717/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -405,6 +407,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KBhavana5717/Leetcode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -767,6 +770,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/KBhavana5717/Leetcode/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Radix Sort
 |  |
 | ------- |
@@ -846,4 +850,5 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
