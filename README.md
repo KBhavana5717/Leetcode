@@ -251,6 +251,7 @@
 | [0327-count-of-range-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/KBhavana5717/Leetcode/tree/master/0330-patching-array) |
+| [0332-reconstruct-itinerary](https://github.com/KBhavana5717/Leetcode/tree/master/0332-reconstruct-itinerary) |
 ## Hash Table
 |  |
 | ------- |
@@ -361,6 +362,7 @@
 | [0316-remove-duplicate-letters](https://github.com/KBhavana5717/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/KBhavana5717/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/KBhavana5717/Leetcode/tree/master/0332-reconstruct-itinerary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -523,6 +525,7 @@
 | [0274-h-index](https://github.com/KBhavana5717/Leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/KBhavana5717/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0332-reconstruct-itinerary](https://github.com/KBhavana5717/Leetcode/tree/master/0332-reconstruct-itinerary) |
 ## Backtracking
 |  |
 | ------- |
@@ -592,6 +595,7 @@
 | [0239-sliding-window-maximum](https://github.com/KBhavana5717/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/KBhavana5717/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/KBhavana5717/Leetcode/tree/master/0332-reconstruct-itinerary) |
 ## Merge Sort
 |  |
 | ------- |
@@ -750,6 +754,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/KBhavana5717/Leetcode/tree/master/0332-reconstruct-itinerary) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -896,6 +901,7 @@
 | [0210-course-schedule-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/KBhavana5717/Leetcode/tree/master/0332-reconstruct-itinerary) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -1142,4 +1148,16 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KBhavana5717/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0327-count-of-range-sum) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/KBhavana5717/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/KBhavana5717/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/KBhavana5717/Leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
