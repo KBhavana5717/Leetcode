@@ -272,6 +272,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KBhavana5717/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/KBhavana5717/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -354,6 +355,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KBhavana5717/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/KBhavana5717/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -453,15 +455,18 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/KBhavana5717/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/KBhavana5717/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/KBhavana5717/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/KBhavana5717/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -766,10 +771,12 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/KBhavana5717/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/KBhavana5717/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/KBhavana5717/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/KBhavana5717/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Enumeration
 |  |
 | ------- |
