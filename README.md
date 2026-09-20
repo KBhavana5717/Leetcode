@@ -339,6 +339,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/KBhavana5717/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/KBhavana5717/Leetcode/tree/master/0306-additive-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -512,6 +513,7 @@
 | [0257-binary-tree-paths](https://github.com/KBhavana5717/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/KBhavana5717/Leetcode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/KBhavana5717/Leetcode/tree/master/0306-additive-number) |
 ## Stack
 |  |
 | ------- |
