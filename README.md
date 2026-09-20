@@ -456,6 +456,7 @@
 | [0155-min-stack](https://github.com/KBhavana5717/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/KBhavana5717/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/KBhavana5717/Leetcode/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/KBhavana5717/Leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -739,6 +740,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/KBhavana5717/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KBhavana5717/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/KBhavana5717/Leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -860,4 +862,8 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/KBhavana5717/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
