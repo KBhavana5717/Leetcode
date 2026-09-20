@@ -233,6 +233,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/KBhavana5717/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/KBhavana5717/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/KBhavana5717/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -390,6 +391,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/KBhavana5717/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -866,6 +868,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/KBhavana5717/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/KBhavana5717/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/KBhavana5717/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -984,10 +987,12 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/KBhavana5717/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/KBhavana5717/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Sweep Line
 |  |
 | ------- |
@@ -1061,4 +1066,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/KBhavana5717/Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
