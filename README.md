@@ -114,6 +114,7 @@
 | [0326-power-of-three](https://github.com/KBhavana5717/Leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/KBhavana5717/Leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/KBhavana5717/Leetcode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/KBhavana5717/Leetcode/tree/master/0343-integer-break) |
 ## Recursion
 |  |
 | ------- |
@@ -480,6 +481,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/KBhavana5717/Leetcode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/KBhavana5717/Leetcode/tree/master/0343-integer-break) |
 ## Manacher
 |  |
 | ------- |
