@@ -227,6 +227,7 @@
 | [0275-h-index-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0275-h-index-ii) |
 | [0284-peeking-iterator](https://github.com/KBhavana5717/Leetcode/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/KBhavana5717/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/KBhavana5717/Leetcode/tree/master/0289-game-of-life) |
 ## Hash Table
 |  |
 | ------- |
@@ -601,6 +602,7 @@
 | [0212-word-search-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/KBhavana5717/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/KBhavana5717/Leetcode/tree/master/0289-game-of-life) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -616,6 +618,7 @@
 | [0067-add-binary](https://github.com/KBhavana5717/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/KBhavana5717/Leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/KBhavana5717/Leetcode/tree/master/0289-game-of-life) |
 ## Algorithm X
 |  |
 | ------- |
