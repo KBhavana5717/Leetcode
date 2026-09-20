@@ -220,6 +220,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/KBhavana5717/Leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/KBhavana5717/Leetcode/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -457,6 +458,7 @@
 | [0229-majority-element-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KBhavana5717/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KBhavana5717/Leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/KBhavana5717/Leetcode/tree/master/0274-h-index) |
 ## Backtracking
 |  |
 | ------- |
@@ -963,4 +965,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KBhavana5717/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/KBhavana5717/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
