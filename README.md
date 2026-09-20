@@ -198,6 +198,7 @@
 | [0220-contains-duplicate-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/KBhavana5717/Leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/KBhavana5717/Leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -234,6 +235,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/KBhavana5717/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -417,6 +419,7 @@
 | [0217-contains-duplicate](https://github.com/KBhavana5717/Leetcode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0229-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -802,10 +805,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KBhavana5717/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KBhavana5717/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0229-majority-element-ii) |
 ## Rolling Hash
 |  |
 | ------- |
