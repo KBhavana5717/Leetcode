@@ -63,6 +63,7 @@
 | [0189-rotate-array](https://github.com/KBhavana5717/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KBhavana5717/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/KBhavana5717/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -225,6 +226,7 @@
 | [0274-h-index](https://github.com/KBhavana5717/Leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0275-h-index-ii) |
 | [0284-peeking-iterator](https://github.com/KBhavana5717/Leetcode/tree/master/0284-peeking-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/KBhavana5717/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -356,6 +358,7 @@
 | [0268-missing-number](https://github.com/KBhavana5717/Leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/KBhavana5717/Leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/KBhavana5717/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -578,6 +581,7 @@
 | [0231-power-of-two](https://github.com/KBhavana5717/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/KBhavana5717/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KBhavana5717/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -819,6 +823,7 @@
 | [0141-linked-list-cycle](https://github.com/KBhavana5717/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/KBhavana5717/Leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/KBhavana5717/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -881,6 +886,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/KBhavana5717/Leetcode/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/KBhavana5717/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |
