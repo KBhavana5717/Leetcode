@@ -336,6 +336,7 @@
 | [0290-word-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/KBhavana5717/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -508,6 +509,7 @@
 | [0216-combination-sum-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/KBhavana5717/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/KBhavana5717/Leetcode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -811,6 +813,7 @@
 | [0226-invert-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/KBhavana5717/Leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## DP on Trees
 |  |
 | ------- |
