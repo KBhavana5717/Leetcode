@@ -92,6 +92,7 @@
 | [0224-basic-calculator](https://github.com/KBhavana5717/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/KBhavana5717/Leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/KBhavana5717/Leetcode/tree/master/0233-number-of-digit-one) |
 ## Recursion
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0206-reverse-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/KBhavana5717/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/KBhavana5717/Leetcode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/KBhavana5717/Leetcode/tree/master/0233-number-of-digit-one) |
 ## Array
 |  |
 | ------- |
@@ -376,6 +378,7 @@
 | [0198-house-robber](https://github.com/KBhavana5717/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/KBhavana5717/Leetcode/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/KBhavana5717/Leetcode/tree/master/0233-number-of-digit-one) |
 ## Manacher
 |  |
 | ------- |
