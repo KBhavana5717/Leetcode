@@ -271,6 +271,7 @@
 | [0264-ugly-number-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/KBhavana5717/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/KBhavana5717/Leetcode/tree/master/0299-bulls-and-cows) |
 ## String
 |  |
 | ------- |
@@ -333,6 +334,7 @@
 | [0282-expression-add-operators](https://github.com/KBhavana5717/Leetcode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/KBhavana5717/Leetcode/tree/master/0299-bulls-and-cows) |
 ## Sliding Window
 |  |
 | ------- |
@@ -908,6 +910,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/KBhavana5717/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/KBhavana5717/Leetcode/tree/master/0299-bulls-and-cows) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
