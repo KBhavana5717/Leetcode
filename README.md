@@ -121,6 +121,7 @@
 | [0343-integer-break](https://github.com/KBhavana5717/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0367-valid-perfect-square](https://github.com/KBhavana5717/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
@@ -429,6 +430,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/KBhavana5717/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/KBhavana5717/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0367-valid-perfect-square](https://github.com/KBhavana5717/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
