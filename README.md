@@ -136,6 +136,7 @@
 | [0391-perfect-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/KBhavana5717/Leetcode/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/KBhavana5717/Leetcode/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/KBhavana5717/Leetcode/tree/master/0400-nth-digit) |
 ## Recursion
 |  |
 | ------- |
@@ -479,6 +480,7 @@
 | [0367-valid-perfect-square](https://github.com/KBhavana5717/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/KBhavana5717/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/KBhavana5717/Leetcode/tree/master/0400-nth-digit) |
 ## Divide and Conquer
 |  |
 | ------- |
