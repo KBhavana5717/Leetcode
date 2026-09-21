@@ -378,6 +378,7 @@
 | [0423-reconstruct-original-digits-from-english](https://github.com/KBhavana5717/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/KBhavana5717/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/KBhavana5717/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0433-minimum-genetic-mutation](https://github.com/KBhavana5717/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## String
 |  |
 | ------- |
@@ -466,6 +467,7 @@
 | [0420-strong-password-checker](https://github.com/KBhavana5717/Leetcode/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/KBhavana5717/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/KBhavana5717/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/KBhavana5717/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1089,6 +1091,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/KBhavana5717/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0433-minimum-genetic-mutation](https://github.com/KBhavana5717/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1099,6 +1102,7 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/KBhavana5717/Leetcode/tree/master/0127-word-ladder) |
+| [0433-minimum-genetic-mutation](https://github.com/KBhavana5717/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Union-Find
 |  |
 | ------- |
