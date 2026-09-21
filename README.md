@@ -309,6 +309,7 @@
 | [0410-split-array-largest-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/KBhavana5717/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/KBhavana5717/Leetcode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -588,6 +589,7 @@
 | [0403-frog-jump](https://github.com/KBhavana5717/Leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/KBhavana5717/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -1315,6 +1317,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/KBhavana5717/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/KBhavana5717/Leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1416,4 +1419,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/KBhavana5717/Leetcode/tree/master/0399-evaluate-division) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
