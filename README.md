@@ -34,6 +34,7 @@
 | [0328-odd-even-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/KBhavana5717/Leetcode/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/KBhavana5717/Leetcode/tree/master/0382-linked-list-random-node) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -949,6 +950,7 @@
 | [0404-sum-of-left-leaves](https://github.com/KBhavana5717/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/KBhavana5717/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/KBhavana5717/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1150,6 +1152,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/KBhavana5717/Leetcode/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Geometry
 |  |
 | ------- |
