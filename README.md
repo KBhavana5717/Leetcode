@@ -454,6 +454,7 @@
 | [0409-longest-palindrome](https://github.com/KBhavana5717/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/KBhavana5717/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0415-add-strings) |
+| [0420-strong-password-checker](https://github.com/KBhavana5717/Leetcode/tree/master/0420-strong-password-checker) |
 ## Sliding Window
 |  |
 | ------- |
@@ -618,6 +619,7 @@
 | [0402-remove-k-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/KBhavana5717/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/KBhavana5717/Leetcode/tree/master/0420-strong-password-checker) |
 ## Trie
 |  |
 | ------- |
@@ -747,6 +749,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/KBhavana5717/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0420-strong-password-checker](https://github.com/KBhavana5717/Leetcode/tree/master/0420-strong-password-checker) |
 ## Merge Sort
 |  |
 | ------- |
