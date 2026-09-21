@@ -120,6 +120,7 @@
 | [0342-power-of-four](https://github.com/KBhavana5717/Leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/KBhavana5717/Leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0365-water-and-jug-problem) |
 ## Recursion
 |  |
 | ------- |
@@ -806,6 +807,7 @@
 | [0332-reconstruct-itinerary](https://github.com/KBhavana5717/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/KBhavana5717/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0365-water-and-jug-problem) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -932,6 +934,7 @@
 | [0310-minimum-height-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/KBhavana5717/Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0365-water-and-jug-problem) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1002,10 +1005,12 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/KBhavana5717/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0365-water-and-jug-problem) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/KBhavana5717/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0365-water-and-jug-problem) |
 ## Iterator
 |  |
 | ------- |
@@ -1232,4 +1237,12 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/KBhavana5717/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
