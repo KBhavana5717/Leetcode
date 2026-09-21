@@ -306,6 +306,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/KBhavana5717/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/KBhavana5717/Leetcode/tree/master/0413-arithmetic-slices) |
 ## Hash Table
 |  |
 | ------- |
@@ -459,6 +460,7 @@
 | [0220-contains-duplicate-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/KBhavana5717/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/KBhavana5717/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/KBhavana5717/Leetcode/tree/master/0413-arithmetic-slices) |
 ## Binary Search
 |  |
 | ------- |
@@ -582,6 +584,7 @@
 | [0397-integer-replacement](https://github.com/KBhavana5717/Leetcode/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/KBhavana5717/Leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/KBhavana5717/Leetcode/tree/master/0413-arithmetic-slices) |
 ## Manacher
 |  |
 | ------- |
