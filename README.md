@@ -124,6 +124,7 @@
 | [0367-valid-perfect-square](https://github.com/KBhavana5717/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/KBhavana5717/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/KBhavana5717/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/KBhavana5717/Leetcode/tree/master/0372-super-pow) |
 ## Recursion
 |  |
 | ------- |
@@ -456,6 +457,7 @@
 | [0324-wiggle-sort-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/KBhavana5717/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/KBhavana5717/Leetcode/tree/master/0372-super-pow) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1253,4 +1255,12 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/KBhavana5717/Leetcode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/KBhavana5717/Leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
