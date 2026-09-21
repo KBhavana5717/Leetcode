@@ -336,6 +336,7 @@
 | [0355-design-twitter](https://github.com/KBhavana5717/Leetcode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KBhavana5717/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/KBhavana5717/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0383-ransom-note](https://github.com/KBhavana5717/Leetcode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -407,6 +408,7 @@
 | [0332-reconstruct-itinerary](https://github.com/KBhavana5717/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/KBhavana5717/Leetcode/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1090,6 +1092,7 @@
 | [0229-majority-element-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/KBhavana5717/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/KBhavana5717/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/KBhavana5717/Leetcode/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
