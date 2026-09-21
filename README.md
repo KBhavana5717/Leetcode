@@ -436,6 +436,7 @@
 | [0354-russian-doll-envelopes](https://github.com/KBhavana5717/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/KBhavana5717/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/KBhavana5717/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/KBhavana5717/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1186,6 +1187,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/KBhavana5717/Leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/KBhavana5717/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Knapsack Problem
 |  |
 | ------- |
