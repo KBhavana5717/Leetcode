@@ -570,6 +570,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/KBhavana5717/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -848,6 +849,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/KBhavana5717/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/KBhavana5717/Leetcode/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
