@@ -138,6 +138,7 @@
 | [0398-random-pick-index](https://github.com/KBhavana5717/Leetcode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/KBhavana5717/Leetcode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KBhavana5717/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/KBhavana5717/Leetcode/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -445,6 +446,7 @@
 | [0402-remove-k-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KBhavana5717/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/KBhavana5717/Leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/KBhavana5717/Leetcode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -838,6 +840,7 @@
 | [0068-text-justification](https://github.com/KBhavana5717/Leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/KBhavana5717/Leetcode/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/KBhavana5717/Leetcode/tree/master/0412-fizz-buzz) |
 ## Algorithm X
 |  |
 | ------- |
