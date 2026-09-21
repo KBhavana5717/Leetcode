@@ -339,6 +339,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/KBhavana5717/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/KBhavana5717/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/KBhavana5717/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -412,6 +413,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/KBhavana5717/Leetcode/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/KBhavana5717/Leetcode/tree/master/0385-mini-parser) |
+| [0387-first-unique-character-in-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1101,6 +1103,7 @@
 | [0299-bulls-and-cows](https://github.com/KBhavana5717/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/KBhavana5717/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/KBhavana5717/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -1198,6 +1201,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/KBhavana5717/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/KBhavana5717/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/KBhavana5717/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0387-first-unique-character-in-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Lifting
 |  |
 | ------- |
