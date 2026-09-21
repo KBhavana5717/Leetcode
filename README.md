@@ -411,6 +411,7 @@
 | [0336-palindrome-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/KBhavana5717/Leetcode/tree/master/0383-ransom-note) |
+| [0385-mini-parser](https://github.com/KBhavana5717/Leetcode/tree/master/0385-mini-parser) |
 ## Sliding Window
 |  |
 | ------- |
@@ -657,6 +658,7 @@
 | [0321-create-maximum-number](https://github.com/KBhavana5717/Leetcode/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/KBhavana5717/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0385-mini-parser](https://github.com/KBhavana5717/Leetcode/tree/master/0385-mini-parser) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -845,6 +847,7 @@
 | [0337-house-robber-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/KBhavana5717/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0385-mini-parser](https://github.com/KBhavana5717/Leetcode/tree/master/0385-mini-parser) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
