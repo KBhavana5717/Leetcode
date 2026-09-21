@@ -373,6 +373,7 @@
 | [0409-longest-palindrome](https://github.com/KBhavana5717/Leetcode/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/KBhavana5717/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/KBhavana5717/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
@@ -460,6 +461,7 @@
 | [0415-add-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/KBhavana5717/Leetcode/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/KBhavana5717/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/KBhavana5717/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
@@ -473,6 +475,7 @@
 | [0239-sliding-window-maximum](https://github.com/KBhavana5717/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/KBhavana5717/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/KBhavana5717/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/KBhavana5717/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
 |  |
 | ------- |
