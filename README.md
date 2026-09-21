@@ -561,6 +561,7 @@
 | [0377-combination-sum-iv](https://github.com/KBhavana5717/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/KBhavana5717/Leetcode/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/KBhavana5717/Leetcode/tree/master/0397-integer-replacement) |
 ## Manacher
 |  |
 | ------- |
@@ -583,6 +584,7 @@
 | [0330-patching-array](https://github.com/KBhavana5717/Leetcode/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/KBhavana5717/Leetcode/tree/master/0397-integer-replacement) |
 ## Trie
 |  |
 | ------- |
@@ -764,6 +766,7 @@
 | [0371-sum-of-two-integers](https://github.com/KBhavana5717/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/KBhavana5717/Leetcode/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/KBhavana5717/Leetcode/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/KBhavana5717/Leetcode/tree/master/0397-integer-replacement) |
 ## Matrix
 |  |
 | ------- |
@@ -832,6 +835,7 @@
 | [0140-word-break-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/KBhavana5717/Leetcode/tree/master/0397-integer-replacement) |
 ## Bubble Sort
 |  |
 | ------- |
