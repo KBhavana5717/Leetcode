@@ -468,6 +468,7 @@
 | [0423-reconstruct-original-digits-from-english](https://github.com/KBhavana5717/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/KBhavana5717/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/KBhavana5717/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0434-number-of-segments-in-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
