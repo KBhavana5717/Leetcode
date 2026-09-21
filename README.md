@@ -127,6 +127,7 @@
 | [0372-super-pow](https://github.com/KBhavana5717/Leetcode/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KBhavana5717/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/KBhavana5717/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Recursion
 |  |
 | ------- |
@@ -282,6 +283,7 @@
 | [0377-combination-sum-iv](https://github.com/KBhavana5717/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KBhavana5717/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/KBhavana5717/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Hash Table
 |  |
 | ------- |
@@ -331,6 +333,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/KBhavana5717/Leetcode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KBhavana5717/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/KBhavana5717/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## String
 |  |
 | ------- |
@@ -1020,6 +1023,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/KBhavana5717/Leetcode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KBhavana5717/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/KBhavana5717/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1289,4 +1293,5 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/KBhavana5717/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/KBhavana5717/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
