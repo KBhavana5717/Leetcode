@@ -361,6 +361,7 @@
 | [0480-sliding-window-median](https://github.com/KBhavana5717/Leetcode/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/KBhavana5717/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/KBhavana5717/Leetcode/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -432,6 +433,7 @@
 | [0457-circular-array-loop](https://github.com/KBhavana5717/Leetcode/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/KBhavana5717/Leetcode/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/KBhavana5717/Leetcode/tree/master/0480-sliding-window-median) |
+| [0491-non-decreasing-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 ## String
 |  |
 | ------- |
@@ -811,6 +813,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/KBhavana5717/Leetcode/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/KBhavana5717/Leetcode/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 ## Stack
 |  |
 | ------- |
@@ -937,6 +940,7 @@
 | [0473-matchsticks-to-square](https://github.com/KBhavana5717/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/KBhavana5717/Leetcode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/KBhavana5717/Leetcode/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 ## Matrix
 |  |
 | ------- |
