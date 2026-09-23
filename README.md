@@ -160,6 +160,7 @@
 | [0470-implement-rand10-using-rand7](https://github.com/KBhavana5717/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/KBhavana5717/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/KBhavana5717/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
+| [0479-largest-palindrome-product](https://github.com/KBhavana5717/Leetcode/tree/master/0479-largest-palindrome-product) |
 ## Recursion
 |  |
 | ------- |
@@ -1365,6 +1366,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KBhavana5717/Leetcode/tree/master/0204-count-primes) |
+| [0479-largest-palindrome-product](https://github.com/KBhavana5717/Leetcode/tree/master/0479-largest-palindrome-product) |
 ## Number Theory
 |  |
 | ------- |
