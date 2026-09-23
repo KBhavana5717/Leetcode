@@ -346,6 +346,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/KBhavana5717/Leetcode/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/KBhavana5717/Leetcode/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/KBhavana5717/Leetcode/tree/master/0473-matchsticks-to-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -666,6 +667,7 @@
 | [0466-count-the-repetitions](https://github.com/KBhavana5717/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/KBhavana5717/Leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/KBhavana5717/Leetcode/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/KBhavana5717/Leetcode/tree/master/0473-matchsticks-to-square) |
 ## Manacher
 |  |
 | ------- |
@@ -784,6 +786,7 @@
 | [0306-additive-number](https://github.com/KBhavana5717/Leetcode/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/KBhavana5717/Leetcode/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/KBhavana5717/Leetcode/tree/master/0473-matchsticks-to-square) |
 ## Stack
 |  |
 | ------- |
@@ -906,6 +909,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/KBhavana5717/Leetcode/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/KBhavana5717/Leetcode/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/KBhavana5717/Leetcode/tree/master/0473-matchsticks-to-square) |
 ## Matrix
 |  |
 | ------- |
@@ -1571,6 +1575,7 @@
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/KBhavana5717/Leetcode/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/KBhavana5717/Leetcode/tree/master/0473-matchsticks-to-square) |
 ## Rejection Sampling
 |  |
 | ------- |
