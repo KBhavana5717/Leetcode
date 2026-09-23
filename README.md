@@ -428,6 +428,7 @@
 | [0605-can-place-flowers](https://github.com/KBhavana5717/Leetcode/tree/master/0605-can-place-flowers) |
 | [0609-find-duplicate-file-in-system](https://github.com/KBhavana5717/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0611-valid-triangle-number](https://github.com/KBhavana5717/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/KBhavana5717/Leetcode/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
 | ------- |
@@ -516,6 +517,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KBhavana5717/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/KBhavana5717/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
+| [0621-task-scheduler](https://github.com/KBhavana5717/Leetcode/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -857,6 +859,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/KBhavana5717/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/KBhavana5717/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/KBhavana5717/Leetcode/tree/master/0621-task-scheduler) |
 ## Trie
 |  |
 | ------- |
@@ -926,6 +929,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/KBhavana5717/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/KBhavana5717/Leetcode/tree/master/0621-task-scheduler) |
 ## Backtracking
 |  |
 | ------- |
@@ -1025,6 +1029,7 @@
 | [0480-sliding-window-median](https://github.com/KBhavana5717/Leetcode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/KBhavana5717/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/KBhavana5717/Leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/KBhavana5717/Leetcode/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1619,6 +1624,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/KBhavana5717/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/KBhavana5717/Leetcode/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
