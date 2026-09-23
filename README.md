@@ -410,6 +410,7 @@
 | [0554-brick-wall](https://github.com/KBhavana5717/Leetcode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/KBhavana5717/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/KBhavana5717/Leetcode/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/KBhavana5717/Leetcode/tree/master/0565-array-nesting) |
 ## Hash Table
 |  |
 | ------- |
@@ -1210,6 +1211,7 @@
 | [0547-number-of-provinces](https://github.com/KBhavana5717/Leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/KBhavana5717/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0565-array-nesting](https://github.com/KBhavana5717/Leetcode/tree/master/0565-array-nesting) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
