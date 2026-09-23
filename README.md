@@ -1187,6 +1187,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/KBhavana5717/Leetcode/tree/master/0547-number-of-provinces) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1357,6 +1358,7 @@
 | [0529-minesweeper](https://github.com/KBhavana5717/Leetcode/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/KBhavana5717/Leetcode/tree/master/0547-number-of-provinces) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1378,6 +1380,7 @@
 | [0200-number-of-islands](https://github.com/KBhavana5717/Leetcode/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/KBhavana5717/Leetcode/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/KBhavana5717/Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1388,6 +1391,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/KBhavana5717/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/KBhavana5717/Leetcode/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/KBhavana5717/Leetcode/tree/master/0547-number-of-provinces) |
 ## Brute-Force Search
 |  |
 | ------- |
