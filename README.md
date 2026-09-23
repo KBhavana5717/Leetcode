@@ -178,6 +178,7 @@
 | [0528-random-pick-with-weight](https://github.com/KBhavana5717/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/KBhavana5717/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/KBhavana5717/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0553-optimal-division](https://github.com/KBhavana5717/Leetcode/tree/master/0553-optimal-division) |
 ## Recursion
 |  |
 | ------- |
@@ -401,6 +402,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/KBhavana5717/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/KBhavana5717/Leetcode/tree/master/0546-remove-boxes) |
+| [0553-optimal-division](https://github.com/KBhavana5717/Leetcode/tree/master/0553-optimal-division) |
 ## Hash Table
 |  |
 | ------- |
@@ -769,6 +771,7 @@
 | [0542-01-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/KBhavana5717/Leetcode/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0552-student-attendance-record-ii) |
+| [0553-optimal-division](https://github.com/KBhavana5717/Leetcode/tree/master/0553-optimal-division) |
 ## Manacher
 |  |
 | ------- |
