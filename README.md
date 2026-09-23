@@ -80,6 +80,7 @@
 | [0443-string-compression](https://github.com/KBhavana5717/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/KBhavana5717/Leetcode/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/KBhavana5717/Leetcode/tree/master/0457-circular-array-loop) |
+| [0466-count-the-repetitions](https://github.com/KBhavana5717/Leetcode/tree/master/0466-count-the-repetitions) |
 ## Math
 |  |
 | ------- |
@@ -508,6 +509,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/KBhavana5717/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0466-count-the-repetitions](https://github.com/KBhavana5717/Leetcode/tree/master/0466-count-the-repetitions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -656,6 +658,7 @@
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/KBhavana5717/Leetcode/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/KBhavana5717/Leetcode/tree/master/0464-can-i-win) |
+| [0466-count-the-repetitions](https://github.com/KBhavana5717/Leetcode/tree/master/0466-count-the-repetitions) |
 ## Manacher
 |  |
 | ------- |
