@@ -364,6 +364,7 @@
 | [0486-predict-the-winner](https://github.com/KBhavana5717/Leetcode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -697,6 +698,7 @@
 | [0473-matchsticks-to-square](https://github.com/KBhavana5717/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/KBhavana5717/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/KBhavana5717/Leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0494-target-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -818,6 +820,7 @@
 | [0401-binary-watch](https://github.com/KBhavana5717/Leetcode/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/KBhavana5717/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
@@ -1506,6 +1509,7 @@
 | [0322-coin-change](https://github.com/KBhavana5717/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/KBhavana5717/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1619,6 +1623,7 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/KBhavana5717/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0494-target-sum) |
 ## Bitmask
 |  |
 | ------- |
