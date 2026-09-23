@@ -320,6 +320,7 @@
 | [0427-construct-quad-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/KBhavana5717/Leetcode/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -383,6 +384,7 @@
 | [0432-all-oone-data-structure](https://github.com/KBhavana5717/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/KBhavana5717/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -697,6 +699,7 @@
 | [0414-third-maximum-number](https://github.com/KBhavana5717/Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/KBhavana5717/Leetcode/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
