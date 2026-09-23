@@ -159,6 +159,7 @@
 | [0464-can-i-win](https://github.com/KBhavana5717/Leetcode/tree/master/0464-can-i-win) |
 | [0470-implement-rand10-using-rand7](https://github.com/KBhavana5717/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/KBhavana5717/Leetcode/tree/master/0477-total-hamming-distance) |
+| [0478-generate-random-point-in-a-circle](https://github.com/KBhavana5717/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 ## Recursion
 |  |
 | ------- |
@@ -1285,6 +1286,7 @@
 | [0223-rectangle-area](https://github.com/KBhavana5717/Leetcode/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/KBhavana5717/Leetcode/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0391-perfect-rectangle) |
+| [0478-generate-random-point-in-a-circle](https://github.com/KBhavana5717/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -1562,6 +1564,7 @@
 | [0384-shuffle-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/KBhavana5717/Leetcode/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/KBhavana5717/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/KBhavana5717/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -1593,6 +1596,7 @@
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/KBhavana5717/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/KBhavana5717/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 ## Probability and Statistics
 |  |
 | ------- |
