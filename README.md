@@ -387,6 +387,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KBhavana5717/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/KBhavana5717/Leetcode/tree/master/0525-contiguous-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -465,6 +466,7 @@
 | [0519-random-flip-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/KBhavana5717/Leetcode/tree/master/0525-contiguous-array) |
 ## String
 |  |
 | ------- |
@@ -1510,6 +1512,7 @@
 | [0410-split-array-largest-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/KBhavana5717/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/KBhavana5717/Leetcode/tree/master/0525-contiguous-array) |
 ## Quickselect
 |  |
 | ------- |
