@@ -407,6 +407,7 @@
 | [0546-remove-boxes](https://github.com/KBhavana5717/Leetcode/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/KBhavana5717/Leetcode/tree/master/0553-optimal-division) |
 | [0554-brick-wall](https://github.com/KBhavana5717/Leetcode/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/KBhavana5717/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -489,6 +490,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/KBhavana5717/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/KBhavana5717/Leetcode/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/KBhavana5717/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -1587,6 +1589,7 @@
 | [0523-continuous-subarray-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KBhavana5717/Leetcode/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/KBhavana5717/Leetcode/tree/master/0528-random-pick-with-weight) |
+| [0560-subarray-sum-equals-k](https://github.com/KBhavana5717/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Quickselect
 |  |
 | ------- |
