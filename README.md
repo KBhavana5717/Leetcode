@@ -370,6 +370,7 @@
 | [0496-next-greater-element-i](https://github.com/KBhavana5717/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/KBhavana5717/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/KBhavana5717/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/KBhavana5717/Leetcode/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
 | ------- |
@@ -443,6 +444,7 @@
 | [0480-sliding-window-median](https://github.com/KBhavana5717/Leetcode/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/KBhavana5717/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/KBhavana5717/Leetcode/tree/master/0500-keyboard-row) |
 ## String
 |  |
 | ------- |
@@ -545,6 +547,7 @@
 | [0474-ones-and-zeroes](https://github.com/KBhavana5717/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/KBhavana5717/Leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/KBhavana5717/Leetcode/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/KBhavana5717/Leetcode/tree/master/0500-keyboard-row) |
 ## Sliding Window
 |  |
 | ------- |
