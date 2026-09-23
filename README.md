@@ -413,6 +413,7 @@
 | [0561-array-partition](https://github.com/KBhavana5717/Leetcode/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/KBhavana5717/Leetcode/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/KBhavana5717/Leetcode/tree/master/0575-distribute-candies) |
 ## Hash Table
 |  |
 | ------- |
@@ -497,6 +498,7 @@
 | [0554-brick-wall](https://github.com/KBhavana5717/Leetcode/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/KBhavana5717/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/KBhavana5717/Leetcode/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/KBhavana5717/Leetcode/tree/master/0575-distribute-candies) |
 ## String
 |  |
 | ------- |
