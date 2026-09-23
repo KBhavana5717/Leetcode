@@ -528,6 +528,7 @@
 | [0472-concatenated-words](https://github.com/KBhavana5717/Leetcode/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/KBhavana5717/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/KBhavana5717/Leetcode/tree/master/0481-magical-string) |
+| [0482-license-key-formatting](https://github.com/KBhavana5717/Leetcode/tree/master/0482-license-key-formatting) |
 ## Sliding Window
 |  |
 | ------- |
