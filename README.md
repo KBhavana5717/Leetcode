@@ -197,6 +197,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0640-solve-the-equation](https://github.com/KBhavana5717/Leetcode/tree/master/0640-solve-the-equation) |
+| [0650-2-keys-keyboard](https://github.com/KBhavana5717/Leetcode/tree/master/0650-2-keys-keyboard) |
 ## Recursion
 |  |
 | ------- |
@@ -858,6 +859,7 @@
 | [0639-decode-ways-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0639-decode-ways-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KBhavana5717/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/KBhavana5717/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/KBhavana5717/Leetcode/tree/master/0650-2-keys-keyboard) |
 ## Manacher
 |  |
 | ------- |
