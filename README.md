@@ -143,6 +143,7 @@
 | [0412-fizz-buzz](https://github.com/KBhavana5717/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/KBhavana5717/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0441-arranging-coins](https://github.com/KBhavana5717/Leetcode/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
 | ------- |
@@ -523,6 +524,7 @@
 | [0400-nth-digit](https://github.com/KBhavana5717/Leetcode/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/KBhavana5717/Leetcode/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/KBhavana5717/Leetcode/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
