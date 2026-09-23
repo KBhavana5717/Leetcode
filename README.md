@@ -1589,6 +1589,7 @@
 | [0607-sales-person](https://github.com/KBhavana5717/Leetcode/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/KBhavana5717/Leetcode/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/KBhavana5717/Leetcode/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/KBhavana5717/Leetcode/tree/master/0619-biggest-single-number) |
 ## Bucket Sort
 |  |
 | ------- |
