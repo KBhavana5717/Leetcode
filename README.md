@@ -37,6 +37,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/KBhavana5717/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/KBhavana5717/Leetcode/tree/master/0460-lfu-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -407,6 +408,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/KBhavana5717/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/KBhavana5717/Leetcode/tree/master/0457-circular-array-loop) |
+| [0460-lfu-cache](https://github.com/KBhavana5717/Leetcode/tree/master/0460-lfu-cache) |
 ## String
 |  |
 | ------- |
@@ -1228,12 +1230,14 @@
 | [0384-shuffle-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/KBhavana5717/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0460-lfu-cache](https://github.com/KBhavana5717/Leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/KBhavana5717/Leetcode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/KBhavana5717/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/KBhavana5717/Leetcode/tree/master/0460-lfu-cache) |
 ## Geometry
 |  |
 | ------- |
