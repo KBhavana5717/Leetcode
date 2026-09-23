@@ -162,6 +162,7 @@
 | [0477-total-hamming-distance](https://github.com/KBhavana5717/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/KBhavana5717/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/KBhavana5717/Leetcode/tree/master/0479-largest-palindrome-product) |
+| [0483-smallest-good-base](https://github.com/KBhavana5717/Leetcode/tree/master/0483-smallest-good-base) |
 ## Recursion
 |  |
 | ------- |
@@ -583,6 +584,7 @@
 | [0441-arranging-coins](https://github.com/KBhavana5717/Leetcode/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/KBhavana5717/Leetcode/tree/master/0475-heaters) |
+| [0483-smallest-good-base](https://github.com/KBhavana5717/Leetcode/tree/master/0483-smallest-good-base) |
 ## Divide and Conquer
 |  |
 | ------- |
