@@ -84,6 +84,7 @@
 | [0475-heaters](https://github.com/KBhavana5717/Leetcode/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/KBhavana5717/Leetcode/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/KBhavana5717/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Math
 |  |
 | ------- |
@@ -385,6 +386,7 @@
 | [0518-coin-change-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0518-coin-change-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/KBhavana5717/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Hash Table
 |  |
 | ------- |
@@ -572,6 +574,7 @@
 | [0520-detect-capital](https://github.com/KBhavana5717/Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/KBhavana5717/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/KBhavana5717/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Sliding Window
 |  |
 | ------- |
@@ -831,6 +834,7 @@
 | [0502-ipo](https://github.com/KBhavana5717/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/KBhavana5717/Leetcode/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/KBhavana5717/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Backtracking
 |  |
 | ------- |
