@@ -1274,6 +1274,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0623-add-one-row-to-tree) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1341,6 +1342,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0623-add-one-row-to-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1396,6 +1398,7 @@
 | [0572-subtree-of-another-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0623-add-one-row-to-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1459,6 +1462,7 @@
 | [0547-number-of-provinces](https://github.com/KBhavana5717/Leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0623-add-one-row-to-tree) |
 ## DP on Trees
 |  |
 | ------- |
