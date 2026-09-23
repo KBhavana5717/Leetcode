@@ -194,6 +194,7 @@
 | [0598-range-addition-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0640-solve-the-equation](https://github.com/KBhavana5717/Leetcode/tree/master/0640-solve-the-equation) |
 ## Recursion
 |  |
 | ------- |
@@ -656,6 +657,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0609-find-duplicate-file-in-system](https://github.com/KBhavana5717/Leetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0639-decode-ways-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0639-decode-ways-ii) |
+| [0640-solve-the-equation](https://github.com/KBhavana5717/Leetcode/tree/master/0640-solve-the-equation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1195,6 +1197,7 @@
 | [0537-complex-number-multiplication](https://github.com/KBhavana5717/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/KBhavana5717/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0640-solve-the-equation](https://github.com/KBhavana5717/Leetcode/tree/master/0640-solve-the-equation) |
 ## Algorithm X
 |  |
 | ------- |
@@ -1969,4 +1972,8 @@
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/KBhavana5717/Leetcode/tree/master/0587-erect-the-fence) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/KBhavana5717/Leetcode/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
