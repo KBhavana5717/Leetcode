@@ -188,6 +188,7 @@
 | [0587-erect-the-fence](https://github.com/KBhavana5717/Leetcode/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/KBhavana5717/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/KBhavana5717/Leetcode/tree/master/0593-valid-square) |
+| [0598-range-addition-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0598-range-addition-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -421,6 +422,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0587-erect-the-fence](https://github.com/KBhavana5717/Leetcode/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0598-range-addition-ii) |
 ## Hash Table
 |  |
 | ------- |
