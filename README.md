@@ -173,6 +173,7 @@
 | [0509-fibonacci-number](https://github.com/KBhavana5717/Leetcode/tree/master/0509-fibonacci-number) |
 | [0519-random-flip-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/KBhavana5717/Leetcode/tree/master/0528-random-pick-with-weight) |
 ## Recursion
 |  |
 | ------- |
@@ -389,6 +390,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KBhavana5717/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/KBhavana5717/Leetcode/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/KBhavana5717/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0528-random-pick-with-weight](https://github.com/KBhavana5717/Leetcode/tree/master/0528-random-pick-with-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -635,6 +637,7 @@
 | [0483-smallest-good-base](https://github.com/KBhavana5717/Leetcode/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/KBhavana5717/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0528-random-pick-with-weight](https://github.com/KBhavana5717/Leetcode/tree/master/0528-random-pick-with-weight) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1517,6 +1520,7 @@
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/KBhavana5717/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KBhavana5717/Leetcode/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/KBhavana5717/Leetcode/tree/master/0528-random-pick-with-weight) |
 ## Quickselect
 |  |
 | ------- |
@@ -1692,6 +1696,7 @@
 | [0478-generate-random-point-in-a-circle](https://github.com/KBhavana5717/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/KBhavana5717/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0519-random-flip-matrix) |
+| [0528-random-pick-with-weight](https://github.com/KBhavana5717/Leetcode/tree/master/0528-random-pick-with-weight) |
 ## Reservoir Sampling
 |  |
 | ------- |
