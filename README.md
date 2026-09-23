@@ -187,6 +187,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/KBhavana5717/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/KBhavana5717/Leetcode/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/KBhavana5717/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0593-valid-square](https://github.com/KBhavana5717/Leetcode/tree/master/0593-valid-square) |
 ## Recursion
 |  |
 | ------- |
@@ -1511,6 +1512,7 @@
 | [0391-perfect-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/KBhavana5717/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0587-erect-the-fence](https://github.com/KBhavana5717/Leetcode/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/KBhavana5717/Leetcode/tree/master/0593-valid-square) |
 ## Euclidean Algorithm
 |  |
 | ------- |
