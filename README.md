@@ -434,6 +434,7 @@
 | [0622-design-circular-queue](https://github.com/KBhavana5717/Leetcode/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/KBhavana5717/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0630-course-schedule-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -867,6 +868,7 @@
 | [0611-valid-triangle-number](https://github.com/KBhavana5717/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/KBhavana5717/Leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/KBhavana5717/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0630-course-schedule-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0630-course-schedule-iii) |
 ## Trie
 |  |
 | ------- |
@@ -938,6 +940,7 @@
 | [0611-valid-triangle-number](https://github.com/KBhavana5717/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/KBhavana5717/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0630-course-schedule-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -1038,6 +1041,7 @@
 | [0502-ipo](https://github.com/KBhavana5717/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/KBhavana5717/Leetcode/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/KBhavana5717/Leetcode/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0630-course-schedule-iii) |
 ## Merge Sort
 |  |
 | ------- |
