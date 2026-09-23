@@ -372,6 +372,7 @@
 | [0498-diagonal-traverse](https://github.com/KBhavana5717/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/KBhavana5717/Leetcode/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/KBhavana5717/Leetcode/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -867,6 +868,7 @@
 | [0445-add-two-numbers-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/KBhavana5717/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -1005,6 +1007,7 @@
 | [0402-remove-k-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/KBhavana5717/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Simulation
 |  |
 | ------- |
