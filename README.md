@@ -164,6 +164,7 @@
 | [0479-largest-palindrome-product](https://github.com/KBhavana5717/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/KBhavana5717/Leetcode/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/KBhavana5717/Leetcode/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0492-construct-the-rectangle) |
 ## Recursion
 |  |
 | ------- |
