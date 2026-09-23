@@ -347,6 +347,7 @@
 | [0463-island-perimeter](https://github.com/KBhavana5717/Leetcode/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/KBhavana5717/Leetcode/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/KBhavana5717/Leetcode/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/KBhavana5717/Leetcode/tree/master/0474-ones-and-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -516,6 +517,7 @@
 | [0467-unique-substrings-in-wraparound-string](https://github.com/KBhavana5717/Leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/KBhavana5717/Leetcode/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/KBhavana5717/Leetcode/tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/KBhavana5717/Leetcode/tree/master/0474-ones-and-zeroes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -668,6 +670,7 @@
 | [0467-unique-substrings-in-wraparound-string](https://github.com/KBhavana5717/Leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/KBhavana5717/Leetcode/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/KBhavana5717/Leetcode/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/KBhavana5717/Leetcode/tree/master/0474-ones-and-zeroes) |
 ## Manacher
 |  |
 | ------- |
@@ -1464,6 +1467,7 @@
 | [0279-perfect-squares](https://github.com/KBhavana5717/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/KBhavana5717/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/KBhavana5717/Leetcode/tree/master/0474-ones-and-zeroes) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1571,6 +1575,7 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/KBhavana5717/Leetcode/tree/master/0474-ones-and-zeroes) |
 ## Bitmask
 |  |
 | ------- |
