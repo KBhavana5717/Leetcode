@@ -424,6 +424,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KBhavana5717/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/KBhavana5717/Leetcode/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -847,6 +848,7 @@
 | [0517-super-washing-machines](https://github.com/KBhavana5717/Leetcode/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/KBhavana5717/Leetcode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0605-can-place-flowers](https://github.com/KBhavana5717/Leetcode/tree/master/0605-can-place-flowers) |
 ## Trie
 |  |
 | ------- |
