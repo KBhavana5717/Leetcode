@@ -564,6 +564,7 @@
 | [0514-freedom-trail](https://github.com/KBhavana5717/Leetcode/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/KBhavana5717/Leetcode/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/KBhavana5717/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 ## Sliding Window
 |  |
 | ------- |
