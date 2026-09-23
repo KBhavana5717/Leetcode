@@ -365,6 +365,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/KBhavana5717/Leetcode/tree/master/0495-teemo-attacking) |
 ## Hash Table
 |  |
 | ------- |
@@ -1000,6 +1001,7 @@
 | [0289-game-of-life](https://github.com/KBhavana5717/Leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/KBhavana5717/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/KBhavana5717/Leetcode/tree/master/0495-teemo-attacking) |
 ## Algorithm X
 |  |
 | ------- |
