@@ -474,6 +474,7 @@
 | [0523-continuous-subarray-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KBhavana5717/Leetcode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/KBhavana5717/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 ## String
 |  |
 | ------- |
@@ -584,6 +585,7 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/KBhavana5717/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KBhavana5717/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0535-encode-and-decode-tinyurl](https://github.com/KBhavana5717/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1397,6 +1399,7 @@
 | [0432-all-oone-data-structure](https://github.com/KBhavana5717/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/KBhavana5717/Leetcode/tree/master/0460-lfu-cache) |
+| [0535-encode-and-decode-tinyurl](https://github.com/KBhavana5717/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1488,6 +1491,7 @@
 | [0187-repeated-dna-sequences](https://github.com/KBhavana5717/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/KBhavana5717/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0336-palindrome-pairs) |
+| [0535-encode-and-decode-tinyurl](https://github.com/KBhavana5717/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Enumeration
 |  |
 | ------- |
