@@ -692,6 +692,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/KBhavana5717/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0493-reverse-pairs) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1259,6 +1260,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 ## Binary Tree
 |  |
 | ------- |
