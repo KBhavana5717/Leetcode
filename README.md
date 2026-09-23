@@ -374,6 +374,7 @@
 | [0500-keyboard-row](https://github.com/KBhavana5717/Leetcode/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/KBhavana5717/Leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/KBhavana5717/Leetcode/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
@@ -804,6 +805,7 @@
 | [0472-concatenated-words](https://github.com/KBhavana5717/Leetcode/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/KBhavana5717/Leetcode/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/KBhavana5717/Leetcode/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/KBhavana5717/Leetcode/tree/master/0506-relative-ranks) |
 ## Backtracking
 |  |
 | ------- |
@@ -897,6 +899,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/KBhavana5717/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/KBhavana5717/Leetcode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/KBhavana5717/Leetcode/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/KBhavana5717/Leetcode/tree/master/0506-relative-ranks) |
 ## Merge Sort
 |  |
 | ------- |
