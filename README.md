@@ -1266,6 +1266,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1332,6 +1333,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1386,6 +1388,7 @@
 | [0563-binary-tree-tilt](https://github.com/KBhavana5717/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1448,6 +1451,7 @@
 | [0542-01-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/KBhavana5717/Leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0617-merge-two-binary-trees) |
 ## DP on Trees
 |  |
 | ------- |
