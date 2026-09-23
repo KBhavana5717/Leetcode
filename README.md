@@ -1201,6 +1201,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/KBhavana5717/Leetcode/tree/master/0547-number-of-provinces) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1261,6 +1262,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1373,6 +1375,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/KBhavana5717/Leetcode/tree/master/0547-number-of-provinces) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## DP on Trees
 |  |
 | ------- |
