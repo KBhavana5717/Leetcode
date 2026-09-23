@@ -423,6 +423,7 @@
 | [0587-erect-the-fence](https://github.com/KBhavana5717/Leetcode/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/KBhavana5717/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Hash Table
 |  |
 | ------- |
@@ -509,6 +510,7 @@
 | [0567-permutation-in-string](https://github.com/KBhavana5717/Leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/KBhavana5717/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/KBhavana5717/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## String
 |  |
 | ------- |
@@ -631,6 +633,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0591-tag-validator](https://github.com/KBhavana5717/Leetcode/tree/master/0591-tag-validator) |
 | [0592-fraction-addition-and-subtraction](https://github.com/KBhavana5717/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/KBhavana5717/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Sliding Window
 |  |
 | ------- |
