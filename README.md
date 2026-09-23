@@ -1183,6 +1183,7 @@
 | [0529-minesweeper](https://github.com/KBhavana5717/Leetcode/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1241,6 +1242,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KBhavana5717/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1291,6 +1293,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KBhavana5717/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1357,6 +1360,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Bidirectional Search
 |  |
 | ------- |
