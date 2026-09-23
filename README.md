@@ -541,6 +541,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KBhavana5717/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/KBhavana5717/Leetcode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/KBhavana5717/Leetcode/tree/master/0648-replace-words) |
+| [0652-find-duplicate-subtrees](https://github.com/KBhavana5717/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 ## String
 |  |
 | ------- |
@@ -1330,6 +1331,7 @@
 | [0617-merge-two-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/KBhavana5717/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1399,6 +1401,7 @@
 | [0617-merge-two-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/KBhavana5717/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1456,6 +1459,7 @@
 | [0617-merge-two-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/KBhavana5717/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Search Tree
 |  |
 | ------- |
