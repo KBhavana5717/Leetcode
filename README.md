@@ -1160,6 +1160,7 @@
 | [0514-freedom-trail](https://github.com/KBhavana5717/Leetcode/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KBhavana5717/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/KBhavana5717/Leetcode/tree/master/0529-minesweeper) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1216,6 +1217,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/KBhavana5717/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KBhavana5717/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1264,6 +1266,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/KBhavana5717/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KBhavana5717/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1279,6 +1282,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1320,6 +1324,7 @@
 | [0514-freedom-trail](https://github.com/KBhavana5717/Leetcode/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KBhavana5717/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/KBhavana5717/Leetcode/tree/master/0529-minesweeper) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## DP on Trees
 |  |
 | ------- |
