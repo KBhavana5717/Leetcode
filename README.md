@@ -1125,6 +1125,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/KBhavana5717/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/KBhavana5717/Leetcode/tree/master/0514-freedom-trail) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/KBhavana5717/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1180,6 +1181,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/KBhavana5717/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/KBhavana5717/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1227,6 +1229,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/KBhavana5717/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/KBhavana5717/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1281,6 +1284,7 @@
 | [0463-island-perimeter](https://github.com/KBhavana5717/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/KBhavana5717/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/KBhavana5717/Leetcode/tree/master/0514-freedom-trail) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/KBhavana5717/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## DP on Trees
 |  |
 | ------- |
