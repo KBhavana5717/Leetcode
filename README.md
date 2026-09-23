@@ -83,6 +83,7 @@
 | [0466-count-the-repetitions](https://github.com/KBhavana5717/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/KBhavana5717/Leetcode/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/KBhavana5717/Leetcode/tree/master/0481-magical-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Math
 |  |
 | ------- |
@@ -381,6 +382,7 @@
 | [0506-relative-ranks](https://github.com/KBhavana5717/Leetcode/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/KBhavana5717/Leetcode/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0518-coin-change-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -457,6 +459,7 @@
 | [0500-keyboard-row](https://github.com/KBhavana5717/Leetcode/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0519-random-flip-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0519-random-flip-matrix) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## String
 |  |
 | ------- |
@@ -565,6 +568,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/KBhavana5717/Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/KBhavana5717/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -823,6 +827,7 @@
 | [0475-heaters](https://github.com/KBhavana5717/Leetcode/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/KBhavana5717/Leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/KBhavana5717/Leetcode/tree/master/0506-relative-ranks) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Backtracking
 |  |
 | ------- |
