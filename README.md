@@ -324,6 +324,7 @@
 | [0435-non-overlapping-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/KBhavana5717/Leetcode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -624,6 +625,7 @@
 | [0413-arithmetic-slices](https://github.com/KBhavana5717/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 ## Manacher
 |  |
 | ------- |
