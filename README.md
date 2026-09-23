@@ -366,6 +366,7 @@
 | [0493-reverse-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/KBhavana5717/Leetcode/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/KBhavana5717/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -438,6 +439,7 @@
 | [0460-lfu-cache](https://github.com/KBhavana5717/Leetcode/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/KBhavana5717/Leetcode/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/KBhavana5717/Leetcode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -854,6 +856,7 @@
 | [0402-remove-k-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/KBhavana5717/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -989,6 +992,7 @@
 | [0321-create-maximum-number](https://github.com/KBhavana5717/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/KBhavana5717/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |
 | ------- |
