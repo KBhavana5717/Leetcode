@@ -345,6 +345,7 @@
 | [0457-circular-array-loop](https://github.com/KBhavana5717/Leetcode/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/KBhavana5717/Leetcode/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/KBhavana5717/Leetcode/tree/master/0472-concatenated-words) |
 ## Hash Table
 |  |
 | ------- |
@@ -513,6 +514,7 @@
 | [0466-count-the-repetitions](https://github.com/KBhavana5717/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/KBhavana5717/Leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/KBhavana5717/Leetcode/tree/master/0468-validate-ip-address) |
+| [0472-concatenated-words](https://github.com/KBhavana5717/Leetcode/tree/master/0472-concatenated-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -663,6 +665,7 @@
 | [0464-can-i-win](https://github.com/KBhavana5717/Leetcode/tree/master/0464-can-i-win) |
 | [0466-count-the-repetitions](https://github.com/KBhavana5717/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/KBhavana5717/Leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0472-concatenated-words](https://github.com/KBhavana5717/Leetcode/tree/master/0472-concatenated-words) |
 ## Manacher
 |  |
 | ------- |
@@ -706,6 +709,7 @@
 | [0386-lexicographical-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/KBhavana5717/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/KBhavana5717/Leetcode/tree/master/0472-concatenated-words) |
 ## Sorting
 |  |
 | ------- |
@@ -749,6 +753,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KBhavana5717/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/KBhavana5717/Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0472-concatenated-words](https://github.com/KBhavana5717/Leetcode/tree/master/0472-concatenated-words) |
 ## Backtracking
 |  |
 | ------- |
@@ -1037,6 +1042,7 @@
 | [0437-path-sum-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/KBhavana5717/Leetcode/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/KBhavana5717/Leetcode/tree/master/0472-concatenated-words) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
