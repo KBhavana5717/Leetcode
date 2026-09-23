@@ -371,6 +371,7 @@
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/KBhavana5717/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/KBhavana5717/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/KBhavana5717/Leetcode/tree/master/0500-keyboard-row) |
+| [0502-ipo](https://github.com/KBhavana5717/Leetcode/tree/master/0502-ipo) |
 ## Hash Table
 |  |
 | ------- |
@@ -739,6 +740,7 @@
 | [0435-non-overlapping-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KBhavana5717/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/KBhavana5717/Leetcode/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/KBhavana5717/Leetcode/tree/master/0502-ipo) |
 ## Trie
 |  |
 | ------- |
@@ -798,6 +800,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/KBhavana5717/Leetcode/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/KBhavana5717/Leetcode/tree/master/0475-heaters) |
+| [0502-ipo](https://github.com/KBhavana5717/Leetcode/tree/master/0502-ipo) |
 ## Backtracking
 |  |
 | ------- |
@@ -889,6 +892,7 @@
 | [0420-strong-password-checker](https://github.com/KBhavana5717/Leetcode/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/KBhavana5717/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/KBhavana5717/Leetcode/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/KBhavana5717/Leetcode/tree/master/0502-ipo) |
 ## Merge Sort
 |  |
 | ------- |
