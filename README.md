@@ -369,6 +369,7 @@
 | [0495-teemo-attacking](https://github.com/KBhavana5717/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/KBhavana5717/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/KBhavana5717/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0498-diagonal-traverse](https://github.com/KBhavana5717/Leetcode/tree/master/0498-diagonal-traverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -985,6 +986,7 @@
 | [0419-battleships-in-a-board](https://github.com/KBhavana5717/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/KBhavana5717/Leetcode/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/KBhavana5717/Leetcode/tree/master/0498-diagonal-traverse) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1009,6 +1011,7 @@
 | [0412-fizz-buzz](https://github.com/KBhavana5717/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/KBhavana5717/Leetcode/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/KBhavana5717/Leetcode/tree/master/0498-diagonal-traverse) |
 ## Algorithm X
 |  |
 | ------- |
