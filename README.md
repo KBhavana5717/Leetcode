@@ -443,6 +443,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/KBhavana5717/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0638-shopping-offers](https://github.com/KBhavana5717/Leetcode/tree/master/0638-shopping-offers) |
 | [0641-design-circular-deque](https://github.com/KBhavana5717/Leetcode/tree/master/0641-design-circular-deque) |
+| [0643-maximum-average-subarray-i](https://github.com/KBhavana5717/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -679,6 +680,7 @@
 | [0567-permutation-in-string](https://github.com/KBhavana5717/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KBhavana5717/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/KBhavana5717/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
