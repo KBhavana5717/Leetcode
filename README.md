@@ -1296,6 +1296,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1364,6 +1365,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1420,6 +1422,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1484,6 +1487,7 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
