@@ -400,6 +400,7 @@
 | [0539-minimum-time-difference](https://github.com/KBhavana5717/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KBhavana5717/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/KBhavana5717/Leetcode/tree/master/0546-remove-boxes) |
 ## Hash Table
 |  |
 | ------- |
@@ -765,6 +766,7 @@
 | [0518-coin-change-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/KBhavana5717/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0542-01-matrix) |
+| [0546-remove-boxes](https://github.com/KBhavana5717/Leetcode/tree/master/0546-remove-boxes) |
 ## Manacher
 |  |
 | ------- |
@@ -1119,6 +1121,7 @@
 | [0397-integer-replacement](https://github.com/KBhavana5717/Leetcode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/KBhavana5717/Leetcode/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/KBhavana5717/Leetcode/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/KBhavana5717/Leetcode/tree/master/0546-remove-boxes) |
 ## Bubble Sort
 |  |
 | ------- |
