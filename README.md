@@ -165,6 +165,7 @@
 | [0483-smallest-good-base](https://github.com/KBhavana5717/Leetcode/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/KBhavana5717/Leetcode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0492-construct-the-rectangle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/KBhavana5717/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Recursion
 |  |
 | ------- |
@@ -367,6 +368,7 @@
 | [0494-target-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/KBhavana5717/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/KBhavana5717/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/KBhavana5717/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Hash Table
 |  |
 | ------- |
@@ -598,6 +600,7 @@
 | [0475-heaters](https://github.com/KBhavana5717/Leetcode/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/KBhavana5717/Leetcode/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/KBhavana5717/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1437,6 +1440,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/KBhavana5717/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/KBhavana5717/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/KBhavana5717/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Quickselect
 |  |
 | ------- |
@@ -1477,6 +1481,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/KBhavana5717/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/KBhavana5717/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Queue
 |  |
 | ------- |
@@ -1607,11 +1612,13 @@
 | [0398-random-pick-index](https://github.com/KBhavana5717/Leetcode/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/KBhavana5717/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/KBhavana5717/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/KBhavana5717/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/KBhavana5717/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/KBhavana5717/Leetcode/tree/master/0398-random-pick-index) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/KBhavana5717/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Shortest Path
 |  |
 | ------- |
