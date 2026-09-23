@@ -431,6 +431,7 @@
 | [0611-valid-triangle-number](https://github.com/KBhavana5717/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/KBhavana5717/Leetcode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/KBhavana5717/Leetcode/tree/master/0622-design-circular-queue) |
+| [0624-maximum-distance-in-arrays](https://github.com/KBhavana5717/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -862,6 +863,7 @@
 | [0605-can-place-flowers](https://github.com/KBhavana5717/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/KBhavana5717/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/KBhavana5717/Leetcode/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/KBhavana5717/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 ## Trie
 |  |
 | ------- |
