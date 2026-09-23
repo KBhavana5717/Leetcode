@@ -85,6 +85,7 @@
 | [0481-magical-string](https://github.com/KBhavana5717/Leetcode/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KBhavana5717/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -392,6 +393,7 @@
 | [0526-beautiful-arrangement](https://github.com/KBhavana5717/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/KBhavana5717/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0529-minesweeper](https://github.com/KBhavana5717/Leetcode/tree/master/0529-minesweeper) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -471,6 +473,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KBhavana5717/Leetcode/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -639,6 +642,7 @@
 | [0493-reverse-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/KBhavana5717/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/KBhavana5717/Leetcode/tree/master/0528-random-pick-with-weight) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -843,6 +847,7 @@
 | [0506-relative-ranks](https://github.com/KBhavana5717/Leetcode/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/KBhavana5717/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
