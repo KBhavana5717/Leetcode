@@ -163,6 +163,7 @@
 | [0478-generate-random-point-in-a-circle](https://github.com/KBhavana5717/Leetcode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/KBhavana5717/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/KBhavana5717/Leetcode/tree/master/0483-smallest-good-base) |
+| [0486-predict-the-winner](https://github.com/KBhavana5717/Leetcode/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [0342-power-of-four](https://github.com/KBhavana5717/Leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/KBhavana5717/Leetcode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/KBhavana5717/Leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/KBhavana5717/Leetcode/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
@@ -358,6 +360,7 @@
 | [0477-total-hamming-distance](https://github.com/KBhavana5717/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/KBhavana5717/Leetcode/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/KBhavana5717/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/KBhavana5717/Leetcode/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -687,6 +690,7 @@
 | [0472-concatenated-words](https://github.com/KBhavana5717/Leetcode/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/KBhavana5717/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/KBhavana5717/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/KBhavana5717/Leetcode/tree/master/0486-predict-the-winner) |
 ## Manacher
 |  |
 | ------- |
@@ -1505,12 +1509,14 @@
 | ------- |
 | [0292-nim-game](https://github.com/KBhavana5717/Leetcode/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/KBhavana5717/Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/KBhavana5717/Leetcode/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/KBhavana5717/Leetcode/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/KBhavana5717/Leetcode/tree/master/0486-predict-the-winner) |
 ## Nim Game
 |  |
 | ------- |
@@ -1614,4 +1620,8 @@
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/KBhavana5717/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/KBhavana5717/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
