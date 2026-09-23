@@ -420,6 +420,7 @@
 | [0575-distribute-candies](https://github.com/KBhavana5717/Leetcode/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0587-erect-the-fence](https://github.com/KBhavana5717/Leetcode/tree/master/0587-erect-the-fence) |
+| [0594-longest-harmonious-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -505,6 +506,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/KBhavana5717/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/KBhavana5717/Leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/KBhavana5717/Leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
 | ------- |
@@ -644,6 +646,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/KBhavana5717/Leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/KBhavana5717/Leetcode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -905,6 +908,7 @@
 | [0539-minimum-time-difference](https://github.com/KBhavana5717/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/KBhavana5717/Leetcode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -1581,6 +1585,7 @@
 | [0383-ransom-note](https://github.com/KBhavana5717/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/KBhavana5717/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
