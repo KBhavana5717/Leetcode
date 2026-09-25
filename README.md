@@ -681,6 +681,7 @@
 | [0648-replace-words](https://github.com/KBhavana5717/Leetcode/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/KBhavana5717/Leetcode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/KBhavana5717/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0664-strange-printer](https://github.com/KBhavana5717/Leetcode/tree/master/0664-strange-printer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -873,6 +874,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/KBhavana5717/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/KBhavana5717/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/KBhavana5717/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/KBhavana5717/Leetcode/tree/master/0664-strange-printer) |
 ## Manacher
 |  |
 | ------- |
