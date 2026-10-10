@@ -458,6 +458,7 @@
 | [0661-image-smoother](https://github.com/KBhavana5717/Leetcode/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/KBhavana5717/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -753,6 +754,7 @@
 | [0611-valid-triangle-number](https://github.com/KBhavana5717/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/KBhavana5717/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -921,6 +923,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/KBhavana5717/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/KBhavana5717/Leetcode/tree/master/0649-dota2-senate) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
 |  |
 | ------- |
@@ -998,6 +1001,7 @@
 | [0645-set-mismatch](https://github.com/KBhavana5717/Leetcode/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KBhavana5717/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/KBhavana5717/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -1105,6 +1109,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KBhavana5717/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/KBhavana5717/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
