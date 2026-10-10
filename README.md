@@ -686,6 +686,7 @@
 | [0649-dota2-senate](https://github.com/KBhavana5717/Leetcode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/KBhavana5717/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/KBhavana5717/Leetcode/tree/master/0664-strange-printer) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -923,6 +924,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/KBhavana5717/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/KBhavana5717/Leetcode/tree/master/0649-dota2-senate) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
 |  |
@@ -1077,6 +1079,7 @@
 | [0591-tag-validator](https://github.com/KBhavana5717/Leetcode/tree/master/0591-tag-validator) |
 | [0636-exclusive-time-of-functions](https://github.com/KBhavana5717/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -1084,6 +1087,7 @@
 | [0022-generate-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
