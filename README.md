@@ -459,6 +459,7 @@
 | [0665-non-decreasing-array](https://github.com/KBhavana5717/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -1769,6 +1770,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/KBhavana5717/Leetcode/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/KBhavana5717/Leetcode/tree/master/0479-largest-palindrome-product) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
