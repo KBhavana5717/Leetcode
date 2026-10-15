@@ -99,6 +99,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/KBhavana5717/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/KBhavana5717/Leetcode/tree/master/0696-count-binary-substrings) |
 ## Math
 |  |
 | ------- |
@@ -716,6 +717,7 @@
 | [0686-repeated-string-match](https://github.com/KBhavana5717/Leetcode/tree/master/0686-repeated-string-match) |
 | [0691-stickers-to-spell-word](https://github.com/KBhavana5717/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/KBhavana5717/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/KBhavana5717/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
