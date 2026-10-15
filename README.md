@@ -204,6 +204,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/KBhavana5717/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/KBhavana5717/Leetcode/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0679-24-game](https://github.com/KBhavana5717/Leetcode/tree/master/0679-24-game) |
 ## Recursion
 |  |
 | ------- |
@@ -464,6 +465,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/KBhavana5717/Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0679-24-game](https://github.com/KBhavana5717/Leetcode/tree/master/0679-24-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1060,6 +1062,7 @@
 | [0494-target-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/KBhavana5717/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/KBhavana5717/Leetcode/tree/master/0638-shopping-offers) |
+| [0679-24-game](https://github.com/KBhavana5717/Leetcode/tree/master/0679-24-game) |
 ## Stack
 |  |
 | ------- |
