@@ -468,6 +468,7 @@
 | [0675-cut-off-trees-for-golf-event](https://github.com/KBhavana5717/Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/KBhavana5717/Leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/KBhavana5717/Leetcode/tree/master/0682-baseball-game) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/KBhavana5717/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -728,6 +729,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KBhavana5717/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/KBhavana5717/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/KBhavana5717/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/KBhavana5717/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -905,6 +907,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/KBhavana5717/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/KBhavana5717/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/KBhavana5717/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Manacher
 |  |
 | ------- |
@@ -1879,6 +1882,7 @@
 | [0525-contiguous-array](https://github.com/KBhavana5717/Leetcode/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/KBhavana5717/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/KBhavana5717/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/KBhavana5717/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Quickselect
 |  |
 | ------- |
