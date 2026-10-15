@@ -41,6 +41,7 @@
 | [0622-design-circular-queue](https://github.com/KBhavana5717/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/KBhavana5717/Leetcode/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/KBhavana5717/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/KBhavana5717/Leetcode/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -480,6 +481,7 @@
 | [0699-falling-squares](https://github.com/KBhavana5717/Leetcode/tree/master/0699-falling-squares) |
 | [0704-binary-search](https://github.com/KBhavana5717/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/KBhavana5717/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/KBhavana5717/Leetcode/tree/master/0706-design-hashmap) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -585,6 +587,7 @@
 | [0692-top-k-frequent-words](https://github.com/KBhavana5717/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/KBhavana5717/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/KBhavana5717/Leetcode/tree/master/0706-design-hashmap) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
@@ -1768,6 +1771,7 @@
 | [0677-map-sum-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KBhavana5717/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/KBhavana5717/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/KBhavana5717/Leetcode/tree/master/0706-design-hashmap) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1887,6 +1891,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/KBhavana5717/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/KBhavana5717/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/KBhavana5717/Leetcode/tree/master/0706-design-hashmap) |
 ## Enumeration
 |  |
 | ------- |
