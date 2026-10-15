@@ -461,6 +461,7 @@
 | [0661-image-smoother](https://github.com/KBhavana5717/Leetcode/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/KBhavana5717/Leetcode/tree/master/0665-non-decreasing-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -888,6 +889,7 @@
 | [0647-palindromic-substrings](https://github.com/KBhavana5717/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/KBhavana5717/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/KBhavana5717/Leetcode/tree/master/0664-strange-printer) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Manacher
 |  |
 | ------- |
@@ -1846,6 +1848,7 @@
 | [0327-count-of-range-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/KBhavana5717/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
@@ -1856,6 +1859,7 @@
 | [0327-count-of-range-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/KBhavana5717/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sweep Line
 |  |
@@ -1964,6 +1968,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/KBhavana5717/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KBhavana5717/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Sqrt Decomposition
 |  |
 | ------- |
