@@ -1415,6 +1415,7 @@
 | [0676-implement-magic-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/KBhavana5717/Leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0685-redundant-connection-ii) |
+| [0687-longest-univalue-path](https://github.com/KBhavana5717/Leetcode/tree/master/0687-longest-univalue-path) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1491,6 +1492,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/KBhavana5717/Leetcode/tree/master/0687-longest-univalue-path) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1555,6 +1557,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/KBhavana5717/Leetcode/tree/master/0687-longest-univalue-path) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1637,6 +1640,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/KBhavana5717/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0687-longest-univalue-path](https://github.com/KBhavana5717/Leetcode/tree/master/0687-longest-univalue-path) |
 ## Bidirectional Search
 |  |
 | ------- |
