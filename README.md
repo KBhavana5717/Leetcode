@@ -474,6 +474,7 @@
 | [0691-stickers-to-spell-word](https://github.com/KBhavana5717/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/KBhavana5717/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/KBhavana5717/Leetcode/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0697-degree-of-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -577,6 +578,7 @@
 | [0690-employee-importance](https://github.com/KBhavana5717/Leetcode/tree/master/0690-employee-importance) |
 | [0691-stickers-to-spell-word](https://github.com/KBhavana5717/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0692-top-k-frequent-words](https://github.com/KBhavana5717/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0697-degree-of-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
