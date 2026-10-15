@@ -469,6 +469,7 @@
 | [0679-24-game](https://github.com/KBhavana5717/Leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/KBhavana5717/Leetcode/tree/master/0682-baseball-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/KBhavana5717/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0690-employee-importance](https://github.com/KBhavana5717/Leetcode/tree/master/0690-employee-importance) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -569,6 +570,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0676-implement-magic-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0677-map-sum-pairs) |
+| [0690-employee-importance](https://github.com/KBhavana5717/Leetcode/tree/master/0690-employee-importance) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
@@ -1420,6 +1422,7 @@
 | [0684-redundant-connection](https://github.com/KBhavana5717/Leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0687-longest-univalue-path](https://github.com/KBhavana5717/Leetcode/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/KBhavana5717/Leetcode/tree/master/0690-employee-importance) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1497,6 +1500,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/KBhavana5717/Leetcode/tree/master/0687-longest-univalue-path) |
+| [0690-employee-importance](https://github.com/KBhavana5717/Leetcode/tree/master/0690-employee-importance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1636,6 +1640,7 @@
 | [0675-cut-off-trees-for-golf-event](https://github.com/KBhavana5717/Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/KBhavana5717/Leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0685-redundant-connection-ii) |
+| [0690-employee-importance](https://github.com/KBhavana5717/Leetcode/tree/master/0690-employee-importance) |
 ## DP on Trees
 |  |
 | ------- |
