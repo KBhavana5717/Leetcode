@@ -1408,6 +1408,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0676-implement-magic-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0676-implement-magic-dictionary) |
+| [0684-redundant-connection](https://github.com/KBhavana5717/Leetcode/tree/master/0684-redundant-connection) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1620,6 +1621,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/KBhavana5717/Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0684-redundant-connection](https://github.com/KBhavana5717/Leetcode/tree/master/0684-redundant-connection) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1643,6 +1645,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/KBhavana5717/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/KBhavana5717/Leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/KBhavana5717/Leetcode/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1654,6 +1657,7 @@
 | [0332-reconstruct-itinerary](https://github.com/KBhavana5717/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/KBhavana5717/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/KBhavana5717/Leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/KBhavana5717/Leetcode/tree/master/0684-redundant-connection) |
 ## Brute-Force Search
 |  |
 | ------- |
