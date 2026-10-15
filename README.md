@@ -1374,6 +1374,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1448,6 +1449,7 @@
 | [0654-maximum-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1510,6 +1512,7 @@
 | [0654-maximum-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1528,6 +1531,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
