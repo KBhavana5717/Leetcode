@@ -201,6 +201,7 @@
 | [0640-solve-the-equation](https://github.com/KBhavana5717/Leetcode/tree/master/0640-solve-the-equation) |
 | [0650-2-keys-keyboard](https://github.com/KBhavana5717/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0667-beautiful-arrangement-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/KBhavana5717/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Recursion
 |  |
 | ------- |
@@ -758,6 +759,7 @@
 | [0611-valid-triangle-number](https://github.com/KBhavana5717/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/KBhavana5717/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/KBhavana5717/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
