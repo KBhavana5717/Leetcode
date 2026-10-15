@@ -476,6 +476,7 @@
 | [0695-max-area-of-island](https://github.com/KBhavana5717/Leetcode/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KBhavana5717/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0699-falling-squares](https://github.com/KBhavana5717/Leetcode/tree/master/0699-falling-squares) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1945,6 +1946,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/KBhavana5717/Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0699-falling-squares](https://github.com/KBhavana5717/Leetcode/tree/master/0699-falling-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sweep Line
 |  |
@@ -1963,6 +1965,7 @@
 | [0456-132-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/KBhavana5717/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0699-falling-squares](https://github.com/KBhavana5717/Leetcode/tree/master/0699-falling-squares) |
 ## Queue
 |  |
 | ------- |
