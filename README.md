@@ -562,6 +562,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/KBhavana5717/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0676-implement-magic-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
@@ -695,6 +696,7 @@
 | [0649-dota2-senate](https://github.com/KBhavana5717/Leetcode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/KBhavana5717/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/KBhavana5717/Leetcode/tree/master/0664-strange-printer) |
+| [0676-implement-magic-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
@@ -953,6 +955,7 @@
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/KBhavana5717/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0472-concatenated-words](https://github.com/KBhavana5717/Leetcode/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/KBhavana5717/Leetcode/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0676-implement-magic-dictionary) |
 ## Sorting
 |  |
 | ------- |
@@ -1387,6 +1390,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0676-implement-magic-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0676-implement-magic-dictionary) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1673,6 +1677,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/KBhavana5717/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0622-design-circular-queue](https://github.com/KBhavana5717/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/KBhavana5717/Leetcode/tree/master/0641-design-circular-deque) |
+| [0676-implement-magic-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0676-implement-magic-dictionary) |
 ## Doubly-Linked List
 |  |
 | ------- |
