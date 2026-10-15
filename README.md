@@ -1245,6 +1245,7 @@
 | [0645-set-mismatch](https://github.com/KBhavana5717/Leetcode/tree/master/0645-set-mismatch) |
 | [0672-bulb-switcher-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0691-stickers-to-spell-word](https://github.com/KBhavana5717/Leetcode/tree/master/0691-stickers-to-spell-word) |
+| [0693-binary-number-with-alternating-bits](https://github.com/KBhavana5717/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Matrix
 |  |
 | ------- |
