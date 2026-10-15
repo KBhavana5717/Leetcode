@@ -1377,6 +1377,7 @@
 | [0655-print-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1452,6 +1453,7 @@
 | [0655-print-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1515,6 +1517,7 @@
 | [0655-print-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
