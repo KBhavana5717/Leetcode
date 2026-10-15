@@ -1409,6 +1409,7 @@
 | [0672-bulb-switcher-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0676-implement-magic-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/KBhavana5717/Leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0685-redundant-connection-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1622,6 +1623,7 @@
 | [0672-bulb-switcher-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/KBhavana5717/Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/KBhavana5717/Leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0685-redundant-connection-ii) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1646,6 +1648,7 @@
 | [0399-evaluate-division](https://github.com/KBhavana5717/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/KBhavana5717/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/KBhavana5717/Leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0685-redundant-connection-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1658,6 +1661,7 @@
 | [0399-evaluate-division](https://github.com/KBhavana5717/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/KBhavana5717/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/KBhavana5717/Leetcode/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0685-redundant-connection-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
