@@ -202,6 +202,7 @@
 | [0650-2-keys-keyboard](https://github.com/KBhavana5717/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0667-beautiful-arrangement-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/KBhavana5717/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0670-maximum-swap](https://github.com/KBhavana5717/Leetcode/tree/master/0670-maximum-swap) |
 ## Recursion
 |  |
 | ------- |
@@ -929,6 +930,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/KBhavana5717/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/KBhavana5717/Leetcode/tree/master/0649-dota2-senate) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0670-maximum-swap](https://github.com/KBhavana5717/Leetcode/tree/master/0670-maximum-swap) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
