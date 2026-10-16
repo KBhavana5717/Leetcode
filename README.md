@@ -43,6 +43,7 @@
 | [0705-design-hashset](https://github.com/KBhavana5717/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/KBhavana5717/Leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0707-design-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/KBhavana5717/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 ## Two Pointers
 |  |
 | ------- |
