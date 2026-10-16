@@ -494,6 +494,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/KBhavana5717/Leetcode/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/KBhavana5717/Leetcode/tree/master/0722-remove-comments) |
+| [0724-find-pivot-index](https://github.com/KBhavana5717/Leetcode/tree/master/0724-find-pivot-index) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1987,6 +1988,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/KBhavana5717/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/KBhavana5717/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/KBhavana5717/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/KBhavana5717/Leetcode/tree/master/0724-find-pivot-index) |
 ## Quickselect
 |  |
 | ------- |
