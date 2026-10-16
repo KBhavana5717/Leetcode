@@ -736,6 +736,7 @@
 | [0692-top-k-frequent-words](https://github.com/KBhavana5717/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/KBhavana5717/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/KBhavana5717/Leetcode/tree/master/0709-to-lower-case) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
@@ -941,6 +942,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/KBhavana5717/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/KBhavana5717/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KBhavana5717/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Manacher
 |  |
 | ------- |
@@ -2197,6 +2199,7 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Convex Hull
 |  |
 | ------- |
