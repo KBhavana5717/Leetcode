@@ -488,6 +488,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -593,6 +594,7 @@
 | [0706-design-hashmap](https://github.com/KBhavana5717/Leetcode/tree/master/0706-design-hashmap) |
 | [0710-random-pick-with-blacklist](https://github.com/KBhavana5717/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
 |  |
 | ------- |
@@ -1967,6 +1969,7 @@
 | [0493-reverse-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1979,6 +1982,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0699-falling-squares](https://github.com/KBhavana5717/Leetcode/tree/master/0699-falling-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Sweep Line
 |  |
 | ------- |
