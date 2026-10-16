@@ -213,6 +213,7 @@
 | [0672-bulb-switcher-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/KBhavana5717/Leetcode/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/KBhavana5717/Leetcode/tree/master/0710-random-pick-with-blacklist) |
+| [0728-self-dividing-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0728-self-dividing-numbers) |
 ## Recursion
 |  |
 | ------- |
