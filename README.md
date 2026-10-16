@@ -487,6 +487,7 @@
 | [0710-random-pick-with-blacklist](https://github.com/KBhavana5717/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0713-subarray-product-less-than-k](https://github.com/KBhavana5717/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KBhavana5717/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/KBhavana5717/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
