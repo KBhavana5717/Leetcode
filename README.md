@@ -757,6 +757,7 @@
 | [0721-accounts-merge](https://github.com/KBhavana5717/Leetcode/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/KBhavana5717/Leetcode/tree/master/0722-remove-comments) |
 | [0726-number-of-atoms](https://github.com/KBhavana5717/Leetcode/tree/master/0726-number-of-atoms) |
+| [0730-count-different-palindromic-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
@@ -971,6 +972,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KBhavana5717/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0730-count-different-palindromic-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 ## Manacher
 |  |
 | ------- |
