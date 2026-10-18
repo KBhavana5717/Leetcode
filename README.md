@@ -789,6 +789,7 @@
 | [0752-open-the-lock](https://github.com/KBhavana5717/Leetcode/tree/master/0752-open-the-lock) |
 | [0753-cracking-the-safe](https://github.com/KBhavana5717/Leetcode/tree/master/0753-cracking-the-safe) |
 | [0756-pyramid-transition-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/KBhavana5717/Leetcode/tree/master/0761-special-binary-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
@@ -901,6 +902,7 @@
 | [0493-reverse-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0493-reverse-pairs) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0761-special-binary-string](https://github.com/KBhavana5717/Leetcode/tree/master/0761-special-binary-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
@@ -1154,6 +1156,7 @@
 | [0726-number-of-atoms](https://github.com/KBhavana5717/Leetcode/tree/master/0726-number-of-atoms) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KBhavana5717/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0757-set-intersection-size-at-least-two](https://github.com/KBhavana5717/Leetcode/tree/master/0757-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/KBhavana5717/Leetcode/tree/master/0761-special-binary-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
