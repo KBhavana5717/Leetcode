@@ -214,6 +214,7 @@
 | [0679-24-game](https://github.com/KBhavana5717/Leetcode/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/KBhavana5717/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0728-self-dividing-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0738-monotone-increasing-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
@@ -1032,6 +1033,7 @@
 | [0678-valid-parenthesis-string](https://github.com/KBhavana5717/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KBhavana5717/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0738-monotone-increasing-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
