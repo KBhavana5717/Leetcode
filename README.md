@@ -511,6 +511,7 @@
 | [0745-prefix-and-suffix-search](https://github.com/KBhavana5717/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/KBhavana5717/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KBhavana5717/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/KBhavana5717/Leetcode/tree/master/0748-shortest-completing-word) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -626,6 +627,7 @@
 | [0736-parse-lisp-expression](https://github.com/KBhavana5717/Leetcode/tree/master/0736-parse-lisp-expression) |
 | [0740-delete-and-earn](https://github.com/KBhavana5717/Leetcode/tree/master/0740-delete-and-earn) |
 | [0745-prefix-and-suffix-search](https://github.com/KBhavana5717/Leetcode/tree/master/0745-prefix-and-suffix-search) |
+| [0748-shortest-completing-word](https://github.com/KBhavana5717/Leetcode/tree/master/0748-shortest-completing-word) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -777,6 +779,7 @@
 | [0730-count-different-palindromic-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0736-parse-lisp-expression](https://github.com/KBhavana5717/Leetcode/tree/master/0736-parse-lisp-expression) |
 | [0745-prefix-and-suffix-search](https://github.com/KBhavana5717/Leetcode/tree/master/0745-prefix-and-suffix-search) |
+| [0748-shortest-completing-word](https://github.com/KBhavana5717/Leetcode/tree/master/0748-shortest-completing-word) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
