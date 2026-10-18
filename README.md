@@ -508,6 +508,7 @@
 | [0740-delete-and-earn](https://github.com/KBhavana5717/Leetcode/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/KBhavana5717/Leetcode/tree/master/0741-cherry-pickup) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KBhavana5717/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0745-prefix-and-suffix-search](https://github.com/KBhavana5717/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -622,6 +623,7 @@
 | [0726-number-of-atoms](https://github.com/KBhavana5717/Leetcode/tree/master/0726-number-of-atoms) |
 | [0736-parse-lisp-expression](https://github.com/KBhavana5717/Leetcode/tree/master/0736-parse-lisp-expression) |
 | [0740-delete-and-earn](https://github.com/KBhavana5717/Leetcode/tree/master/0740-delete-and-earn) |
+| [0745-prefix-and-suffix-search](https://github.com/KBhavana5717/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -772,6 +774,7 @@
 | [0726-number-of-atoms](https://github.com/KBhavana5717/Leetcode/tree/master/0726-number-of-atoms) |
 | [0730-count-different-palindromic-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0736-parse-lisp-expression](https://github.com/KBhavana5717/Leetcode/tree/master/0736-parse-lisp-expression) |
+| [0745-prefix-and-suffix-search](https://github.com/KBhavana5717/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
@@ -1063,6 +1066,7 @@
 | [0677-map-sum-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/KBhavana5717/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0745-prefix-and-suffix-search](https://github.com/KBhavana5717/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 ## Sorting
 |  |
 | ------- |
@@ -1869,6 +1873,7 @@
 | [0729-my-calendar-i](https://github.com/KBhavana5717/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0732-my-calendar-iii) |
+| [0745-prefix-and-suffix-search](https://github.com/KBhavana5717/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 ## Doubly-Linked List
 |  |
 | ------- |
