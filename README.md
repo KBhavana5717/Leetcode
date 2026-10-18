@@ -1252,6 +1252,7 @@
 | [0675-cut-off-trees-for-golf-event](https://github.com/KBhavana5717/Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0692-top-k-frequent-words](https://github.com/KBhavana5717/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KBhavana5717/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/KBhavana5717/Leetcode/tree/master/0743-network-delay-time) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
@@ -1538,6 +1539,7 @@
 | [0695-max-area-of-island](https://github.com/KBhavana5717/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/KBhavana5717/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/KBhavana5717/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/KBhavana5717/Leetcode/tree/master/0743-network-delay-time) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1771,6 +1773,7 @@
 | [0695-max-area-of-island](https://github.com/KBhavana5717/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/KBhavana5717/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/KBhavana5717/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/KBhavana5717/Leetcode/tree/master/0743-network-delay-time) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1813,6 +1816,7 @@
 | [0547-number-of-provinces](https://github.com/KBhavana5717/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/KBhavana5717/Leetcode/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0685-redundant-connection-ii) |
+| [0743-network-delay-time](https://github.com/KBhavana5717/Leetcode/tree/master/0743-network-delay-time) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -2252,6 +2256,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/KBhavana5717/Leetcode/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/KBhavana5717/Leetcode/tree/master/0743-network-delay-time) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -2313,4 +2318,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/KBhavana5717/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
