@@ -513,6 +513,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KBhavana5717/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/KBhavana5717/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0749-contain-virus](https://github.com/KBhavana5717/Leetcode/tree/master/0749-contain-virus) |
+| [0752-open-the-lock](https://github.com/KBhavana5717/Leetcode/tree/master/0752-open-the-lock) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -629,6 +630,7 @@
 | [0740-delete-and-earn](https://github.com/KBhavana5717/Leetcode/tree/master/0740-delete-and-earn) |
 | [0745-prefix-and-suffix-search](https://github.com/KBhavana5717/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/KBhavana5717/Leetcode/tree/master/0748-shortest-completing-word) |
+| [0752-open-the-lock](https://github.com/KBhavana5717/Leetcode/tree/master/0752-open-the-lock) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -781,6 +783,7 @@
 | [0736-parse-lisp-expression](https://github.com/KBhavana5717/Leetcode/tree/master/0736-parse-lisp-expression) |
 | [0745-prefix-and-suffix-search](https://github.com/KBhavana5717/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0748-shortest-completing-word](https://github.com/KBhavana5717/Leetcode/tree/master/0748-shortest-completing-word) |
+| [0752-open-the-lock](https://github.com/KBhavana5717/Leetcode/tree/master/0752-open-the-lock) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
@@ -1792,6 +1795,7 @@
 | [0733-flood-fill](https://github.com/KBhavana5717/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/KBhavana5717/Leetcode/tree/master/0743-network-delay-time) |
 | [0749-contain-virus](https://github.com/KBhavana5717/Leetcode/tree/master/0749-contain-virus) |
+| [0752-open-the-lock](https://github.com/KBhavana5717/Leetcode/tree/master/0752-open-the-lock) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1807,6 +1811,7 @@
 | [0126-word-ladder-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/KBhavana5717/Leetcode/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/KBhavana5717/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0752-open-the-lock](https://github.com/KBhavana5717/Leetcode/tree/master/0752-open-the-lock) |
 ## Union-Find
 |  |
 | ------- |
