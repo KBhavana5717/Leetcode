@@ -505,6 +505,7 @@
 | [0733-flood-fill](https://github.com/KBhavana5717/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/KBhavana5717/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/KBhavana5717/Leetcode/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/KBhavana5717/Leetcode/tree/master/0740-delete-and-earn) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -618,6 +619,7 @@
 | [0721-accounts-merge](https://github.com/KBhavana5717/Leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/KBhavana5717/Leetcode/tree/master/0726-number-of-atoms) |
 | [0736-parse-lisp-expression](https://github.com/KBhavana5717/Leetcode/tree/master/0736-parse-lisp-expression) |
+| [0740-delete-and-earn](https://github.com/KBhavana5717/Leetcode/tree/master/0740-delete-and-earn) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -986,6 +988,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KBhavana5717/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0730-count-different-palindromic-subsequences) |
+| [0740-delete-and-earn](https://github.com/KBhavana5717/Leetcode/tree/master/0740-delete-and-earn) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
