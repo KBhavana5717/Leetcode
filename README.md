@@ -214,6 +214,7 @@
 | [0679-24-game](https://github.com/KBhavana5717/Leetcode/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/KBhavana5717/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0728-self-dividing-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
 | ------- |
@@ -498,6 +499,7 @@
 | [0722-remove-comments](https://github.com/KBhavana5717/Leetcode/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/KBhavana5717/Leetcode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/KBhavana5717/Leetcode/tree/master/0729-my-calendar-i) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -866,6 +868,7 @@
 | [0493-reverse-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0493-reverse-pairs) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -973,6 +976,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KBhavana5717/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0730-count-different-palindromic-subsequences) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
 | ------- |
@@ -1399,6 +1403,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/KBhavana5717/Leetcode/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/KBhavana5717/Leetcode/tree/master/0458-poor-pigs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Newton's Method
 |  |
 | ------- |
@@ -1418,6 +1423,7 @@
 | [0638-shopping-offers](https://github.com/KBhavana5717/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/KBhavana5717/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KBhavana5717/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -1589,6 +1595,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KBhavana5717/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1657,6 +1664,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KBhavana5717/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1679,6 +1687,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KBhavana5717/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1765,6 +1774,7 @@
 | [0685-redundant-connection-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/KBhavana5717/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/KBhavana5717/Leetcode/tree/master/0721-accounts-merge) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
 | ------- |
@@ -2266,4 +2276,8 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0654-maximum-binary-tree) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
