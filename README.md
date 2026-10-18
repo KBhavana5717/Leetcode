@@ -510,6 +510,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KBhavana5717/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-prefix-and-suffix-search](https://github.com/KBhavana5717/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/KBhavana5717/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/KBhavana5717/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -1137,6 +1138,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/KBhavana5717/Leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/KBhavana5717/Leetcode/tree/master/0726-number-of-atoms) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/KBhavana5717/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
