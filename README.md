@@ -216,6 +216,7 @@
 | [0728-self-dividing-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0754-reach-a-number](https://github.com/KBhavana5717/Leetcode/tree/master/0754-reach-a-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KBhavana5717/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
@@ -1367,6 +1368,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/KBhavana5717/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KBhavana5717/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KBhavana5717/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Matrix
 |  |
 | ------- |
@@ -2043,6 +2045,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KBhavana5717/Leetcode/tree/master/0204-count-primes) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KBhavana5717/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Sieve Theory
 |  |
 | ------- |
