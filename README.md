@@ -506,6 +506,7 @@
 | [0735-asteroid-collision](https://github.com/KBhavana5717/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/KBhavana5717/Leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/KBhavana5717/Leetcode/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/KBhavana5717/Leetcode/tree/master/0741-cherry-pickup) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -989,6 +990,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0740-delete-and-earn](https://github.com/KBhavana5717/Leetcode/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/KBhavana5717/Leetcode/tree/master/0741-cherry-pickup) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
@@ -1371,6 +1373,7 @@
 | [0675-cut-off-trees-for-golf-event](https://github.com/KBhavana5717/Leetcode/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/KBhavana5717/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KBhavana5717/Leetcode/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/KBhavana5717/Leetcode/tree/master/0741-cherry-pickup) |
 ## Monotonic Stack
 |  |
 | ------- |
