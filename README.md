@@ -518,6 +518,7 @@
 | [0749-contain-virus](https://github.com/KBhavana5717/Leetcode/tree/master/0749-contain-virus) |
 | [0752-open-the-lock](https://github.com/KBhavana5717/Leetcode/tree/master/0752-open-the-lock) |
 | [0757-set-intersection-size-at-least-two](https://github.com/KBhavana5717/Leetcode/tree/master/0757-set-intersection-size-at-least-two) |
+| [0764-largest-plus-sign](https://github.com/KBhavana5717/Leetcode/tree/master/0764-largest-plus-sign) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -1018,6 +1019,7 @@
 | [0740-delete-and-earn](https://github.com/KBhavana5717/Leetcode/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/KBhavana5717/Leetcode/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/KBhavana5717/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0764-largest-plus-sign](https://github.com/KBhavana5717/Leetcode/tree/master/0764-largest-plus-sign) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
