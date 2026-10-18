@@ -215,6 +215,7 @@
 | [0710-random-pick-with-blacklist](https://github.com/KBhavana5717/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0728-self-dividing-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0738-monotone-increasing-digits) |
+| [0754-reach-a-number](https://github.com/KBhavana5717/Leetcode/tree/master/0754-reach-a-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
@@ -867,6 +868,7 @@
 | [0731-my-calendar-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0732-my-calendar-iii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KBhavana5717/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0754-reach-a-number](https://github.com/KBhavana5717/Leetcode/tree/master/0754-reach-a-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
