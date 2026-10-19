@@ -547,6 +547,7 @@
 | [0794-valid-tic-tac-toe-state](https://github.com/KBhavana5717/Leetcode/tree/master/0794-valid-tic-tac-toe-state) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/KBhavana5717/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/KBhavana5717/Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/KBhavana5717/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1074,6 +1075,7 @@
 | [0790-domino-and-tromino-tiling](https://github.com/KBhavana5717/Leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0799-champagne-tower](https://github.com/KBhavana5717/Leetcode/tree/master/0799-champagne-tower) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/KBhavana5717/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
