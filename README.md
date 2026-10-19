@@ -541,6 +541,7 @@
 | [0782-transform-to-chessboard](https://github.com/KBhavana5717/Leetcode/tree/master/0782-transform-to-chessboard) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/KBhavana5717/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0789-escape-the-ghosts](https://github.com/KBhavana5717/Leetcode/tree/master/0789-escape-the-ghosts) |
+| [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -666,6 +667,7 @@
 | [0771-jewels-and-stones](https://github.com/KBhavana5717/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0781-rabbits-in-forest](https://github.com/KBhavana5717/Leetcode/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/KBhavana5717/Leetcode/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -829,6 +831,7 @@
 | [0777-swap-adjacent-in-lr-string](https://github.com/KBhavana5717/Leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0784-letter-case-permutation](https://github.com/KBhavana5717/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/KBhavana5717/Leetcode/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
@@ -914,6 +917,7 @@
 | [0754-reach-a-number](https://github.com/KBhavana5717/Leetcode/tree/master/0754-reach-a-number) |
 | [0778-swim-in-rising-water](https://github.com/KBhavana5717/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/KBhavana5717/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
@@ -1061,6 +1065,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/KBhavana5717/Leetcode/tree/master/0790-domino-and-tromino-tiling) |
+| [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
@@ -1139,6 +1144,7 @@
 | [0692-top-k-frequent-words](https://github.com/KBhavana5717/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0745-prefix-and-suffix-search](https://github.com/KBhavana5717/Leetcode/tree/master/0745-prefix-and-suffix-search) |
+| [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -1215,6 +1221,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/KBhavana5717/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0791-custom-sort-string](https://github.com/KBhavana5717/Leetcode/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
