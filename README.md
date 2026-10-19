@@ -221,6 +221,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KBhavana5717/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0770-basic-calculator-iv](https://github.com/KBhavana5717/Leetcode/tree/master/0770-basic-calculator-iv) |
 | [0775-global-and-local-inversions](https://github.com/KBhavana5717/Leetcode/tree/master/0775-global-and-local-inversions) |
+| [0779-k-th-symbol-in-grammar](https://github.com/KBhavana5717/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
@@ -250,6 +251,7 @@
 | [0509-fibonacci-number](https://github.com/KBhavana5717/Leetcode/tree/master/0509-fibonacci-number) |
 | [0736-parse-lisp-expression](https://github.com/KBhavana5717/Leetcode/tree/master/0736-parse-lisp-expression) |
 | [0770-basic-calculator-iv](https://github.com/KBhavana5717/Leetcode/tree/master/0770-basic-calculator-iv) |
+| [0779-k-th-symbol-in-grammar](https://github.com/KBhavana5717/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Array
 |  |
 | ------- |
@@ -1410,6 +1412,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KBhavana5717/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KBhavana5717/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0779-k-th-symbol-in-grammar](https://github.com/KBhavana5717/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Matrix
 |  |
 | ------- |
