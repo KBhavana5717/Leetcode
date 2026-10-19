@@ -107,6 +107,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/KBhavana5717/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0763-partition-labels](https://github.com/KBhavana5717/Leetcode/tree/master/0763-partition-labels) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/KBhavana5717/Leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/KBhavana5717/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Math
 |  |
 | ------- |
@@ -536,6 +537,7 @@
 | [0778-swim-in-rising-water](https://github.com/KBhavana5717/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/KBhavana5717/Leetcode/tree/master/0781-rabbits-in-forest) |
 | [0782-transform-to-chessboard](https://github.com/KBhavana5717/Leetcode/tree/master/0782-transform-to-chessboard) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/KBhavana5717/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -906,6 +908,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KBhavana5717/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0754-reach-a-number](https://github.com/KBhavana5717/Leetcode/tree/master/0754-reach-a-number) |
 | [0778-swim-in-rising-water](https://github.com/KBhavana5717/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/KBhavana5717/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
@@ -1202,6 +1205,7 @@
 | [0767-reorganize-string](https://github.com/KBhavana5717/Leetcode/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/KBhavana5717/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
@@ -1335,6 +1339,7 @@
 | [0743-network-delay-time](https://github.com/KBhavana5717/Leetcode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/KBhavana5717/Leetcode/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/KBhavana5717/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/KBhavana5717/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
