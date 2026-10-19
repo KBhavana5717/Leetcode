@@ -521,6 +521,7 @@
 | [0764-largest-plus-sign](https://github.com/KBhavana5717/Leetcode/tree/master/0764-largest-plus-sign) |
 | [0766-toeplitz-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1080,6 +1081,7 @@
 | [0765-couples-holding-hands](https://github.com/KBhavana5717/Leetcode/tree/master/0765-couples-holding-hands) |
 | [0767-reorganize-string](https://github.com/KBhavana5717/Leetcode/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
@@ -1175,6 +1177,7 @@
 | [0761-special-binary-string](https://github.com/KBhavana5717/Leetcode/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/KBhavana5717/Leetcode/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
@@ -1263,6 +1266,7 @@
 | [0736-parse-lisp-expression](https://github.com/KBhavana5717/Leetcode/tree/master/0736-parse-lisp-expression) |
 | [0739-daily-temperatures](https://github.com/KBhavana5717/Leetcode/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
@@ -1445,6 +1449,7 @@
 | [0654-maximum-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/KBhavana5717/Leetcode/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Simulation
 |  |
 | ------- |
