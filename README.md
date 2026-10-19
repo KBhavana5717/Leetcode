@@ -1058,6 +1058,7 @@
 | [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0788-rotated-digits) |
+| [0790-domino-and-tromino-tiling](https://github.com/KBhavana5717/Leetcode/tree/master/0790-domino-and-tromino-tiling) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
