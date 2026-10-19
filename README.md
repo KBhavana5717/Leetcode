@@ -524,6 +524,7 @@
 | [0766-toeplitz-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1033,6 +1034,7 @@
 | [0741-cherry-pickup](https://github.com/KBhavana5717/Leetcode/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/KBhavana5717/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0764-largest-plus-sign](https://github.com/KBhavana5717/Leetcode/tree/master/0764-largest-plus-sign) |
+| [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
@@ -1225,6 +1227,7 @@
 | [0691-stickers-to-spell-word](https://github.com/KBhavana5717/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KBhavana5717/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
 ## Stack
 |  |
 | ------- |
@@ -1440,6 +1443,7 @@
 | [0741-cherry-pickup](https://github.com/KBhavana5717/Leetcode/tree/master/0741-cherry-pickup) |
 | [0749-contain-virus](https://github.com/KBhavana5717/Leetcode/tree/master/0749-contain-virus) |
 | [0766-toeplitz-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1515,6 +1519,7 @@
 | [0638-shopping-offers](https://github.com/KBhavana5717/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/KBhavana5717/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KBhavana5717/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bubble Sort
 |  |
@@ -1848,6 +1853,7 @@
 | [0749-contain-virus](https://github.com/KBhavana5717/Leetcode/tree/master/0749-contain-virus) |
 | [0752-open-the-lock](https://github.com/KBhavana5717/Leetcode/tree/master/0752-open-the-lock) |
 | [0765-couples-holding-hands](https://github.com/KBhavana5717/Leetcode/tree/master/0765-couples-holding-hands) |
+| [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1864,6 +1870,7 @@
 | [0127-word-ladder](https://github.com/KBhavana5717/Leetcode/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/KBhavana5717/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/KBhavana5717/Leetcode/tree/master/0752-open-the-lock) |
+| [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
 ## Union-Find
 |  |
 | ------- |
@@ -2409,4 +2416,12 @@
 |  |
 | ------- |
 | [0753-cracking-the-safe](https://github.com/KBhavana5717/Leetcode/tree/master/0753-cracking-the-safe) |
+## Heuristic Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
+## A* Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
