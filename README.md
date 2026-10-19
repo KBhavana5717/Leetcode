@@ -108,6 +108,7 @@
 | [0763-partition-labels](https://github.com/KBhavana5717/Leetcode/tree/master/0763-partition-labels) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/KBhavana5717/Leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/KBhavana5717/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/KBhavana5717/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 ## Math
 |  |
 | ------- |
@@ -544,6 +545,7 @@
 | [0789-escape-the-ghosts](https://github.com/KBhavana5717/Leetcode/tree/master/0789-escape-the-ghosts) |
 | [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0794-valid-tic-tac-toe-state](https://github.com/KBhavana5717/Leetcode/tree/master/0794-valid-tic-tac-toe-state) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/KBhavana5717/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
