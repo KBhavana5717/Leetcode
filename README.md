@@ -1641,6 +1641,7 @@
 | [0765-couples-holding-hands](https://github.com/KBhavana5717/Leetcode/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/KBhavana5717/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/KBhavana5717/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1884,6 +1885,7 @@
 | [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/KBhavana5717/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/KBhavana5717/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1916,6 +1918,7 @@
 | [0721-accounts-merge](https://github.com/KBhavana5717/Leetcode/tree/master/0721-accounts-merge) |
 | [0765-couples-holding-hands](https://github.com/KBhavana5717/Leetcode/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/KBhavana5717/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/KBhavana5717/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
@@ -1933,6 +1936,7 @@
 | [0743-network-delay-time](https://github.com/KBhavana5717/Leetcode/tree/master/0743-network-delay-time) |
 | [0753-cracking-the-safe](https://github.com/KBhavana5717/Leetcode/tree/master/0753-cracking-the-safe) |
 | [0765-couples-holding-hands](https://github.com/KBhavana5717/Leetcode/tree/master/0765-couples-holding-hands) |
+| [0785-is-graph-bipartite](https://github.com/KBhavana5717/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -2459,4 +2463,12 @@
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/KBhavana5717/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/KBhavana5717/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
