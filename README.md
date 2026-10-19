@@ -1073,6 +1073,7 @@
 | [0738-monotone-increasing-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0757-set-intersection-size-at-least-two](https://github.com/KBhavana5717/Leetcode/tree/master/0757-set-intersection-size-at-least-two) |
 | [0763-partition-labels](https://github.com/KBhavana5717/Leetcode/tree/master/0763-partition-labels) |
+| [0765-couples-holding-hands](https://github.com/KBhavana5717/Leetcode/tree/master/0765-couples-holding-hands) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
@@ -1585,6 +1586,7 @@
 | [0743-network-delay-time](https://github.com/KBhavana5717/Leetcode/tree/master/0743-network-delay-time) |
 | [0749-contain-virus](https://github.com/KBhavana5717/Leetcode/tree/master/0749-contain-virus) |
 | [0753-cracking-the-safe](https://github.com/KBhavana5717/Leetcode/tree/master/0753-cracking-the-safe) |
+| [0765-couples-holding-hands](https://github.com/KBhavana5717/Leetcode/tree/master/0765-couples-holding-hands) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1821,6 +1823,7 @@
 | [0743-network-delay-time](https://github.com/KBhavana5717/Leetcode/tree/master/0743-network-delay-time) |
 | [0749-contain-virus](https://github.com/KBhavana5717/Leetcode/tree/master/0749-contain-virus) |
 | [0752-open-the-lock](https://github.com/KBhavana5717/Leetcode/tree/master/0752-open-the-lock) |
+| [0765-couples-holding-hands](https://github.com/KBhavana5717/Leetcode/tree/master/0765-couples-holding-hands) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1850,6 +1853,7 @@
 | [0685-redundant-connection-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/KBhavana5717/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/KBhavana5717/Leetcode/tree/master/0721-accounts-merge) |
+| [0765-couples-holding-hands](https://github.com/KBhavana5717/Leetcode/tree/master/0765-couples-holding-hands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
@@ -1866,6 +1870,7 @@
 | [0685-redundant-connection-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/KBhavana5717/Leetcode/tree/master/0743-network-delay-time) |
 | [0753-cracking-the-safe](https://github.com/KBhavana5717/Leetcode/tree/master/0753-cracking-the-safe) |
+| [0765-couples-holding-hands](https://github.com/KBhavana5717/Leetcode/tree/master/0765-couples-holding-hands) |
 ## Brute-Force Search
 |  |
 | ------- |
