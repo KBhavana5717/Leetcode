@@ -224,6 +224,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/KBhavana5717/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0780-reaching-points](https://github.com/KBhavana5717/Leetcode/tree/master/0780-reaching-points) |
 | [0781-rabbits-in-forest](https://github.com/KBhavana5717/Leetcode/tree/master/0781-rabbits-in-forest) |
+| [0782-transform-to-chessboard](https://github.com/KBhavana5717/Leetcode/tree/master/0782-transform-to-chessboard) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
@@ -534,6 +535,7 @@
 | [0775-global-and-local-inversions](https://github.com/KBhavana5717/Leetcode/tree/master/0775-global-and-local-inversions) |
 | [0778-swim-in-rising-water](https://github.com/KBhavana5717/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/KBhavana5717/Leetcode/tree/master/0781-rabbits-in-forest) |
+| [0782-transform-to-chessboard](https://github.com/KBhavana5717/Leetcode/tree/master/0782-transform-to-chessboard) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1418,6 +1420,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KBhavana5717/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/KBhavana5717/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0782-transform-to-chessboard](https://github.com/KBhavana5717/Leetcode/tree/master/0782-transform-to-chessboard) |
 ## Matrix
 |  |
 | ------- |
@@ -1460,6 +1463,7 @@
 | [0766-toeplitz-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/KBhavana5717/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0782-transform-to-chessboard](https://github.com/KBhavana5717/Leetcode/tree/master/0782-transform-to-chessboard) |
 ## Monotonic Stack
 |  |
 | ------- |
