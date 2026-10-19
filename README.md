@@ -546,6 +546,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0794-valid-tic-tac-toe-state](https://github.com/KBhavana5717/Leetcode/tree/master/0794-valid-tic-tac-toe-state) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/KBhavana5717/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/KBhavana5717/Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -2206,6 +2207,7 @@
 | [0724-find-pivot-index](https://github.com/KBhavana5717/Leetcode/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0732-my-calendar-iii) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/KBhavana5717/Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 ## Quickselect
 |  |
 | ------- |
