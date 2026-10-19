@@ -836,6 +836,7 @@
 | [0784-letter-case-permutation](https://github.com/KBhavana5717/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0791-custom-sort-string](https://github.com/KBhavana5717/Leetcode/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0796-rotate-string](https://github.com/KBhavana5717/Leetcode/tree/master/0796-rotate-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
@@ -1383,6 +1384,7 @@
 | [0459-repeated-substring-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/KBhavana5717/Leetcode/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/KBhavana5717/Leetcode/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
