@@ -227,6 +227,7 @@
 | [0781-rabbits-in-forest](https://github.com/KBhavana5717/Leetcode/tree/master/0781-rabbits-in-forest) |
 | [0782-transform-to-chessboard](https://github.com/KBhavana5717/Leetcode/tree/master/0782-transform-to-chessboard) |
 | [0788-rotated-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0788-rotated-digits) |
+| [0789-escape-the-ghosts](https://github.com/KBhavana5717/Leetcode/tree/master/0789-escape-the-ghosts) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
@@ -539,6 +540,7 @@
 | [0781-rabbits-in-forest](https://github.com/KBhavana5717/Leetcode/tree/master/0781-rabbits-in-forest) |
 | [0782-transform-to-chessboard](https://github.com/KBhavana5717/Leetcode/tree/master/0782-transform-to-chessboard) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/KBhavana5717/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0789-escape-the-ghosts](https://github.com/KBhavana5717/Leetcode/tree/master/0789-escape-the-ghosts) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
