@@ -223,6 +223,7 @@
 | [0775-global-and-local-inversions](https://github.com/KBhavana5717/Leetcode/tree/master/0775-global-and-local-inversions) |
 | [0779-k-th-symbol-in-grammar](https://github.com/KBhavana5717/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0780-reaching-points](https://github.com/KBhavana5717/Leetcode/tree/master/0780-reaching-points) |
+| [0781-rabbits-in-forest](https://github.com/KBhavana5717/Leetcode/tree/master/0781-rabbits-in-forest) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
@@ -532,6 +533,7 @@
 | [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0775-global-and-local-inversions](https://github.com/KBhavana5717/Leetcode/tree/master/0775-global-and-local-inversions) |
 | [0778-swim-in-rising-water](https://github.com/KBhavana5717/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0781-rabbits-in-forest](https://github.com/KBhavana5717/Leetcode/tree/master/0781-rabbits-in-forest) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -655,6 +657,7 @@
 | [0767-reorganize-string](https://github.com/KBhavana5717/Leetcode/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/KBhavana5717/Leetcode/tree/master/0770-basic-calculator-iv) |
 | [0771-jewels-and-stones](https://github.com/KBhavana5717/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0781-rabbits-in-forest](https://github.com/KBhavana5717/Leetcode/tree/master/0781-rabbits-in-forest) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -1099,6 +1102,7 @@
 | [0767-reorganize-string](https://github.com/KBhavana5717/Leetcode/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0781-rabbits-in-forest](https://github.com/KBhavana5717/Leetcode/tree/master/0781-rabbits-in-forest) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
