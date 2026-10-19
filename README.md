@@ -1053,6 +1053,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/KBhavana5717/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0764-largest-plus-sign](https://github.com/KBhavana5717/Leetcode/tree/master/0764-largest-plus-sign) |
 | [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
@@ -1340,6 +1341,7 @@
 | [0767-reorganize-string](https://github.com/KBhavana5717/Leetcode/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/KBhavana5717/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/KBhavana5717/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
@@ -1647,6 +1649,7 @@
 | [0778-swim-in-rising-water](https://github.com/KBhavana5717/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/KBhavana5717/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1891,6 +1894,7 @@
 | [0778-swim-in-rising-water](https://github.com/KBhavana5717/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/KBhavana5717/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## DP on Trees
 |  |
 | ------- |
@@ -1942,6 +1946,7 @@
 | [0753-cracking-the-safe](https://github.com/KBhavana5717/Leetcode/tree/master/0753-cracking-the-safe) |
 | [0765-couples-holding-hands](https://github.com/KBhavana5717/Leetcode/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/KBhavana5717/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -2390,6 +2395,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/KBhavana5717/Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/KBhavana5717/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
