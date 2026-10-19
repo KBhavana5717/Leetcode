@@ -646,6 +646,7 @@
 | [0763-partition-labels](https://github.com/KBhavana5717/Leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/KBhavana5717/Leetcode/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/KBhavana5717/Leetcode/tree/master/0770-basic-calculator-iv) |
+| [0771-jewels-and-stones](https://github.com/KBhavana5717/Leetcode/tree/master/0771-jewels-and-stones) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -805,6 +806,7 @@
 | [0763-partition-labels](https://github.com/KBhavana5717/Leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/KBhavana5717/Leetcode/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/KBhavana5717/Leetcode/tree/master/0770-basic-calculator-iv) |
+| [0771-jewels-and-stones](https://github.com/KBhavana5717/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
