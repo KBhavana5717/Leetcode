@@ -218,6 +218,7 @@
 | [0738-monotone-increasing-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0754-reach-a-number](https://github.com/KBhavana5717/Leetcode/tree/master/0754-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KBhavana5717/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0770-basic-calculator-iv](https://github.com/KBhavana5717/Leetcode/tree/master/0770-basic-calculator-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
@@ -246,6 +247,7 @@
 | [0486-predict-the-winner](https://github.com/KBhavana5717/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/KBhavana5717/Leetcode/tree/master/0509-fibonacci-number) |
 | [0736-parse-lisp-expression](https://github.com/KBhavana5717/Leetcode/tree/master/0736-parse-lisp-expression) |
+| [0770-basic-calculator-iv](https://github.com/KBhavana5717/Leetcode/tree/master/0770-basic-calculator-iv) |
 ## Array
 |  |
 | ------- |
@@ -643,6 +645,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/KBhavana5717/Leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/KBhavana5717/Leetcode/tree/master/0767-reorganize-string) |
+| [0770-basic-calculator-iv](https://github.com/KBhavana5717/Leetcode/tree/master/0770-basic-calculator-iv) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -801,6 +804,7 @@
 | [0761-special-binary-string](https://github.com/KBhavana5717/Leetcode/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/KBhavana5717/Leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/KBhavana5717/Leetcode/tree/master/0767-reorganize-string) |
+| [0770-basic-calculator-iv](https://github.com/KBhavana5717/Leetcode/tree/master/0770-basic-calculator-iv) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
@@ -1267,6 +1271,7 @@
 | [0739-daily-temperatures](https://github.com/KBhavana5717/Leetcode/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0770-basic-calculator-iv](https://github.com/KBhavana5717/Leetcode/tree/master/0770-basic-calculator-iv) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
