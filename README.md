@@ -116,6 +116,7 @@
 | [0826-most-profit-assigning-work](https://github.com/KBhavana5717/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/KBhavana5717/Leetcode/tree/master/0832-flipping-an-image) |
 | [0838-push-dominoes](https://github.com/KBhavana5717/Leetcode/tree/master/0838-push-dominoes) |
+| [0844-backspace-string-compare](https://github.com/KBhavana5717/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
 | ------- |
@@ -910,6 +911,7 @@
 | [0838-push-dominoes](https://github.com/KBhavana5717/Leetcode/tree/master/0838-push-dominoes) |
 | [0839-similar-string-groups](https://github.com/KBhavana5717/Leetcode/tree/master/0839-similar-string-groups) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [0844-backspace-string-compare](https://github.com/KBhavana5717/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -1419,6 +1421,7 @@
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0770-basic-calculator-iv](https://github.com/KBhavana5717/Leetcode/tree/master/0770-basic-calculator-iv) |
+| [0844-backspace-string-compare](https://github.com/KBhavana5717/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
@@ -1645,6 +1648,7 @@
 | [0735-asteroid-collision](https://github.com/KBhavana5717/Leetcode/tree/master/0735-asteroid-collision) |
 | [0749-contain-virus](https://github.com/KBhavana5717/Leetcode/tree/master/0749-contain-virus) |
 | [0832-flipping-an-image](https://github.com/KBhavana5717/Leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/KBhavana5717/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Algorithm X
 |  |
 | ------- |
