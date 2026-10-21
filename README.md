@@ -112,6 +112,7 @@
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/KBhavana5717/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/KBhavana5717/Leetcode/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/KBhavana5717/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0825-friends-of-appropriate-ages](https://github.com/KBhavana5717/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 ## Math
 |  |
 | ------- |
@@ -573,6 +574,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/KBhavana5717/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0822-card-flipping-game](https://github.com/KBhavana5717/Leetcode/tree/master/0822-card-flipping-game) |
 | [0823-binary-trees-with-factors](https://github.com/KBhavana5717/Leetcode/tree/master/0823-binary-trees-with-factors) |
+| [0825-friends-of-appropriate-ages](https://github.com/KBhavana5717/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -971,6 +973,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/KBhavana5717/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/KBhavana5717/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [0825-friends-of-appropriate-ages](https://github.com/KBhavana5717/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
@@ -1285,6 +1288,7 @@
 | [0791-custom-sort-string](https://github.com/KBhavana5717/Leetcode/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0823-binary-trees-with-factors](https://github.com/KBhavana5717/Leetcode/tree/master/0823-binary-trees-with-factors) |
+| [0825-friends-of-appropriate-ages](https://github.com/KBhavana5717/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
