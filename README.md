@@ -560,6 +560,7 @@
 | [0807-max-increase-to-keep-city-skyline](https://github.com/KBhavana5717/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0809-expressive-words](https://github.com/KBhavana5717/Leetcode/tree/master/0809-expressive-words) |
 | [0810-chalkboard-xor-game](https://github.com/KBhavana5717/Leetcode/tree/master/0810-chalkboard-xor-game) |
+| [0811-subdomain-visit-count](https://github.com/KBhavana5717/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -689,6 +690,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/KBhavana5717/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0805-split-array-with-same-average](https://github.com/KBhavana5717/Leetcode/tree/master/0805-split-array-with-same-average) |
+| [0811-subdomain-visit-count](https://github.com/KBhavana5717/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -857,6 +859,7 @@
 | [0804-unique-morse-code-words](https://github.com/KBhavana5717/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/KBhavana5717/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/KBhavana5717/Leetcode/tree/master/0809-expressive-words) |
+| [0811-subdomain-visit-count](https://github.com/KBhavana5717/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -2163,6 +2166,7 @@
 | [0621-task-scheduler](https://github.com/KBhavana5717/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/KBhavana5717/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/KBhavana5717/Leetcode/tree/master/0767-reorganize-string) |
+| [0811-subdomain-visit-count](https://github.com/KBhavana5717/Leetcode/tree/master/0811-subdomain-visit-count) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
