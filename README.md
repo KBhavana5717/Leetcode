@@ -572,6 +572,7 @@
 | [0820-short-encoding-of-words](https://github.com/KBhavana5717/Leetcode/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/KBhavana5717/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0822-card-flipping-game](https://github.com/KBhavana5717/Leetcode/tree/master/0822-card-flipping-game) |
+| [0823-binary-trees-with-factors](https://github.com/KBhavana5717/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -707,6 +708,7 @@
 | [0819-most-common-word](https://github.com/KBhavana5717/Leetcode/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/KBhavana5717/Leetcode/tree/master/0820-short-encoding-of-words) |
 | [0822-card-flipping-game](https://github.com/KBhavana5717/Leetcode/tree/master/0822-card-flipping-game) |
+| [0823-binary-trees-with-factors](https://github.com/KBhavana5717/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -1122,6 +1124,7 @@
 | [0808-soup-servings](https://github.com/KBhavana5717/Leetcode/tree/master/0808-soup-servings) |
 | [0813-largest-sum-of-averages](https://github.com/KBhavana5717/Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0818-race-car](https://github.com/KBhavana5717/Leetcode/tree/master/0818-race-car) |
+| [0823-binary-trees-with-factors](https://github.com/KBhavana5717/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
@@ -1280,6 +1283,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/KBhavana5717/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0791-custom-sort-string](https://github.com/KBhavana5717/Leetcode/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0823-binary-trees-with-factors](https://github.com/KBhavana5717/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
