@@ -865,6 +865,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/KBhavana5717/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/KBhavana5717/Leetcode/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/KBhavana5717/Leetcode/tree/master/0811-subdomain-visit-count) |
+| [0816-ambiguous-coordinates](https://github.com/KBhavana5717/Leetcode/tree/master/0816-ambiguous-coordinates) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -1308,6 +1309,7 @@
 | [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0784-letter-case-permutation](https://github.com/KBhavana5717/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/KBhavana5717/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0816-ambiguous-coordinates](https://github.com/KBhavana5717/Leetcode/tree/master/0816-ambiguous-coordinates) |
 ## Stack
 |  |
 | ------- |
@@ -2205,6 +2207,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/KBhavana5717/Leetcode/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/KBhavana5717/Leetcode/tree/master/0479-largest-palindrome-product) |
+| [0816-ambiguous-coordinates](https://github.com/KBhavana5717/Leetcode/tree/master/0816-ambiguous-coordinates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
