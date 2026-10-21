@@ -925,6 +925,7 @@
 | [0844-backspace-string-compare](https://github.com/KBhavana5717/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/KBhavana5717/Leetcode/tree/master/0848-shifting-letters) |
 | [0854-k-similar-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0854-k-similar-strings) |
+| [0856-score-of-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -1442,6 +1443,7 @@
 | [0770-basic-calculator-iv](https://github.com/KBhavana5717/Leetcode/tree/master/0770-basic-calculator-iv) |
 | [0844-backspace-string-compare](https://github.com/KBhavana5717/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/KBhavana5717/Leetcode/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
@@ -1451,6 +1453,7 @@
 | [0032-longest-valid-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KBhavana5717/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Heap (Priority Queue)
 |  |
