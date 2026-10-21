@@ -563,6 +563,7 @@
 | [0810-chalkboard-xor-game](https://github.com/KBhavana5717/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0811-subdomain-visit-count](https://github.com/KBhavana5717/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0812-largest-triangle-area](https://github.com/KBhavana5717/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0813-largest-sum-of-averages](https://github.com/KBhavana5717/Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1102,6 +1103,7 @@
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/KBhavana5717/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0805-split-array-with-same-average](https://github.com/KBhavana5717/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/KBhavana5717/Leetcode/tree/master/0808-soup-servings) |
+| [0813-largest-sum-of-averages](https://github.com/KBhavana5717/Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
@@ -2251,6 +2253,7 @@
 | [0731-my-calendar-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0732-my-calendar-iii) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/KBhavana5717/Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
+| [0813-largest-sum-of-averages](https://github.com/KBhavana5717/Leetcode/tree/master/0813-largest-sum-of-averages) |
 ## Quickselect
 |  |
 | ------- |
