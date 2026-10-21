@@ -909,6 +909,7 @@
 | [0833-find-and-replace-in-string](https://github.com/KBhavana5717/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0838-push-dominoes](https://github.com/KBhavana5717/Leetcode/tree/master/0838-push-dominoes) |
 | [0839-similar-string-groups](https://github.com/KBhavana5717/Leetcode/tree/master/0839-similar-string-groups) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -1368,6 +1369,7 @@
 | [0784-letter-case-permutation](https://github.com/KBhavana5717/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/KBhavana5717/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0816-ambiguous-coordinates](https://github.com/KBhavana5717/Leetcode/tree/master/0816-ambiguous-coordinates) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
 ## Stack
 |  |
 | ------- |
