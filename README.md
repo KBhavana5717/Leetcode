@@ -596,6 +596,7 @@
 | [0848-shifting-letters](https://github.com/KBhavana5717/Leetcode/tree/master/0848-shifting-letters) |
 | [0849-maximize-distance-to-closest-person](https://github.com/KBhavana5717/Leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0850-rectangle-area-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0850-rectangle-area-ii) |
+| [0851-loud-and-rich](https://github.com/KBhavana5717/Leetcode/tree/master/0851-loud-and-rich) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1806,6 +1807,7 @@
 | [0834-sum-of-distances-in-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0839-similar-string-groups](https://github.com/KBhavana5717/Leetcode/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/KBhavana5717/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/KBhavana5717/Leetcode/tree/master/0851-loud-and-rich) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -2122,6 +2124,7 @@
 | [0834-sum-of-distances-in-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/KBhavana5717/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0851-loud-and-rich](https://github.com/KBhavana5717/Leetcode/tree/master/0851-loud-and-rich) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -2338,12 +2341,14 @@
 | [0310-minimum-height-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/KBhavana5717/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/KBhavana5717/Leetcode/tree/master/0851-loud-and-rich) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/KBhavana5717/Leetcode/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/KBhavana5717/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0851-loud-and-rich](https://github.com/KBhavana5717/Leetcode/tree/master/0851-loud-and-rich) |
 ## Prefix Sum
 |  |
 | ------- |
