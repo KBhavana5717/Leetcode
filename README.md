@@ -554,6 +554,7 @@
 | [0804-unique-morse-code-words](https://github.com/KBhavana5717/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0805-split-array-with-same-average](https://github.com/KBhavana5717/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0806-number-of-lines-to-write-string](https://github.com/KBhavana5717/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/KBhavana5717/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1145,6 +1146,7 @@
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0781-rabbits-in-forest](https://github.com/KBhavana5717/Leetcode/tree/master/0781-rabbits-in-forest) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/KBhavana5717/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
@@ -1518,6 +1520,7 @@
 | [0782-transform-to-chessboard](https://github.com/KBhavana5717/Leetcode/tree/master/0782-transform-to-chessboard) |
 | [0794-valid-tic-tac-toe-state](https://github.com/KBhavana5717/Leetcode/tree/master/0794-valid-tic-tac-toe-state) |
 | [0803-bricks-falling-when-hit](https://github.com/KBhavana5717/Leetcode/tree/master/0803-bricks-falling-when-hit) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/KBhavana5717/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 ## Monotonic Stack
 |  |
 | ------- |
