@@ -597,6 +597,7 @@
 | [0849-maximize-distance-to-closest-person](https://github.com/KBhavana5717/Leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0850-rectangle-area-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0850-rectangle-area-ii) |
 | [0851-loud-and-rich](https://github.com/KBhavana5717/Leetcode/tree/master/0851-loud-and-rich) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/KBhavana5717/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1012,6 +1013,7 @@
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/KBhavana5717/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0825-friends-of-appropriate-ages](https://github.com/KBhavana5717/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/KBhavana5717/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/KBhavana5717/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
@@ -2701,4 +2703,8 @@
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/KBhavana5717/Leetcode/tree/master/0805-split-array-with-same-average) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/KBhavana5717/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
