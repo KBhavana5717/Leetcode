@@ -244,6 +244,7 @@
 | [0829-consecutive-numbers-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/KBhavana5717/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0837-new-21-game](https://github.com/KBhavana5717/Leetcode/tree/master/0837-new-21-game) |
+| [0840-magic-squares-in-grid](https://github.com/KBhavana5717/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
@@ -587,6 +588,7 @@
 | [0833-find-and-replace-in-string](https://github.com/KBhavana5717/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0835-image-overlap](https://github.com/KBhavana5717/Leetcode/tree/master/0835-image-overlap) |
 | [0839-similar-string-groups](https://github.com/KBhavana5717/Leetcode/tree/master/0839-similar-string-groups) |
+| [0840-magic-squares-in-grid](https://github.com/KBhavana5717/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -726,6 +728,7 @@
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/KBhavana5717/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0833-find-and-replace-in-string](https://github.com/KBhavana5717/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0839-similar-string-groups](https://github.com/KBhavana5717/Leetcode/tree/master/0839-similar-string-groups) |
+| [0840-magic-squares-in-grid](https://github.com/KBhavana5717/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -1599,6 +1602,7 @@
 | [0827-making-a-large-island](https://github.com/KBhavana5717/Leetcode/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/KBhavana5717/Leetcode/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/KBhavana5717/Leetcode/tree/master/0835-image-overlap) |
+| [0840-magic-squares-in-grid](https://github.com/KBhavana5717/Leetcode/tree/master/0840-magic-squares-in-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
