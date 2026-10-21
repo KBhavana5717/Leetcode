@@ -114,6 +114,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/KBhavana5717/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0825-friends-of-appropriate-ages](https://github.com/KBhavana5717/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/KBhavana5717/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0832-flipping-an-image](https://github.com/KBhavana5717/Leetcode/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -579,6 +580,7 @@
 | [0825-friends-of-appropriate-ages](https://github.com/KBhavana5717/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/KBhavana5717/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/KBhavana5717/Leetcode/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/KBhavana5717/Leetcode/tree/master/0832-flipping-an-image) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1531,6 +1533,7 @@
 | [0784-letter-case-permutation](https://github.com/KBhavana5717/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0805-split-array-with-same-average](https://github.com/KBhavana5717/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/KBhavana5717/Leetcode/tree/master/0810-chalkboard-xor-game) |
+| [0832-flipping-an-image](https://github.com/KBhavana5717/Leetcode/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
 | ------- |
@@ -1578,6 +1581,7 @@
 | [0803-bricks-falling-when-hit](https://github.com/KBhavana5717/Leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/KBhavana5717/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0827-making-a-large-island](https://github.com/KBhavana5717/Leetcode/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/KBhavana5717/Leetcode/tree/master/0832-flipping-an-image) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1617,6 +1621,7 @@
 | [0682-baseball-game](https://github.com/KBhavana5717/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KBhavana5717/Leetcode/tree/master/0735-asteroid-collision) |
 | [0749-contain-virus](https://github.com/KBhavana5717/Leetcode/tree/master/0749-contain-virus) |
+| [0832-flipping-an-image](https://github.com/KBhavana5717/Leetcode/tree/master/0832-flipping-an-image) |
 ## Algorithm X
 |  |
 | ------- |
