@@ -568,6 +568,7 @@
 | [0815-bus-routes](https://github.com/KBhavana5717/Leetcode/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/KBhavana5717/Leetcode/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/KBhavana5717/Leetcode/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/KBhavana5717/Leetcode/tree/master/0820-short-encoding-of-words) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -701,6 +702,7 @@
 | [0815-bus-routes](https://github.com/KBhavana5717/Leetcode/tree/master/0815-bus-routes) |
 | [0817-linked-list-components](https://github.com/KBhavana5717/Leetcode/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/KBhavana5717/Leetcode/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/KBhavana5717/Leetcode/tree/master/0820-short-encoding-of-words) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -872,6 +874,7 @@
 | [0811-subdomain-visit-count](https://github.com/KBhavana5717/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0816-ambiguous-coordinates](https://github.com/KBhavana5717/Leetcode/tree/master/0816-ambiguous-coordinates) |
 | [0819-most-common-word](https://github.com/KBhavana5717/Leetcode/tree/master/0819-most-common-word) |
+| [0820-short-encoding-of-words](https://github.com/KBhavana5717/Leetcode/tree/master/0820-short-encoding-of-words) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -1194,6 +1197,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0745-prefix-and-suffix-search](https://github.com/KBhavana5717/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0820-short-encoding-of-words](https://github.com/KBhavana5717/Leetcode/tree/master/0820-short-encoding-of-words) |
 ## Sorting
 |  |
 | ------- |
