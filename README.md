@@ -1110,6 +1110,7 @@
 | [0805-split-array-with-same-average](https://github.com/KBhavana5717/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/KBhavana5717/Leetcode/tree/master/0808-soup-servings) |
 | [0813-largest-sum-of-averages](https://github.com/KBhavana5717/Leetcode/tree/master/0813-largest-sum-of-averages) |
+| [0818-race-car](https://github.com/KBhavana5717/Leetcode/tree/master/0818-race-car) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
@@ -2565,10 +2566,12 @@
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
+| [0818-race-car](https://github.com/KBhavana5717/Leetcode/tree/master/0818-race-car) |
 ## A* Search
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/KBhavana5717/Leetcode/tree/master/0773-sliding-puzzle) |
+| [0818-race-car](https://github.com/KBhavana5717/Leetcode/tree/master/0818-race-car) |
 ## Graph Coloring
 |  |
 | ------- |
