@@ -581,6 +581,7 @@
 | [0826-most-profit-assigning-work](https://github.com/KBhavana5717/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/KBhavana5717/Leetcode/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/KBhavana5717/Leetcode/tree/master/0832-flipping-an-image) |
+| [0833-find-and-replace-in-string](https://github.com/KBhavana5717/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -718,6 +719,7 @@
 | [0822-card-flipping-game](https://github.com/KBhavana5717/Leetcode/tree/master/0822-card-flipping-game) |
 | [0823-binary-trees-with-factors](https://github.com/KBhavana5717/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/KBhavana5717/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0833-find-and-replace-in-string](https://github.com/KBhavana5717/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -895,6 +897,7 @@
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/KBhavana5717/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0830-positions-of-large-groups](https://github.com/KBhavana5717/Leetcode/tree/master/0830-positions-of-large-groups) |
 | [0831-masking-personal-information](https://github.com/KBhavana5717/Leetcode/tree/master/0831-masking-personal-information) |
+| [0833-find-and-replace-in-string](https://github.com/KBhavana5717/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -1303,6 +1306,7 @@
 | [0823-binary-trees-with-factors](https://github.com/KBhavana5717/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/KBhavana5717/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/KBhavana5717/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0833-find-and-replace-in-string](https://github.com/KBhavana5717/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
