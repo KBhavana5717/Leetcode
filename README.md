@@ -595,6 +595,7 @@
 | [0846-hand-of-straights](https://github.com/KBhavana5717/Leetcode/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/KBhavana5717/Leetcode/tree/master/0848-shifting-letters) |
 | [0849-maximize-distance-to-closest-person](https://github.com/KBhavana5717/Leetcode/tree/master/0849-maximize-distance-to-closest-person) |
+| [0850-rectangle-area-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0850-rectangle-area-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -2398,6 +2399,7 @@
 | [0729-my-calendar-i](https://github.com/KBhavana5717/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0732-my-calendar-iii) |
+| [0850-rectangle-area-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0850-rectangle-area-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Sweep Line
@@ -2405,6 +2407,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0391-perfect-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0391-perfect-rectangle) |
+| [0850-rectangle-area-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0850-rectangle-area-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -2422,6 +2425,7 @@
 | [0729-my-calendar-i](https://github.com/KBhavana5717/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0732-my-calendar-iii) |
+| [0850-rectangle-area-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0850-rectangle-area-ii) |
 ## Queue
 |  |
 | ------- |
