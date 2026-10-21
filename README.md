@@ -239,6 +239,7 @@
 | [0808-soup-servings](https://github.com/KBhavana5717/Leetcode/tree/master/0808-soup-servings) |
 | [0810-chalkboard-xor-game](https://github.com/KBhavana5717/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/KBhavana5717/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0829-consecutive-numbers-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
@@ -2247,6 +2248,7 @@
 | [0204-count-primes](https://github.com/KBhavana5717/Leetcode/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/KBhavana5717/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [0816-ambiguous-coordinates](https://github.com/KBhavana5717/Leetcode/tree/master/0816-ambiguous-coordinates) |
+| [0829-consecutive-numbers-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
