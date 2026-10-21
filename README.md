@@ -115,6 +115,7 @@
 | [0825-friends-of-appropriate-ages](https://github.com/KBhavana5717/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/KBhavana5717/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0832-flipping-an-image](https://github.com/KBhavana5717/Leetcode/tree/master/0832-flipping-an-image) |
+| [0838-push-dominoes](https://github.com/KBhavana5717/Leetcode/tree/master/0838-push-dominoes) |
 ## Math
 |  |
 | ------- |
@@ -901,6 +902,7 @@
 | [0830-positions-of-large-groups](https://github.com/KBhavana5717/Leetcode/tree/master/0830-positions-of-large-groups) |
 | [0831-masking-personal-information](https://github.com/KBhavana5717/Leetcode/tree/master/0831-masking-personal-information) |
 | [0833-find-and-replace-in-string](https://github.com/KBhavana5717/Leetcode/tree/master/0833-find-and-replace-in-string) |
+| [0838-push-dominoes](https://github.com/KBhavana5717/Leetcode/tree/master/0838-push-dominoes) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -1150,6 +1152,7 @@
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/KBhavana5717/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0834-sum-of-distances-in-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0837-new-21-game](https://github.com/KBhavana5717/Leetcode/tree/master/0837-new-21-game) |
+| [0838-push-dominoes](https://github.com/KBhavana5717/Leetcode/tree/master/0838-push-dominoes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
