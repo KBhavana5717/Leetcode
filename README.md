@@ -230,6 +230,7 @@
 | [0788-rotated-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0788-rotated-digits) |
 | [0789-escape-the-ghosts](https://github.com/KBhavana5717/Leetcode/tree/master/0789-escape-the-ghosts) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/KBhavana5717/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
+| [0805-split-array-with-same-average](https://github.com/KBhavana5717/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
@@ -551,6 +552,7 @@
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/KBhavana5717/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0803-bricks-falling-when-hit](https://github.com/KBhavana5717/Leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [0804-unique-morse-code-words](https://github.com/KBhavana5717/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0805-split-array-with-same-average](https://github.com/KBhavana5717/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -679,6 +681,7 @@
 | [0791-custom-sort-string](https://github.com/KBhavana5717/Leetcode/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/KBhavana5717/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0805-split-array-with-same-average](https://github.com/KBhavana5717/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -1083,6 +1086,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/KBhavana5717/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0799-champagne-tower](https://github.com/KBhavana5717/Leetcode/tree/master/0799-champagne-tower) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/KBhavana5717/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0805-split-array-with-same-average](https://github.com/KBhavana5717/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
@@ -1466,6 +1470,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/KBhavana5717/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0782-transform-to-chessboard](https://github.com/KBhavana5717/Leetcode/tree/master/0782-transform-to-chessboard) |
 | [0784-letter-case-permutation](https://github.com/KBhavana5717/Leetcode/tree/master/0784-letter-case-permutation) |
+| [0805-split-array-with-same-average](https://github.com/KBhavana5717/Leetcode/tree/master/0805-split-array-with-same-average) |
 ## Matrix
 |  |
 | ------- |
@@ -2467,6 +2472,7 @@
 | [0638-shopping-offers](https://github.com/KBhavana5717/Leetcode/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/KBhavana5717/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/KBhavana5717/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0805-split-array-with-same-average](https://github.com/KBhavana5717/Leetcode/tree/master/0805-split-array-with-same-average) |
 ## Rejection Sampling
 |  |
 | ------- |
@@ -2538,4 +2544,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/KBhavana5717/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Meet in the Middle
+|  |
+| ------- |
+| [0805-split-array-with-same-average](https://github.com/KBhavana5717/Leetcode/tree/master/0805-split-array-with-same-average) |
 <!---LeetCode Topics End-->
