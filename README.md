@@ -242,6 +242,7 @@
 | [0812-largest-triangle-area](https://github.com/KBhavana5717/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0829-consecutive-numbers-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/KBhavana5717/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0837-new-21-game](https://github.com/KBhavana5717/Leetcode/tree/master/0837-new-21-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
@@ -926,6 +927,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/KBhavana5717/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/KBhavana5717/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0837-new-21-game](https://github.com/KBhavana5717/Leetcode/tree/master/0837-new-21-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -1147,6 +1149,7 @@
 | [0823-binary-trees-with-factors](https://github.com/KBhavana5717/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/KBhavana5717/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0834-sum-of-distances-in-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
+| [0837-new-21-game](https://github.com/KBhavana5717/Leetcode/tree/master/0837-new-21-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
@@ -2579,6 +2582,7 @@
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/KBhavana5717/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0808-soup-servings](https://github.com/KBhavana5717/Leetcode/tree/master/0808-soup-servings) |
+| [0837-new-21-game](https://github.com/KBhavana5717/Leetcode/tree/master/0837-new-21-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
