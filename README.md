@@ -599,6 +599,7 @@
 | [0851-loud-and-rich](https://github.com/KBhavana5717/Leetcode/tree/master/0851-loud-and-rich) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KBhavana5717/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/KBhavana5717/Leetcode/tree/master/0853-car-fleet) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/KBhavana5717/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1238,6 +1239,7 @@
 | [0807-max-increase-to-keep-city-skyline](https://github.com/KBhavana5717/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0826-most-profit-assigning-work](https://github.com/KBhavana5717/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/KBhavana5717/Leetcode/tree/master/0846-hand-of-straights) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/KBhavana5717/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
@@ -1345,6 +1347,7 @@
 | [0833-find-and-replace-in-string](https://github.com/KBhavana5717/Leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0846-hand-of-straights](https://github.com/KBhavana5717/Leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/KBhavana5717/Leetcode/tree/master/0853-car-fleet) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/KBhavana5717/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -1489,6 +1492,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/KBhavana5717/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0855-exam-room](https://github.com/KBhavana5717/Leetcode/tree/master/0855-exam-room) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/KBhavana5717/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
