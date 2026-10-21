@@ -610,6 +610,7 @@
 | [0864-shortest-path-to-get-all-keys](https://github.com/KBhavana5717/Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0867-transpose-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0867-transpose-matrix) |
 | [0870-advantage-shuffle](https://github.com/KBhavana5717/Leetcode/tree/master/0870-advantage-shuffle) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1197,6 +1198,7 @@
 | [0838-push-dominoes](https://github.com/KBhavana5717/Leetcode/tree/master/0838-push-dominoes) |
 | [0845-longest-mountain-in-array](https://github.com/KBhavana5717/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
@@ -1260,6 +1262,7 @@
 | [0860-lemonade-change](https://github.com/KBhavana5717/Leetcode/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0870-advantage-shuffle](https://github.com/KBhavana5717/Leetcode/tree/master/0870-advantage-shuffle) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
@@ -1516,6 +1519,7 @@
 | [0855-exam-room](https://github.com/KBhavana5717/Leetcode/tree/master/0855-exam-room) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/KBhavana5717/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/KBhavana5717/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
