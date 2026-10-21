@@ -594,6 +594,7 @@
 | [0845-longest-mountain-in-array](https://github.com/KBhavana5717/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/KBhavana5717/Leetcode/tree/master/0846-hand-of-straights) |
 | [0848-shifting-letters](https://github.com/KBhavana5717/Leetcode/tree/master/0848-shifting-letters) |
+| [0849-maximize-distance-to-closest-person](https://github.com/KBhavana5717/Leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
