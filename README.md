@@ -749,6 +749,7 @@
 | [0854-k-similar-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0854-k-similar-strings) |
 | [0859-buddy-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0859-buddy-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -1842,6 +1843,7 @@
 | [0841-keys-and-rooms](https://github.com/KBhavana5717/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/KBhavana5717/Leetcode/tree/master/0851-loud-and-rich) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1927,6 +1929,7 @@
 | [0814-binary-tree-pruning](https://github.com/KBhavana5717/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0834-sum-of-distances-in-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
@@ -1999,6 +2002,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/KBhavana5717/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -2102,6 +2106,7 @@
 | [0854-k-similar-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0854-k-similar-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KBhavana5717/Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## DP on Trees
 |  |
 | ------- |
@@ -2112,6 +2117,7 @@
 | [0563-binary-tree-tilt](https://github.com/KBhavana5717/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0687-longest-univalue-path](https://github.com/KBhavana5717/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0834-sum-of-distances-in-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -2493,11 +2499,13 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Monotonic Queue
 |  |
 | ------- |
