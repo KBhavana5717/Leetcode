@@ -44,6 +44,7 @@
 | [0706-design-hashmap](https://github.com/KBhavana5717/Leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/KBhavana5717/Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/KBhavana5717/Leetcode/tree/master/0817-linked-list-components) |
 ## Two Pointers
 |  |
 | ------- |
@@ -565,6 +566,7 @@
 | [0812-largest-triangle-area](https://github.com/KBhavana5717/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0813-largest-sum-of-averages](https://github.com/KBhavana5717/Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0815-bus-routes](https://github.com/KBhavana5717/Leetcode/tree/master/0815-bus-routes) |
+| [0817-linked-list-components](https://github.com/KBhavana5717/Leetcode/tree/master/0817-linked-list-components) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -696,6 +698,7 @@
 | [0805-split-array-with-same-average](https://github.com/KBhavana5717/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0811-subdomain-visit-count](https://github.com/KBhavana5717/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0815-bus-routes](https://github.com/KBhavana5717/Leetcode/tree/master/0815-bus-routes) |
+| [0817-linked-list-components](https://github.com/KBhavana5717/Leetcode/tree/master/0817-linked-list-components) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
