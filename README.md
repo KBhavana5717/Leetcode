@@ -233,6 +233,7 @@
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/KBhavana5717/Leetcode/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0805-split-array-with-same-average](https://github.com/KBhavana5717/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0808-soup-servings](https://github.com/KBhavana5717/Leetcode/tree/master/0808-soup-servings) |
+| [0810-chalkboard-xor-game](https://github.com/KBhavana5717/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
@@ -558,6 +559,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/KBhavana5717/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/KBhavana5717/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0809-expressive-words](https://github.com/KBhavana5717/Leetcode/tree/master/0809-expressive-words) |
+| [0810-chalkboard-xor-game](https://github.com/KBhavana5717/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1480,6 +1482,7 @@
 | [0782-transform-to-chessboard](https://github.com/KBhavana5717/Leetcode/tree/master/0782-transform-to-chessboard) |
 | [0784-letter-case-permutation](https://github.com/KBhavana5717/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0805-split-array-with-same-average](https://github.com/KBhavana5717/Leetcode/tree/master/0805-split-array-with-same-average) |
+| [0810-chalkboard-xor-game](https://github.com/KBhavana5717/Leetcode/tree/master/0810-chalkboard-xor-game) |
 ## Matrix
 |  |
 | ------- |
@@ -2355,6 +2358,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/KBhavana5717/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/KBhavana5717/Leetcode/tree/master/0319-bulb-switcher) |
+| [0810-chalkboard-xor-game](https://github.com/KBhavana5717/Leetcode/tree/master/0810-chalkboard-xor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -2369,6 +2373,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/KBhavana5717/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/KBhavana5717/Leetcode/tree/master/0486-predict-the-winner) |
+| [0810-chalkboard-xor-game](https://github.com/KBhavana5717/Leetcode/tree/master/0810-chalkboard-xor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -2377,6 +2382,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/KBhavana5717/Leetcode/tree/master/0292-nim-game) |
+| [0810-chalkboard-xor-game](https://github.com/KBhavana5717/Leetcode/tree/master/0810-chalkboard-xor-game) |
 ## Data Stream
 |  |
 | ------- |
@@ -2497,6 +2503,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/KBhavana5717/Leetcode/tree/master/0486-predict-the-winner) |
+| [0810-chalkboard-xor-game](https://github.com/KBhavana5717/Leetcode/tree/master/0810-chalkboard-xor-game) |
 ## Longest Common Subsequence
 |  |
 | ------- |
