@@ -740,6 +740,7 @@
 | [0839-similar-string-groups](https://github.com/KBhavana5717/Leetcode/tree/master/0839-similar-string-groups) |
 | [0840-magic-squares-in-grid](https://github.com/KBhavana5717/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/KBhavana5717/Leetcode/tree/master/0846-hand-of-straights) |
+| [0854-k-similar-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0854-k-similar-strings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -923,6 +924,7 @@
 | [0842-split-array-into-fibonacci-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0844-backspace-string-compare](https://github.com/KBhavana5717/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/KBhavana5717/Leetcode/tree/master/0848-shifting-letters) |
+| [0854-k-similar-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0854-k-similar-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -2069,6 +2071,7 @@
 | [0839-similar-string-groups](https://github.com/KBhavana5717/Leetcode/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/KBhavana5717/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0854-k-similar-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0854-k-similar-strings) |
 ## DP on Trees
 |  |
 | ------- |
