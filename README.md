@@ -577,6 +577,7 @@
 | [0823-binary-trees-with-factors](https://github.com/KBhavana5717/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/KBhavana5717/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/KBhavana5717/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0827-making-a-large-island](https://github.com/KBhavana5717/Leetcode/tree/master/0827-making-a-large-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1570,6 +1571,7 @@
 | [0794-valid-tic-tac-toe-state](https://github.com/KBhavana5717/Leetcode/tree/master/0794-valid-tic-tac-toe-state) |
 | [0803-bricks-falling-when-hit](https://github.com/KBhavana5717/Leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/KBhavana5717/Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0827-making-a-large-island](https://github.com/KBhavana5717/Leetcode/tree/master/0827-making-a-large-island) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1749,6 +1751,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/KBhavana5717/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/KBhavana5717/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/KBhavana5717/Leetcode/tree/master/0814-binary-tree-pruning) |
+| [0827-making-a-large-island](https://github.com/KBhavana5717/Leetcode/tree/master/0827-making-a-large-island) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1999,6 +2002,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/KBhavana5717/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/KBhavana5717/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0815-bus-routes](https://github.com/KBhavana5717/Leetcode/tree/master/0815-bus-routes) |
+| [0827-making-a-large-island](https://github.com/KBhavana5717/Leetcode/tree/master/0827-making-a-large-island) |
 ## DP on Trees
 |  |
 | ------- |
@@ -2033,6 +2037,7 @@
 | [0778-swim-in-rising-water](https://github.com/KBhavana5717/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/KBhavana5717/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0803-bricks-falling-when-hit](https://github.com/KBhavana5717/Leetcode/tree/master/0803-bricks-falling-when-hit) |
+| [0827-making-a-large-island](https://github.com/KBhavana5717/Leetcode/tree/master/0827-making-a-large-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
