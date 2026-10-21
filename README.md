@@ -882,6 +882,7 @@
 | [0819-most-common-word](https://github.com/KBhavana5717/Leetcode/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/KBhavana5717/Leetcode/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/KBhavana5717/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0824-goat-latin](https://github.com/KBhavana5717/Leetcode/tree/master/0824-goat-latin) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
