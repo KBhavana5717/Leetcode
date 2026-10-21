@@ -714,6 +714,7 @@
 | [0820-short-encoding-of-words](https://github.com/KBhavana5717/Leetcode/tree/master/0820-short-encoding-of-words) |
 | [0822-card-flipping-game](https://github.com/KBhavana5717/Leetcode/tree/master/0822-card-flipping-game) |
 | [0823-binary-trees-with-factors](https://github.com/KBhavana5717/Leetcode/tree/master/0823-binary-trees-with-factors) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/KBhavana5717/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -888,6 +889,7 @@
 | [0820-short-encoding-of-words](https://github.com/KBhavana5717/Leetcode/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/KBhavana5717/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/KBhavana5717/Leetcode/tree/master/0824-goat-latin) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/KBhavana5717/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -1133,6 +1135,7 @@
 | [0813-largest-sum-of-averages](https://github.com/KBhavana5717/Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0818-race-car](https://github.com/KBhavana5717/Leetcode/tree/master/0818-race-car) |
 | [0823-binary-trees-with-factors](https://github.com/KBhavana5717/Leetcode/tree/master/0823-binary-trees-with-factors) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/KBhavana5717/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
