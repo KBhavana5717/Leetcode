@@ -549,6 +549,7 @@
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/KBhavana5717/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/KBhavana5717/Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/KBhavana5717/Leetcode/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0803-bricks-falling-when-hit](https://github.com/KBhavana5717/Leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1506,6 +1507,7 @@
 | [0778-swim-in-rising-water](https://github.com/KBhavana5717/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0782-transform-to-chessboard](https://github.com/KBhavana5717/Leetcode/tree/master/0782-transform-to-chessboard) |
 | [0794-valid-tic-tac-toe-state](https://github.com/KBhavana5717/Leetcode/tree/master/0794-valid-tic-tac-toe-state) |
+| [0803-bricks-falling-when-hit](https://github.com/KBhavana5717/Leetcode/tree/master/0803-bricks-falling-when-hit) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1964,6 +1966,7 @@
 | [0765-couples-holding-hands](https://github.com/KBhavana5717/Leetcode/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/KBhavana5717/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/KBhavana5717/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0803-bricks-falling-when-hit](https://github.com/KBhavana5717/Leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
