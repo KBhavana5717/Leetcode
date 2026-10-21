@@ -1605,6 +1605,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0861-score-after-flipping-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KBhavana5717/Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0868-binary-gap](https://github.com/KBhavana5717/Leetcode/tree/master/0868-binary-gap) |
 ## Matrix
 |  |
 | ------- |
