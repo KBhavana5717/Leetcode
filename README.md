@@ -256,6 +256,7 @@
 | [0869-reordered-power-of-2](https://github.com/KBhavana5717/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/KBhavana5717/Leetcode/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/KBhavana5717/Leetcode/tree/master/0878-nth-magical-number) |
+| [0883-projection-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
@@ -622,6 +623,7 @@
 | [0877-stone-game](https://github.com/KBhavana5717/Leetcode/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/KBhavana5717/Leetcode/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/KBhavana5717/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0883-projection-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1694,6 +1696,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KBhavana5717/Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0867-transpose-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2287,6 +2290,7 @@
 | [0812-largest-triangle-area](https://github.com/KBhavana5717/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/KBhavana5717/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/KBhavana5717/Leetcode/tree/master/0858-mirror-reflection) |
+| [0883-projection-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Euclidean Algorithm
 |  |
 | ------- |
