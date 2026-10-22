@@ -1861,6 +1861,7 @@
 | [0851-loud-and-rich](https://github.com/KBhavana5717/Leetcode/tree/master/0851-loud-and-rich) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0872-leaf-similar-trees) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -1947,6 +1948,7 @@
 | [0834-sum-of-distances-in-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
@@ -2020,6 +2022,7 @@
 | [0814-binary-tree-pruning](https://github.com/KBhavana5717/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
