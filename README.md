@@ -121,6 +121,7 @@
 | [0845-longest-mountain-in-array](https://github.com/KBhavana5717/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0870-advantage-shuffle](https://github.com/KBhavana5717/Leetcode/tree/master/0870-advantage-shuffle) |
 | [0876-middle-of-the-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/KBhavana5717/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Math
 |  |
 | ------- |
@@ -620,6 +621,7 @@
 | [0875-koko-eating-bananas](https://github.com/KBhavana5717/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/KBhavana5717/Leetcode/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/KBhavana5717/Leetcode/tree/master/0879-profitable-schemes) |
+| [0881-boats-to-save-people](https://github.com/KBhavana5717/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1281,6 +1283,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0870-advantage-shuffle](https://github.com/KBhavana5717/Leetcode/tree/master/0870-advantage-shuffle) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0881-boats-to-save-people](https://github.com/KBhavana5717/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
@@ -1391,6 +1394,7 @@
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/KBhavana5717/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0869-reordered-power-of-2](https://github.com/KBhavana5717/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0870-advantage-shuffle](https://github.com/KBhavana5717/Leetcode/tree/master/0870-advantage-shuffle) |
+| [0881-boats-to-save-people](https://github.com/KBhavana5717/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -2817,4 +2821,8 @@
 |  |
 | ------- |
 | [0878-nth-magical-number](https://github.com/KBhavana5717/Leetcode/tree/master/0878-nth-magical-number) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/KBhavana5717/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
