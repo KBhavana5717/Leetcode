@@ -619,6 +619,7 @@
 | [0874-walking-robot-simulation](https://github.com/KBhavana5717/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/KBhavana5717/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/KBhavana5717/Leetcode/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/KBhavana5717/Leetcode/tree/master/0879-profitable-schemes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1214,6 +1215,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0877-stone-game](https://github.com/KBhavana5717/Leetcode/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/KBhavana5717/Leetcode/tree/master/0879-profitable-schemes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
@@ -2570,6 +2572,7 @@
 | [0494-target-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0518-coin-change-ii) |
 | [0638-shopping-offers](https://github.com/KBhavana5717/Leetcode/tree/master/0638-shopping-offers) |
+| [0879-profitable-schemes](https://github.com/KBhavana5717/Leetcode/tree/master/0879-profitable-schemes) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -2705,6 +2708,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/KBhavana5717/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0494-target-sum) |
+| [0879-profitable-schemes](https://github.com/KBhavana5717/Leetcode/tree/master/0879-profitable-schemes) |
 ## Bitmask
 |  |
 | ------- |
