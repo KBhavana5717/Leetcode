@@ -955,6 +955,7 @@
 | [0854-k-similar-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0854-k-similar-strings) |
 | [0856-score-of-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0859-buddy-strings) |
+| [0880-decoded-string-at-index](https://github.com/KBhavana5717/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -1489,6 +1490,7 @@
 | [0844-backspace-string-compare](https://github.com/KBhavana5717/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/KBhavana5717/Leetcode/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0880-decoded-string-at-index](https://github.com/KBhavana5717/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
