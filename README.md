@@ -45,6 +45,7 @@
 | [0707-design-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/KBhavana5717/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/KBhavana5717/Leetcode/tree/master/0817-linked-list-components) |
+| [0876-middle-of-the-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [0844-backspace-string-compare](https://github.com/KBhavana5717/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/KBhavana5717/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0870-advantage-shuffle](https://github.com/KBhavana5717/Leetcode/tree/master/0870-advantage-shuffle) |
+| [0876-middle-of-the-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
