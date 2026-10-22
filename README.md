@@ -1543,6 +1543,7 @@
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/KBhavana5717/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/KBhavana5717/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/KBhavana5717/Leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
@@ -2213,6 +2214,7 @@
 | [0841-keys-and-rooms](https://github.com/KBhavana5717/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0851-loud-and-rich](https://github.com/KBhavana5717/Leetcode/tree/master/0851-loud-and-rich) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/KBhavana5717/Leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -2700,6 +2702,7 @@
 | [0399-evaluate-division](https://github.com/KBhavana5717/Leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/KBhavana5717/Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/KBhavana5717/Leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -2774,6 +2777,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/KBhavana5717/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/KBhavana5717/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/KBhavana5717/Leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Eulerian Graph
 |  |
 | ------- |
