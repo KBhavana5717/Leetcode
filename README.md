@@ -627,6 +627,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0885-spiral-matrix-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/KBhavana5717/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -778,6 +779,7 @@
 | [0874-walking-robot-simulation](https://github.com/KBhavana5717/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/KBhavana5717/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/KBhavana5717/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -1095,6 +1097,7 @@
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0761-special-binary-string](https://github.com/KBhavana5717/Leetcode/tree/master/0761-special-binary-string) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
@@ -1989,6 +1992,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
@@ -2063,6 +2067,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
