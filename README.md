@@ -257,6 +257,7 @@
 | [0877-stone-game](https://github.com/KBhavana5717/Leetcode/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/KBhavana5717/Leetcode/tree/master/0878-nth-magical-number) |
 | [0883-projection-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0887-super-egg-drop](https://github.com/KBhavana5717/Leetcode/tree/master/0887-super-egg-drop) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
@@ -1059,6 +1060,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/KBhavana5717/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/KBhavana5717/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0878-nth-magical-number](https://github.com/KBhavana5717/Leetcode/tree/master/0878-nth-magical-number) |
+| [0887-super-egg-drop](https://github.com/KBhavana5717/Leetcode/tree/master/0887-super-egg-drop) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
@@ -1224,6 +1226,7 @@
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0877-stone-game](https://github.com/KBhavana5717/Leetcode/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/KBhavana5717/Leetcode/tree/master/0879-profitable-schemes) |
+| [0887-super-egg-drop](https://github.com/KBhavana5717/Leetcode/tree/master/0887-super-egg-drop) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
