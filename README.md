@@ -637,6 +637,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/KBhavana5717/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/KBhavana5717/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -1662,6 +1663,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KBhavana5717/Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0868-binary-gap](https://github.com/KBhavana5717/Leetcode/tree/master/0868-binary-gap) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/KBhavana5717/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Matrix
 |  |
 | ------- |
