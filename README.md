@@ -640,6 +640,7 @@
 | [0898-bitwise-ors-of-subarrays](https://github.com/KBhavana5717/Leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0900-rle-iterator](https://github.com/KBhavana5717/Leetcode/tree/master/0900-rle-iterator) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/KBhavana5717/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0904-fruit-into-baskets](https://github.com/KBhavana5717/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -796,6 +797,7 @@
 | [0890-find-and-replace-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0895-maximum-frequency-stack](https://github.com/KBhavana5717/Leetcode/tree/master/0895-maximum-frequency-stack) |
+| [0904-fruit-into-baskets](https://github.com/KBhavana5717/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -1017,6 +1019,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0837-new-21-game](https://github.com/KBhavana5717/Leetcode/tree/master/0837-new-21-game) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/KBhavana5717/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0904-fruit-into-baskets](https://github.com/KBhavana5717/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
