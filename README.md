@@ -1527,6 +1527,7 @@
 | [0856-score-of-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/KBhavana5717/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [0895-maximum-frequency-stack](https://github.com/KBhavana5717/Leetcode/tree/master/0895-maximum-frequency-stack) |
+| [0897-increasing-order-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
@@ -1925,6 +1926,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0886-possible-bipartition](https://github.com/KBhavana5717/Leetcode/tree/master/0886-possible-bipartition) |
+| [0897-increasing-order-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -2014,6 +2016,7 @@
 | [0872-leaf-similar-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [0897-increasing-order-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
@@ -2090,6 +2093,7 @@
 | [0872-leaf-similar-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [0897-increasing-order-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -2114,6 +2118,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KBhavana5717/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
