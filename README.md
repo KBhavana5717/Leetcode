@@ -668,6 +668,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/KBhavana5717/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [0927-three-equal-parts](https://github.com/KBhavana5717/Leetcode/tree/master/0927-three-equal-parts) |
+| [0928-minimize-malware-spread-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0928-minimize-malware-spread-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -830,6 +831,7 @@
 | [0916-word-subsets](https://github.com/KBhavana5717/Leetcode/tree/master/0916-word-subsets) |
 | [0923-3sum-with-multiplicity](https://github.com/KBhavana5717/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0928-minimize-malware-spread-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -2009,6 +2011,7 @@
 | [0886-possible-bipartition](https://github.com/KBhavana5717/Leetcode/tree/master/0886-possible-bipartition) |
 | [0897-increasing-order-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0928-minimize-malware-spread-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -2287,6 +2290,7 @@
 | [0909-snakes-and-ladders](https://github.com/KBhavana5717/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0919-complete-binary-tree-inserter](https://github.com/KBhavana5717/Leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0928-minimize-malware-spread-ii) |
 ## DP on Trees
 |  |
 | ------- |
@@ -2327,6 +2331,7 @@
 | [0839-similar-string-groups](https://github.com/KBhavana5717/Leetcode/tree/master/0839-similar-string-groups) |
 | [0886-possible-bipartition](https://github.com/KBhavana5717/Leetcode/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0928-minimize-malware-spread-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
@@ -2356,6 +2361,7 @@
 | [0886-possible-bipartition](https://github.com/KBhavana5717/Leetcode/tree/master/0886-possible-bipartition) |
 | [0913-cat-and-mouse](https://github.com/KBhavana5717/Leetcode/tree/master/0913-cat-and-mouse) |
 | [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0928-minimize-malware-spread-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
