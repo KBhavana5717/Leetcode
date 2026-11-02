@@ -259,6 +259,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0887-super-egg-drop](https://github.com/KBhavana5717/Leetcode/tree/master/0887-super-egg-drop) |
 | [0891-sum-of-subsequence-widths](https://github.com/KBhavana5717/Leetcode/tree/master/0891-sum-of-subsequence-widths) |
+| [0892-surface-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
@@ -631,6 +632,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0891-sum-of-subsequence-widths](https://github.com/KBhavana5717/Leetcode/tree/master/0891-sum-of-subsequence-widths) |
+| [0892-surface-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1719,6 +1721,7 @@
 | [0867-transpose-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0885-spiral-matrix-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0885-spiral-matrix-iii) |
+| [0892-surface-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2320,6 +2323,7 @@
 | [0836-rectangle-overlap](https://github.com/KBhavana5717/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/KBhavana5717/Leetcode/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0892-surface-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 ## Euclidean Algorithm
 |  |
 | ------- |
