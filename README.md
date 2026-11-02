@@ -1016,6 +1016,7 @@
 | [0906-super-palindromes](https://github.com/KBhavana5717/Leetcode/tree/master/0906-super-palindromes) |
 | [0916-word-subsets](https://github.com/KBhavana5717/Leetcode/tree/master/0916-word-subsets) |
 | [0917-reverse-only-letters](https://github.com/KBhavana5717/Leetcode/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KBhavana5717/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -1360,6 +1361,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/KBhavana5717/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0910-smallest-range-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KBhavana5717/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
@@ -1582,6 +1584,7 @@
 | [0897-increasing-order-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/KBhavana5717/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/KBhavana5717/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KBhavana5717/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
@@ -1592,6 +1595,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KBhavana5717/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KBhavana5717/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Heap (Priority Queue)
 |  |
