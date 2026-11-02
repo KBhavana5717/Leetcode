@@ -664,6 +664,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/KBhavana5717/Leetcode/tree/master/0923-3sum-with-multiplicity) |
+| [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -825,6 +826,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KBhavana5717/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0916-word-subsets](https://github.com/KBhavana5717/Leetcode/tree/master/0916-word-subsets) |
 | [0923-3sum-with-multiplicity](https://github.com/KBhavana5717/Leetcode/tree/master/0923-3sum-with-multiplicity) |
+| [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -2000,6 +2002,7 @@
 | [0872-leaf-similar-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0886-possible-bipartition](https://github.com/KBhavana5717/Leetcode/tree/master/0886-possible-bipartition) |
 | [0897-increasing-order-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -2277,6 +2280,7 @@
 | [0886-possible-bipartition](https://github.com/KBhavana5717/Leetcode/tree/master/0886-possible-bipartition) |
 | [0909-snakes-and-ladders](https://github.com/KBhavana5717/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0919-complete-binary-tree-inserter](https://github.com/KBhavana5717/Leetcode/tree/master/0919-complete-binary-tree-inserter) |
+| [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
 ## DP on Trees
 |  |
 | ------- |
@@ -2316,6 +2320,7 @@
 | [0827-making-a-large-island](https://github.com/KBhavana5717/Leetcode/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/KBhavana5717/Leetcode/tree/master/0839-similar-string-groups) |
 | [0886-possible-bipartition](https://github.com/KBhavana5717/Leetcode/tree/master/0886-possible-bipartition) |
+| [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
@@ -2344,6 +2349,7 @@
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/KBhavana5717/Leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0886-possible-bipartition](https://github.com/KBhavana5717/Leetcode/tree/master/0886-possible-bipartition) |
 | [0913-cat-and-mouse](https://github.com/KBhavana5717/Leetcode/tree/master/0913-cat-and-mouse) |
+| [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
 ## Brute-Force Search
 |  |
 | ------- |
