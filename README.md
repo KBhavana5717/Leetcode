@@ -264,6 +264,7 @@
 | [0899-orderly-queue](https://github.com/KBhavana5717/Leetcode/tree/master/0899-orderly-queue) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/KBhavana5717/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0906-super-palindromes](https://github.com/KBhavana5717/Leetcode/tree/master/0906-super-palindromes) |
+| [0908-smallest-range-i](https://github.com/KBhavana5717/Leetcode/tree/master/0908-smallest-range-i) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
@@ -645,6 +646,7 @@
 | [0904-fruit-into-baskets](https://github.com/KBhavana5717/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/KBhavana5717/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/KBhavana5717/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0908-smallest-range-i](https://github.com/KBhavana5717/Leetcode/tree/master/0908-smallest-range-i) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
