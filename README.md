@@ -655,6 +655,7 @@
 | [0911-online-election](https://github.com/KBhavana5717/Leetcode/tree/master/0911-online-election) |
 | [0912-sort-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KBhavana5717/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/KBhavana5717/Leetcode/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
