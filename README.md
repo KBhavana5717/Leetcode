@@ -267,6 +267,7 @@
 | [0908-smallest-range-i](https://github.com/KBhavana5717/Leetcode/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0913-cat-and-mouse](https://github.com/KBhavana5717/Leetcode/tree/master/0913-cat-and-mouse) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KBhavana5717/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
@@ -653,6 +654,7 @@
 | [0910-smallest-range-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0911-online-election](https://github.com/KBhavana5717/Leetcode/tree/master/0911-online-election) |
 | [0912-sort-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0912-sort-an-array) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KBhavana5717/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -811,6 +813,7 @@
 | [0895-maximum-frequency-stack](https://github.com/KBhavana5717/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/KBhavana5717/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0911-online-election](https://github.com/KBhavana5717/Leetcode/tree/master/0911-online-election) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KBhavana5717/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -2400,6 +2403,7 @@
 | [0365-water-and-jug-problem](https://github.com/KBhavana5717/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0592-fraction-addition-and-subtraction](https://github.com/KBhavana5717/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0780-reaching-points](https://github.com/KBhavana5717/Leetcode/tree/master/0780-reaching-points) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KBhavana5717/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Greatest Common Divisor
 |  |
 | ------- |
@@ -2408,6 +2412,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/KBhavana5717/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0780-reaching-points](https://github.com/KBhavana5717/Leetcode/tree/master/0780-reaching-points) |
 | [0858-mirror-reflection](https://github.com/KBhavana5717/Leetcode/tree/master/0858-mirror-reflection) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KBhavana5717/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Iterator
 |  |
 | ------- |
@@ -2488,6 +2493,7 @@
 | [0869-reordered-power-of-2](https://github.com/KBhavana5717/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/KBhavana5717/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0900-rle-iterator](https://github.com/KBhavana5717/Leetcode/tree/master/0900-rle-iterator) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KBhavana5717/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -2529,6 +2535,7 @@
 | [0258-add-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/KBhavana5717/Leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/KBhavana5717/Leetcode/tree/master/0866-prime-palindrome) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KBhavana5717/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Primality Test
 |  |
 | ------- |
