@@ -635,6 +635,7 @@
 | [0891-sum-of-subsequence-widths](https://github.com/KBhavana5717/Leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/KBhavana5717/Leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1247,6 +1248,7 @@
 | [0879-profitable-schemes](https://github.com/KBhavana5717/Leetcode/tree/master/0879-profitable-schemes) |
 | [0887-super-egg-drop](https://github.com/KBhavana5717/Leetcode/tree/master/0887-super-egg-drop) |
 | [0894-all-possible-full-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/KBhavana5717/Leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
@@ -1674,6 +1676,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/KBhavana5717/Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0868-binary-gap](https://github.com/KBhavana5717/Leetcode/tree/master/0868-binary-gap) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/KBhavana5717/Leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/KBhavana5717/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Matrix
 |  |
