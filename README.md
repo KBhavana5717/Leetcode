@@ -122,6 +122,7 @@
 | [0870-advantage-shuffle](https://github.com/KBhavana5717/Leetcode/tree/master/0870-advantage-shuffle) |
 | [0876-middle-of-the-linked-list](https://github.com/KBhavana5717/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/KBhavana5717/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/KBhavana5717/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -641,6 +642,7 @@
 | [0900-rle-iterator](https://github.com/KBhavana5717/Leetcode/tree/master/0900-rle-iterator) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/KBhavana5717/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0904-fruit-into-baskets](https://github.com/KBhavana5717/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/KBhavana5717/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1442,6 +1444,7 @@
 | [0891-sum-of-subsequence-widths](https://github.com/KBhavana5717/Leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0899-orderly-queue](https://github.com/KBhavana5717/Leetcode/tree/master/0899-orderly-queue) |
+| [0905-sort-array-by-parity](https://github.com/KBhavana5717/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
