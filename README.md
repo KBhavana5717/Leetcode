@@ -263,6 +263,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0899-orderly-queue](https://github.com/KBhavana5717/Leetcode/tree/master/0899-orderly-queue) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/KBhavana5717/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0906-super-palindromes](https://github.com/KBhavana5717/Leetcode/tree/master/0906-super-palindromes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
@@ -993,6 +994,7 @@
 | [0899-orderly-queue](https://github.com/KBhavana5717/Leetcode/tree/master/0899-orderly-queue) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/KBhavana5717/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0903-valid-permutations-for-di-sequence) |
+| [0906-super-palindromes](https://github.com/KBhavana5717/Leetcode/tree/master/0906-super-palindromes) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -2489,6 +2491,7 @@
 | [0829-consecutive-numbers-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [0845-longest-mountain-in-array](https://github.com/KBhavana5717/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0869-reordered-power-of-2](https://github.com/KBhavana5717/Leetcode/tree/master/0869-reordered-power-of-2) |
+| [0906-super-palindromes](https://github.com/KBhavana5717/Leetcode/tree/master/0906-super-palindromes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
