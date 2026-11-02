@@ -265,6 +265,7 @@
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/KBhavana5717/Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0906-super-palindromes](https://github.com/KBhavana5717/Leetcode/tree/master/0906-super-palindromes) |
 | [0908-smallest-range-i](https://github.com/KBhavana5717/Leetcode/tree/master/0908-smallest-range-i) |
+| [0910-smallest-range-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
@@ -648,6 +649,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/KBhavana5717/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0908-smallest-range-i](https://github.com/KBhavana5717/Leetcode/tree/master/0908-smallest-range-i) |
 | [0909-snakes-and-ladders](https://github.com/KBhavana5717/Leetcode/tree/master/0909-snakes-and-ladders) |
+| [0910-smallest-range-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1336,6 +1338,7 @@
 | [0870-advantage-shuffle](https://github.com/KBhavana5717/Leetcode/tree/master/0870-advantage-shuffle) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/KBhavana5717/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0910-smallest-range-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
@@ -1452,6 +1455,7 @@
 | [0893-groups-of-special-equivalent-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0899-orderly-queue](https://github.com/KBhavana5717/Leetcode/tree/master/0899-orderly-queue) |
 | [0905-sort-array-by-parity](https://github.com/KBhavana5717/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0910-smallest-range-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
