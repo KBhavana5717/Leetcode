@@ -790,6 +790,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
+| [0895-maximum-frequency-stack](https://github.com/KBhavana5717/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -1525,6 +1526,7 @@
 | [0853-car-fleet](https://github.com/KBhavana5717/Leetcode/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/KBhavana5717/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/KBhavana5717/Leetcode/tree/master/0880-decoded-string-at-index) |
+| [0895-maximum-frequency-stack](https://github.com/KBhavana5717/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
@@ -2311,6 +2313,7 @@
 | [0732-my-calendar-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0732-my-calendar-iii) |
 | [0745-prefix-and-suffix-search](https://github.com/KBhavana5717/Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0855-exam-room](https://github.com/KBhavana5717/Leetcode/tree/master/0855-exam-room) |
+| [0895-maximum-frequency-stack](https://github.com/KBhavana5717/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -2578,6 +2581,7 @@
 | [0732-my-calendar-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0732-my-calendar-iii) |
 | [0850-rectangle-area-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0850-rectangle-area-ii) |
 | [0855-exam-room](https://github.com/KBhavana5717/Leetcode/tree/master/0855-exam-room) |
+| [0895-maximum-frequency-stack](https://github.com/KBhavana5717/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Queue
 |  |
 | ------- |
