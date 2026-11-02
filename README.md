@@ -269,6 +269,7 @@
 | [0910-smallest-range-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0913-cat-and-mouse](https://github.com/KBhavana5717/Leetcode/tree/master/0913-cat-and-mouse) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KBhavana5717/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0920-number-of-music-playlists](https://github.com/KBhavana5717/Leetcode/tree/master/0920-number-of-music-playlists) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
@@ -1292,6 +1293,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/KBhavana5717/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0913-cat-and-mouse](https://github.com/KBhavana5717/Leetcode/tree/master/0913-cat-and-mouse) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0920-number-of-music-playlists](https://github.com/KBhavana5717/Leetcode/tree/master/0920-number-of-music-playlists) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
@@ -1850,6 +1852,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/KBhavana5717/Leetcode/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/KBhavana5717/Leetcode/tree/master/0458-poor-pigs) |
+| [0920-number-of-music-playlists](https://github.com/KBhavana5717/Leetcode/tree/master/0920-number-of-music-playlists) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Newton's Method
 |  |
