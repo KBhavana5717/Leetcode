@@ -670,6 +670,7 @@
 | [0927-three-equal-parts](https://github.com/KBhavana5717/Leetcode/tree/master/0927-three-equal-parts) |
 | [0928-minimize-malware-spread-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0928-minimize-malware-spread-ii) |
 | [0929-unique-email-addresses](https://github.com/KBhavana5717/Leetcode/tree/master/0929-unique-email-addresses) |
+| [0930-binary-subarrays-with-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -834,6 +835,7 @@
 | [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0928-minimize-malware-spread-ii) |
 | [0929-unique-email-addresses](https://github.com/KBhavana5717/Leetcode/tree/master/0929-unique-email-addresses) |
+| [0930-binary-subarrays-with-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -1063,6 +1065,7 @@
 | [0837-new-21-game](https://github.com/KBhavana5717/Leetcode/tree/master/0837-new-21-game) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/KBhavana5717/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/KBhavana5717/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -2640,6 +2643,7 @@
 | [0848-shifting-letters](https://github.com/KBhavana5717/Leetcode/tree/master/0848-shifting-letters) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/KBhavana5717/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0903-valid-permutations-for-di-sequence) |
+| [0930-binary-subarrays-with-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Quickselect
 |  |
 | ------- |
