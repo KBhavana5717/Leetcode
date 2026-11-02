@@ -633,6 +633,7 @@
 | [0890-find-and-replace-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0891-sum-of-subsequence-widths](https://github.com/KBhavana5717/Leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0892-surface-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -787,6 +788,7 @@
 | [0888-fair-candy-swap](https://github.com/KBhavana5717/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0890-find-and-replace-pattern) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -976,6 +978,7 @@
 | [0880-decoded-string-at-index](https://github.com/KBhavana5717/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/KBhavana5717/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/KBhavana5717/Leetcode/tree/master/0890-find-and-replace-pattern) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -1419,6 +1422,7 @@
 | [0881-boats-to-save-people](https://github.com/KBhavana5717/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/KBhavana5717/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0891-sum-of-subsequence-widths](https://github.com/KBhavana5717/Leetcode/tree/master/0891-sum-of-subsequence-widths) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/KBhavana5717/Leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
