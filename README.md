@@ -2076,6 +2076,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0919-complete-binary-tree-inserter](https://github.com/KBhavana5717/Leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
@@ -2153,6 +2154,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0919-complete-binary-tree-inserter](https://github.com/KBhavana5717/Leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -2260,6 +2262,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/KBhavana5717/Leetcode/tree/master/0886-possible-bipartition) |
 | [0909-snakes-and-ladders](https://github.com/KBhavana5717/Leetcode/tree/master/0909-snakes-and-ladders) |
+| [0919-complete-binary-tree-inserter](https://github.com/KBhavana5717/Leetcode/tree/master/0919-complete-binary-tree-inserter) |
 ## DP on Trees
 |  |
 | ------- |
@@ -2383,6 +2386,7 @@
 | [0900-rle-iterator](https://github.com/KBhavana5717/Leetcode/tree/master/0900-rle-iterator) |
 | [0901-online-stock-span](https://github.com/KBhavana5717/Leetcode/tree/master/0901-online-stock-span) |
 | [0911-online-election](https://github.com/KBhavana5717/Leetcode/tree/master/0911-online-election) |
+| [0919-complete-binary-tree-inserter](https://github.com/KBhavana5717/Leetcode/tree/master/0919-complete-binary-tree-inserter) |
 ## Doubly-Linked List
 |  |
 | ------- |
