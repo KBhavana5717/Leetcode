@@ -693,6 +693,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/KBhavana5717/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0952-largest-component-size-by-common-factor](https://github.com/KBhavana5717/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0953-verifying-an-alien-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
+| [0954-array-of-doubled-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -863,6 +864,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/KBhavana5717/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0952-largest-component-size-by-common-factor](https://github.com/KBhavana5717/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0953-verifying-an-alien-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
+| [0954-array-of-doubled-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -1427,6 +1429,7 @@
 | [0942-di-string-match](https://github.com/KBhavana5717/Leetcode/tree/master/0942-di-string-match) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KBhavana5717/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/KBhavana5717/Leetcode/tree/master/0948-bag-of-tokens) |
+| [0954-array-of-doubled-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
@@ -1552,6 +1555,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KBhavana5717/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/KBhavana5717/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KBhavana5717/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0954-array-of-doubled-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
