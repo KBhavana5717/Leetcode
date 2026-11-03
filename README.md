@@ -675,6 +675,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0932-beautiful-array](https://github.com/KBhavana5717/Leetcode/tree/master/0932-beautiful-array) |
+| [0934-shortest-bridge](https://github.com/KBhavana5717/Leetcode/tree/master/0934-shortest-bridge) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1824,6 +1825,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0909-snakes-and-ladders](https://github.com/KBhavana5717/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0934-shortest-bridge](https://github.com/KBhavana5717/Leetcode/tree/master/0934-shortest-bridge) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -2026,6 +2028,7 @@
 | [0897-increasing-order-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0928-minimize-malware-spread-ii) |
+| [0934-shortest-bridge](https://github.com/KBhavana5717/Leetcode/tree/master/0934-shortest-bridge) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -2305,6 +2308,7 @@
 | [0919-complete-binary-tree-inserter](https://github.com/KBhavana5717/Leetcode/tree/master/0919-complete-binary-tree-inserter) |
 | [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0928-minimize-malware-spread-ii) |
+| [0934-shortest-bridge](https://github.com/KBhavana5717/Leetcode/tree/master/0934-shortest-bridge) |
 ## DP on Trees
 |  |
 | ------- |
