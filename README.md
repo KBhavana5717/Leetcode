@@ -278,6 +278,7 @@
 | [0927-three-equal-parts](https://github.com/KBhavana5717/Leetcode/tree/master/0927-three-equal-parts) |
 | [0932-beautiful-array](https://github.com/KBhavana5717/Leetcode/tree/master/0932-beautiful-array) |
 | [0939-minimum-area-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0939-minimum-area-rectangle) |
+| [0952-largest-component-size-by-common-factor](https://github.com/KBhavana5717/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KBhavana5717/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -690,6 +691,7 @@
 | [0948-bag-of-tokens](https://github.com/KBhavana5717/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0949-largest-time-for-given-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KBhavana5717/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0952-largest-component-size-by-common-factor](https://github.com/KBhavana5717/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -858,6 +860,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0939-minimum-area-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/KBhavana5717/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0952-largest-component-size-by-common-factor](https://github.com/KBhavana5717/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -2400,6 +2403,7 @@
 | [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0928-minimize-malware-spread-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/KBhavana5717/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0952-largest-component-size-by-common-factor](https://github.com/KBhavana5717/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
@@ -2655,6 +2659,7 @@
 | [0858-mirror-reflection](https://github.com/KBhavana5717/Leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/KBhavana5717/Leetcode/tree/master/0866-prime-palindrome) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/KBhavana5717/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0952-largest-component-size-by-common-factor](https://github.com/KBhavana5717/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 ## Primality Test
 |  |
 | ------- |
@@ -3095,4 +3100,8 @@
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/KBhavana5717/Leetcode/tree/master/0943-find-the-shortest-superstring) |
+## Prime Factorization
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/KBhavana5717/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
