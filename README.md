@@ -275,6 +275,7 @@
 | [0920-number-of-music-playlists](https://github.com/KBhavana5717/Leetcode/tree/master/0920-number-of-music-playlists) |
 | [0927-three-equal-parts](https://github.com/KBhavana5717/Leetcode/tree/master/0927-three-equal-parts) |
 | [0932-beautiful-array](https://github.com/KBhavana5717/Leetcode/tree/master/0932-beautiful-array) |
+| [0939-minimum-area-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KBhavana5717/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -677,6 +678,7 @@
 | [0932-beautiful-array](https://github.com/KBhavana5717/Leetcode/tree/master/0932-beautiful-array) |
 | [0934-shortest-bridge](https://github.com/KBhavana5717/Leetcode/tree/master/0934-shortest-bridge) |
 | [0937-reorder-data-in-log-files](https://github.com/KBhavana5717/Leetcode/tree/master/0937-reorder-data-in-log-files) |
+| [0939-minimum-area-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -843,6 +845,7 @@
 | [0928-minimize-malware-spread-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0928-minimize-malware-spread-ii) |
 | [0929-unique-email-addresses](https://github.com/KBhavana5717/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0939-minimum-area-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -1517,6 +1520,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/KBhavana5717/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0937-reorder-data-in-log-files](https://github.com/KBhavana5717/Leetcode/tree/master/0937-reorder-data-in-log-files) |
+| [0939-minimum-area-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -2471,6 +2475,7 @@
 | [0858-mirror-reflection](https://github.com/KBhavana5717/Leetcode/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0939-minimum-area-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0939-minimum-area-rectangle) |
 ## Euclidean Algorithm
 |  |
 | ------- |
