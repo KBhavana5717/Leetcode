@@ -685,6 +685,7 @@
 | [0943-find-the-shortest-superstring](https://github.com/KBhavana5717/Leetcode/tree/master/0943-find-the-shortest-superstring) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KBhavana5717/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0946-validate-stack-sequences](https://github.com/KBhavana5717/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1642,6 +1643,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/KBhavana5717/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KBhavana5717/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0936-stamping-the-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0936-stamping-the-sequence) |
+| [0946-validate-stack-sequences](https://github.com/KBhavana5717/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
@@ -1900,6 +1902,7 @@
 | [0867-transpose-matrix](https://github.com/KBhavana5717/Leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/KBhavana5717/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0885-spiral-matrix-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0885-spiral-matrix-iii) |
+| [0946-validate-stack-sequences](https://github.com/KBhavana5717/Leetcode/tree/master/0946-validate-stack-sequences) |
 ## Algorithm X
 |  |
 | ------- |
