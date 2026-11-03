@@ -1,0 +1,22 @@
+class Solution:
+    def minDeletionSize(self, strs: list[str]) -> int:
+        n = len(strs)
+        m = len(strs[0])
+        res = 0
+        sorted_rows = [False] * (n - 1)
+        
+        for col in range(m):
+            delete = False
+            for row in range(n - 1):
+                if not sorted_rows[row] and strs[row][col] > strs[row + 1][col]:
+                    delete = True
+                    break
+            
+            if delete:
+                res += 1
+            else:
+                for row in range(n - 1):
+                    if strs[row][col] < strs[row + 1][col]:
+                        sorted_rows[row] = True
+                        
+        return res
