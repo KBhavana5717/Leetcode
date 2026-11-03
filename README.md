@@ -679,6 +679,7 @@
 | [0934-shortest-bridge](https://github.com/KBhavana5717/Leetcode/tree/master/0934-shortest-bridge) |
 | [0937-reorder-data-in-log-files](https://github.com/KBhavana5717/Leetcode/tree/master/0937-reorder-data-in-log-files) |
 | [0939-minimum-area-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0939-minimum-area-rectangle) |
+| [0941-valid-mountain-array](https://github.com/KBhavana5717/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
