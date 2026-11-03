@@ -1324,6 +1324,7 @@
 | [0920-number-of-music-playlists](https://github.com/KBhavana5717/Leetcode/tree/master/0920-number-of-music-playlists) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/KBhavana5717/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0935-knight-dialer](https://github.com/KBhavana5717/Leetcode/tree/master/0935-knight-dialer) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
