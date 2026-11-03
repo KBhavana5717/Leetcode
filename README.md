@@ -2036,6 +2036,7 @@
 | [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0928-minimize-malware-spread-ii) |
 | [0934-shortest-bridge](https://github.com/KBhavana5717/Leetcode/tree/master/0934-shortest-bridge) |
+| [0938-range-sum-of-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -2127,6 +2128,7 @@
 | [0894-all-possible-full-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/KBhavana5717/Leetcode/tree/master/0919-complete-binary-tree-inserter) |
+| [0938-range-sum-of-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
@@ -2205,6 +2207,7 @@
 | [0894-all-possible-full-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/KBhavana5717/Leetcode/tree/master/0919-complete-binary-tree-inserter) |
+| [0938-range-sum-of-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -2230,6 +2233,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/KBhavana5717/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KBhavana5717/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
