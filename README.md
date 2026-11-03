@@ -700,6 +700,7 @@
 | [0957-prison-cells-after-n-days](https://github.com/KBhavana5717/Leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0959-regions-cut-by-slashes](https://github.com/KBhavana5717/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/KBhavana5717/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -873,6 +874,7 @@
 | [0954-array-of-doubled-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0957-prison-cells-after-n-days](https://github.com/KBhavana5717/Leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0959-regions-cut-by-slashes](https://github.com/KBhavana5717/Leetcode/tree/master/0959-regions-cut-by-slashes) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/KBhavana5717/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -2623,6 +2625,7 @@
 | [0164-maximum-gap](https://github.com/KBhavana5717/Leetcode/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/KBhavana5717/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/KBhavana5717/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Counting
 |  |
 | ------- |
