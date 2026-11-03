@@ -2111,6 +2111,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/KBhavana5717/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0951-flip-equivalent-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0959-regions-cut-by-slashes](https://github.com/KBhavana5717/Leetcode/tree/master/0959-regions-cut-by-slashes) |
+| [0965-univalued-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -2205,6 +2206,7 @@
 | [0938-range-sum-of-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
@@ -2286,6 +2288,7 @@
 | [0938-range-sum-of-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/KBhavana5717/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -2400,6 +2403,7 @@
 | [0934-shortest-bridge](https://github.com/KBhavana5717/Leetcode/tree/master/0934-shortest-bridge) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0959-regions-cut-by-slashes](https://github.com/KBhavana5717/Leetcode/tree/master/0959-regions-cut-by-slashes) |
+| [0965-univalued-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
