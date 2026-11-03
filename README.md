@@ -286,6 +286,7 @@
 | [0964-least-operators-to-express-number](https://github.com/KBhavana5717/Leetcode/tree/master/0964-least-operators-to-express-number) |
 | [0970-powerful-integers](https://github.com/KBhavana5717/Leetcode/tree/master/0970-powerful-integers) |
 | [0972-equal-rational-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0972-equal-rational-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/KBhavana5717/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KBhavana5717/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -711,6 +712,7 @@
 | [0963-minimum-area-rectangle-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0966-vowel-spellchecker](https://github.com/KBhavana5717/Leetcode/tree/master/0966-vowel-spellchecker) |
 | [0969-pancake-sorting](https://github.com/KBhavana5717/Leetcode/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/KBhavana5717/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1237,6 +1239,7 @@
 | [0912-sort-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/KBhavana5717/Leetcode/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/KBhavana5717/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
@@ -1590,6 +1593,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/KBhavana5717/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0954-array-of-doubled-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0969-pancake-sorting](https://github.com/KBhavana5717/Leetcode/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/KBhavana5717/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -1751,6 +1755,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/KBhavana5717/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/KBhavana5717/Leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0912-sort-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/KBhavana5717/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
@@ -2583,6 +2588,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/KBhavana5717/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0939-minimum-area-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0963-minimum-area-rectangle-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/KBhavana5717/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -2791,6 +2797,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/KBhavana5717/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/KBhavana5717/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/KBhavana5717/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -3180,4 +3187,8 @@
 |  |
 | ------- |
 | [0959-regions-cut-by-slashes](https://github.com/KBhavana5717/Leetcode/tree/master/0959-regions-cut-by-slashes) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/KBhavana5717/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
