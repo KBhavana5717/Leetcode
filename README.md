@@ -1629,6 +1629,7 @@
 | [0816-ambiguous-coordinates](https://github.com/KBhavana5717/Leetcode/tree/master/0816-ambiguous-coordinates) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0949-largest-time-for-given-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0949-largest-time-for-given-digits) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/KBhavana5717/Leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 ## Stack
 |  |
 | ------- |
@@ -2407,6 +2408,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0959-regions-cut-by-slashes](https://github.com/KBhavana5717/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0965-univalued-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0965-univalued-binary-tree) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/KBhavana5717/Leetcode/tree/master/0967-numbers-with-same-consecutive-differences) |
 ## DP on Trees
 |  |
 | ------- |
