@@ -853,6 +853,7 @@
 | [0929-unique-email-addresses](https://github.com/KBhavana5717/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0939-minimum-area-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0939-minimum-area-rectangle) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/KBhavana5717/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -2060,6 +2061,7 @@
 | [0928-minimize-malware-spread-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0928-minimize-malware-spread-ii) |
 | [0934-shortest-bridge](https://github.com/KBhavana5717/Leetcode/tree/master/0934-shortest-bridge) |
 | [0938-range-sum-of-bst](https://github.com/KBhavana5717/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/KBhavana5717/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -2384,6 +2386,7 @@
 | [0886-possible-bipartition](https://github.com/KBhavana5717/Leetcode/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0928-minimize-malware-spread-ii) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/KBhavana5717/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
@@ -2414,6 +2417,7 @@
 | [0913-cat-and-mouse](https://github.com/KBhavana5717/Leetcode/tree/master/0913-cat-and-mouse) |
 | [0924-minimize-malware-spread](https://github.com/KBhavana5717/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0928-minimize-malware-spread-ii) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/KBhavana5717/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -3038,6 +3042,7 @@
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/KBhavana5717/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/KBhavana5717/Leetcode/tree/master/0886-possible-bipartition) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/KBhavana5717/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
