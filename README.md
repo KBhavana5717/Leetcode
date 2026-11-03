@@ -1048,6 +1048,7 @@
 | [0929-unique-email-addresses](https://github.com/KBhavana5717/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0936-stamping-the-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0936-stamping-the-sequence) |
 | [0937-reorder-data-in-log-files](https://github.com/KBhavana5717/Leetcode/tree/master/0937-reorder-data-in-log-files) |
+| [0940-distinct-subsequences-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -1331,6 +1332,7 @@
 | [0926-flip-string-to-monotone-increasing](https://github.com/KBhavana5717/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/KBhavana5717/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0935-knight-dialer](https://github.com/KBhavana5717/Leetcode/tree/master/0935-knight-dialer) |
+| [0940-distinct-subsequences-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Manacher
 |  |
