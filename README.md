@@ -688,6 +688,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KBhavana5717/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/KBhavana5717/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/KBhavana5717/Leetcode/tree/master/0948-bag-of-tokens) |
+| [0949-largest-time-for-given-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1062,6 +1063,7 @@
 | [0942-di-string-match](https://github.com/KBhavana5717/Leetcode/tree/master/0942-di-string-match) |
 | [0943-find-the-shortest-superstring](https://github.com/KBhavana5717/Leetcode/tree/master/0943-find-the-shortest-superstring) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0949-largest-time-for-given-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -1589,6 +1591,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/KBhavana5717/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0816-ambiguous-coordinates](https://github.com/KBhavana5717/Leetcode/tree/master/0816-ambiguous-coordinates) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0842-split-array-into-fibonacci-sequence) |
+| [0949-largest-time-for-given-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0949-largest-time-for-given-digits) |
 ## Stack
 |  |
 | ------- |
@@ -2635,6 +2638,7 @@
 | [0845-longest-mountain-in-array](https://github.com/KBhavana5717/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0869-reordered-power-of-2](https://github.com/KBhavana5717/Leetcode/tree/master/0869-reordered-power-of-2) |
 | [0906-super-palindromes](https://github.com/KBhavana5717/Leetcode/tree/master/0906-super-palindromes) |
+| [0949-largest-time-for-given-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KBhavana5717/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
