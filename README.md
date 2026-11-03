@@ -683,6 +683,7 @@
 | [0941-valid-mountain-array](https://github.com/KBhavana5717/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/KBhavana5717/Leetcode/tree/master/0942-di-string-match) |
 | [0943-find-the-shortest-superstring](https://github.com/KBhavana5717/Leetcode/tree/master/0943-find-the-shortest-superstring) |
+| [0944-delete-columns-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1055,6 +1056,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/KBhavana5717/Leetcode/tree/master/0942-di-string-match) |
 | [0943-find-the-shortest-superstring](https://github.com/KBhavana5717/Leetcode/tree/master/0943-find-the-shortest-superstring) |
+| [0944-delete-columns-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
@@ -2858,6 +2860,7 @@
 | [0354-russian-doll-envelopes](https://github.com/KBhavana5717/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KBhavana5717/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KBhavana5717/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0944-delete-columns-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 ## Sqrt Decomposition
 |  |
 | ------- |
