@@ -692,6 +692,7 @@
 | [0949-largest-time-for-given-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0949-largest-time-for-given-digits) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KBhavana5717/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0952-largest-component-size-by-common-factor](https://github.com/KBhavana5717/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+| [0953-verifying-an-alien-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -861,6 +862,7 @@
 | [0939-minimum-area-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/KBhavana5717/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0952-largest-component-size-by-common-factor](https://github.com/KBhavana5717/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+| [0953-verifying-an-alien-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -1068,6 +1070,7 @@
 | [0943-find-the-shortest-superstring](https://github.com/KBhavana5717/Leetcode/tree/master/0943-find-the-shortest-superstring) |
 | [0944-delete-columns-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0949-largest-time-for-given-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0949-largest-time-for-given-digits) |
+| [0953-verifying-an-alien-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
