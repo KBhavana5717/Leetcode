@@ -689,6 +689,7 @@
 | [0946-validate-stack-sequences](https://github.com/KBhavana5717/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/KBhavana5717/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0949-largest-time-for-given-digits](https://github.com/KBhavana5717/Leetcode/tree/master/0949-largest-time-for-given-digits) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/KBhavana5717/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1544,6 +1545,7 @@
 | [0939-minimum-area-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KBhavana5717/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/KBhavana5717/Leetcode/tree/master/0948-bag-of-tokens) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/KBhavana5717/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -1911,6 +1913,7 @@
 | [0874-walking-robot-simulation](https://github.com/KBhavana5717/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0885-spiral-matrix-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0946-validate-stack-sequences](https://github.com/KBhavana5717/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/KBhavana5717/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Algorithm X
 |  |
 | ------- |
@@ -2782,6 +2785,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/KBhavana5717/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/KBhavana5717/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [0936-stamping-the-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0936-stamping-the-sequence) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/KBhavana5717/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Binary Lifting
 |  |
 | ------- |
