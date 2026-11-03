@@ -285,6 +285,7 @@
 | [0963-minimum-area-rectangle-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0964-least-operators-to-express-number](https://github.com/KBhavana5717/Leetcode/tree/master/0964-least-operators-to-express-number) |
 | [0970-powerful-integers](https://github.com/KBhavana5717/Leetcode/tree/master/0970-powerful-integers) |
+| [0972-equal-rational-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0972-equal-rational-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KBhavana5717/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -1098,6 +1099,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/KBhavana5717/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0966-vowel-spellchecker](https://github.com/KBhavana5717/Leetcode/tree/master/0966-vowel-spellchecker) |
+| [0972-equal-rational-numbers](https://github.com/KBhavana5717/Leetcode/tree/master/0972-equal-rational-numbers) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KBhavana5717/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
