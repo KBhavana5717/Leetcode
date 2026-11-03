@@ -2124,6 +2124,7 @@
 | [0959-regions-cut-by-slashes](https://github.com/KBhavana5717/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0965-univalued-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/KBhavana5717/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -2220,6 +2221,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/KBhavana5717/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
@@ -2303,6 +2305,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/KBhavana5717/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/KBhavana5717/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/KBhavana5717/Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
