@@ -128,6 +128,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/KBhavana5717/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0925-long-pressed-name](https://github.com/KBhavana5717/Leetcode/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/KBhavana5717/Leetcode/tree/master/0942-di-string-match) |
+| [0948-bag-of-tokens](https://github.com/KBhavana5717/Leetcode/tree/master/0948-bag-of-tokens) |
 ## Math
 |  |
 | ------- |
@@ -686,6 +687,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/KBhavana5717/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KBhavana5717/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/KBhavana5717/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [0948-bag-of-tokens](https://github.com/KBhavana5717/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -1415,6 +1417,7 @@
 | [0936-stamping-the-sequence](https://github.com/KBhavana5717/Leetcode/tree/master/0936-stamping-the-sequence) |
 | [0942-di-string-match](https://github.com/KBhavana5717/Leetcode/tree/master/0942-di-string-match) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KBhavana5717/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0948-bag-of-tokens](https://github.com/KBhavana5717/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KBhavana5717/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
@@ -1538,6 +1541,7 @@
 | [0937-reorder-data-in-log-files](https://github.com/KBhavana5717/Leetcode/tree/master/0937-reorder-data-in-log-files) |
 | [0939-minimum-area-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KBhavana5717/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0948-bag-of-tokens](https://github.com/KBhavana5717/Leetcode/tree/master/0948-bag-of-tokens) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
