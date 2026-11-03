@@ -279,6 +279,7 @@
 | [0932-beautiful-array](https://github.com/KBhavana5717/Leetcode/tree/master/0932-beautiful-array) |
 | [0939-minimum-area-rectangle](https://github.com/KBhavana5717/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0952-largest-component-size-by-common-factor](https://github.com/KBhavana5717/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+| [0957-prison-cells-after-n-days](https://github.com/KBhavana5717/Leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KBhavana5717/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/KBhavana5717/Leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -696,6 +697,7 @@
 | [0954-array-of-doubled-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/KBhavana5717/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0956-tallest-billboard](https://github.com/KBhavana5717/Leetcode/tree/master/0956-tallest-billboard) |
+| [0957-prison-cells-after-n-days](https://github.com/KBhavana5717/Leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KBhavana5717/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KBhavana5717/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KBhavana5717/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -867,6 +869,7 @@
 | [0952-largest-component-size-by-common-factor](https://github.com/KBhavana5717/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0953-verifying-an-alien-dictionary](https://github.com/KBhavana5717/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0954-array-of-doubled-pairs](https://github.com/KBhavana5717/Leetcode/tree/master/0954-array-of-doubled-pairs) |
+| [0957-prison-cells-after-n-days](https://github.com/KBhavana5717/Leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KBhavana5717/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/KBhavana5717/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
@@ -1820,6 +1823,7 @@
 | [0868-binary-gap](https://github.com/KBhavana5717/Leetcode/tree/master/0868-binary-gap) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/KBhavana5717/Leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0943-find-the-shortest-superstring](https://github.com/KBhavana5717/Leetcode/tree/master/0943-find-the-shortest-superstring) |
+| [0957-prison-cells-after-n-days](https://github.com/KBhavana5717/Leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/KBhavana5717/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Matrix
 |  |
@@ -2459,6 +2463,7 @@
 | [0202-happy-number](https://github.com/KBhavana5717/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/KBhavana5717/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/KBhavana5717/Leetcode/tree/master/0457-circular-array-loop) |
+| [0957-prison-cells-after-n-days](https://github.com/KBhavana5717/Leetcode/tree/master/0957-prison-cells-after-n-days) |
 ## Design
 |  |
 | ------- |
